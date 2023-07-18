@@ -1,3 +1,6 @@
 {
-  "ul-theme-settings@@ul-floating-ribbon": true
+  "ul-theme-settings@@ul-floating-ribbon": true,
+  "ul-theme-settings@@ul-radius": "var(--radius-l)",
+  "ul-theme-settings@@ul-bar": false,
+  "ul-theme-settings@@ul-work-border": true
 }
