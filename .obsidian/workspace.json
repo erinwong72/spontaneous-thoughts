@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63e2f28703957361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AlphaFold.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0f4fa5e34a8825f2",
             "type": "leaf",
             "state": {
@@ -30,9 +18,63 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c590cea1903c8fc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charge-Coupled Devices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6490d52c2d5fe87a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energy-band structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce25543dd14dbfe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attention gate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37111cf6e40212c5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/2207.10411.pdf"
+              }
+            }
+          },
+          {
+            "id": "4f68b69559327f49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -99,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cosmic Ray Rejection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cosmic Ray Rejection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cosmic Ray Rejection.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,9 +198,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f4fa5e34a8825f2",
+  "active": "4f68b69559327f49",
   "lastOpenFiles": [
     "Cosmic Ray Rejection.md",
+    "Charge-Coupled Devices.md",
+    "Energy-band structure.md",
+    "Attention gate.md",
+    "attachments/2207.10411.pdf",
+    "attachments/Pasted image 20230718095727.png",
     "AlphaFold.md",
     "Local Distance Difference Test.md",
     "Template Modeling score.md",
