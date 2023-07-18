@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f4fa5e34a8825f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmic Ray Rejection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AlphaFold.md",
+                "file": "Cosmic Ray Rejection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AlphaFold.md",
+                "file": "Cosmic Ray Rejection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AlphaFold.md"
+                "file": "Cosmic Ray Rejection.md"
               }
             }
           }
@@ -147,12 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63e2f28703957361",
+  "active": "0f4fa5e34a8825f2",
   "lastOpenFiles": [
+    "Cosmic Ray Rejection.md",
+    "AlphaFold.md",
     "Local Distance Difference Test.md",
     "Template Modeling score.md",
     "Root mean square deviation.md",
-    "AlphaFold.md",
     "attachments/s41586-021-03819-2.pdf",
     "attachments",
     "2023-07-17.md",
