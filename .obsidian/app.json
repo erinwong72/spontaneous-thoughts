@@ -1,1 +1,5 @@
-{}
+{
+  "attachmentFolderPath": "attachments",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
+}
