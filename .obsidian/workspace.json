@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "80bf6b90e7f89b3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/MinHash fingerprint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c47c030fd4d5ee26",
             "type": "leaf",
             "state": {
@@ -80,27 +68,19 @@
             }
           },
           {
-            "id": "7c80a12262f28ea0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "57eef88b1e687597",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/AlphaFold.md",
+                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -166,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/AlphaFold.md",
+                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/AlphaFold.md",
+                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/AlphaFold.md"
+                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md"
               }
             }
           }
@@ -228,8 +209,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed61301d7f969333",
+  "active": "57eef88b1e687597",
   "lastOpenFiles": [
+    "thoughts/AlphaFold.md",
+    "thoughts/Lysozyme in water GROMACS tutorial.md",
+    "thoughts/AlphaFold Journal Club Speaker Notes.md",
+    "thoughts/MinHash fingerprint.md",
+    "thoughts/Parrinello-Rahman barostat.md",
     "thoughts/Gyration tensor.md",
     "thoughts",
     "thoughts/Ellipsoid Interactions (Potentials).md",
@@ -237,16 +223,11 @@
     "thoughts/Fibrinogen interaction with PLA.md",
     "attachments/Pasted image 20230720180058.png",
     "attachments/Pasted image 20230720180014.png",
-    "thoughts/Lysozyme in water GROMACS tutorial.md",
-    "thoughts/AlphaFold.md",
-    "thoughts/AlphaFold Journal Club Speaker Notes.md",
-    "thoughts/MinHash fingerprint.md",
     "thoughts/Elliptic contact function.md",
     "attachments/Pasted image 20230720175212.png",
     "attachments/Pasted image 20230720175201.png",
     "attachments/Pasted image 20230720175137.png",
     "thoughts/Velocity rescaling thermostat.md",
-    "thoughts/Parrinello-Rahman barostat.md",
     "thoughts/pb2gmx function.md",
     "thoughts/grompp module.md",
     "thoughts/Minimum image convention.md",
