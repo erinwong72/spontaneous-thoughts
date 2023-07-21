@@ -1,0 +1,3 @@
+# Velocity rescaling thermostat
+
+This is important for maintaining the system at a desired temperature for the whole simulation. Periodically, the instantaneous temperature will be calculated from the velocities and then compared with the desired temperature. Velocities will be rescaled based on the difference, but the relative velocities are preserved so that overall molecular dynamics isn’t really affected.

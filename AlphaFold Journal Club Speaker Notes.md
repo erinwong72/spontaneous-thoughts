@@ -1,0 +1,62 @@
+# AlphaFold 2 Presentation Speaker Notes
+
+- Model Architecture
+    - Top figure from their website, more simple
+    - Bottom figure from the paper, more detailed
+- Inputs to Evoformer
+    - MSA
+        - Multiple sequence alignment: 2+ biologically related sequences (AA, DNA, etc.) aligned in a way that maximizes the overall score (calculated via values assigned to matches, mismatches, and gaps)
+        1. Scoring: MSA algorithms use scoring schemes to assign values to the matches, mismatches, and gaps in the alignment. These scores are based on substitution matrices or similarity matrices that reflect the likelihood of observing certain substitutions between amino acids or nucleotides.
+        2. Alignment: The algorithm constructs a matrix representing all possible pairwise comparisons between the sequences. Then, it calculates the optimal alignment by considering the scores of matches, mismatches, and gaps to find the alignment that maximizes the overall score.
+        3. Conserved Regions: Conserved regions, where the sequences share similar residues, become apparent in the final MSA. These regions often indicate functional or structural importance and can be used to identify critical residues or domains in proteins.
+    - The pair representation includes both direct pairwise interactions and the distance between amino acids. It encodes information about the physical distance between amino acids in the protein sequence and the potential energy arising from their interactions.
+- Evoformer
+    - Essentially allows for incorporation of both evolutionary and structural info when folding the protein
+    - Axial attention on MSA representation allows for relating sequence to sequence for each residue and residue to residue for each sequence
+        - Row update through attention is influenced by pair representations
+    - Outer product mean: updates pair representation with MSA by taking essentially outer product of vectors from the two columns of that index in the pair representation (say i and j) and setting that to the new value
+    - Without considering for triangle inequality, could generate protein structures that are not geometrically possible
+    - Triangle multiplicative update: updates pair representation
+        - Each edge is updated by the other two edges of all the “triangles” it’s involved in
+        - Two symmetrical versions: using outgoing edges and incoming edges (here we’re focusing on edge ij and updating that edge)
+    - Triangle self attention: updates pair representation following triangle multiplicative update
+        - Two symmetric versions: starting node and ending node
+            - Starting: updates edge with values from all edges with same starting node, but whether it’s actually updated depends on the attention mechanism:
+                - Also includes information from the third edge (doesn’t share the same starting node)
+            - Ending is basically the same thing but uses ending node instead
+- Structural Module
+    - Residues rotating and translating independently ignores fundamental constraints in nature but it works and avoids the complexities of not ignoring it
+        - There is minor loss function based on violation of structure
+        - Relaxation via Amber force field to minimize energy of the molecule and prevent two atoms from potentially occupying the same space or being physically too close
+    - Starts with first line of MSA representation, or the original sequence
+    - Two stages of iteration:
+        - Invariant point attention to update sequence representation, doesn’t touch 3D space
+            - Adjusts representations in the local view (residue level) so that it’s invariant to rotations and translations in the global view
+                - Residues in local view have query, values, and keys that are projected to global frame
+            - Pair representations affects attention operations
+        - Equivariant update using updated sequence representation, alters 3D space, updates backbone
+    - Shallow neural net takes representations of each residue and predicts torsion angles in order to output the coordinates of each atom in the protein
+    - FAPE compares atom coordinates for predicted with ground truth, but changes alignment for every local frame, focuses on local accuracy over global accuracy
+        - By prioritizing local accuracy, global accuracy will follow if the local one is high
+    - Other loss functions govern the other parts of the model like:
+        - Pair representation in the Evoformer
+        - Random masking of the input MSA and forcing the model to fill in based on output MSA
+        - Confidence loss where model tries to gauge how well it thinks it’s doing on folding a protein
+- Iterative Refinement
+    - Recycling allows for deepening of the network and processing of multiple versions of inputs while conserving efficiency
+- Scores/Metrics
+    - RMSD: The root mean square of the difference in positions of the atoms in a protein when the two are superimposed on top of one another.
+    - LDDT: Another way of quantifying protein structure similarity, but not just using superposition like most other similarity scores do.
+        - **Why?** In large proteins with many domains, superposition scores don't account for the fact that they may be in different orientations, so individual domains have to be compared. But then this leads to the fact that comparison of such individual domains means relying on the accuracy of non alpha carbons, which actually make up most of the molecule, so probably not the best method.
+        - **How?** It compares inter-atomic distances instead! So everything is relative and no processing needs to be done when comparing multi-domain structures.
+    - Aka TM-score, a marker of protein structure similarity. It ranges from 0 to 1 with scores < 0.20 being unrelated and > 0.50 to be roughly the same fold.
+        - Although rmsd is more often used, it is more accurate at comparing full-chain/length structures, specifically.
+    - Global distance test: similarity at different distance thresholds and calculates percentage of residues in predicts that fall within a certain distance threshold of the corresponding ones in the ground truth
+- Results
+    - (a) AlphaFold predictions were accurate (using Root mean square deviation) down to around the size of a carbon atom, when comparing all atoms (median of 1.5 angstroms vs 1.4 angstroms). They were also much more accurate than the previous best method (3.5 angstroms). For the backbone atoms, the median was 0.96 angstroms, compared to the previous best of 2.8 angstroms. The model still retains this accuracy even as the proteins predicted on become larger and longer, accounting for domain packing (simply that hydrophobic domains will be pushed towards the center and hydrophilic ones less so).
+    - (b) Strong correlation between accuracy in backbone (lDDT c alpha) and side chain accuracy
+        - Rotamer = correct if predicted torsion angle is within 40 degrees of real thing
+    - The model continued to perform well on novel Protein Data Bank structures (not seen by the model).
+        - (c) The confidence measure (predicted Local Distance Difference Test) was able to serve as a reliable proxy of the actual accuracy of the prediction itself.
+            - Confidence vs true accuracy
+        - (d) Template Modeling score was similarly also accurately predicted

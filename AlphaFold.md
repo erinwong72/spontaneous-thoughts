@@ -2,6 +2,8 @@
 
 [[s41586-021-03819-2.pdf|Highly Accurate Protein Structure Prediction with AlphaFold (paper)]]
 
+[[AlphaFold Journal Club Speaker Notes]]
+
 ## Background
 Two methods in predicting 3D structures from protein sequence:
 1. Physical interactions (aka function)

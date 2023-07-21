@@ -13,60 +13,94 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AlphaFold.md",
+                "file": "grompp module.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "df5f178475703246",
+            "id": "4902e8533a22b0b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template Modeling score.md",
+                "file": "pb2gmx function.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e2cb5dc7cbedb8c2",
+            "id": "9ecfcc4d413185f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Local Distance Difference Test.md",
+                "file": "Lysozyme in water GROMACS tutorial.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "01b98e87aff94aa8",
+            "id": "6006a8410cf5bd74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root mean square deviation.md",
+                "file": "AlphaFold Journal Club Speaker Notes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80bf6b90e7f89b3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MinHash fingerprint.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bec0c55206e1a0cf",
+            "id": "c47c030fd4d5ee26",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "attachments/s41586-021-03819-2.pdf"
+                "file": "Parrinello-Rahman barostat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c80a12262f28ea0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "57eef88b1e687597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gyration tensor.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -116,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -133,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Root mean square deviation.md",
+                "file": "Gyration tensor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Root mean square deviation.md",
+                "file": "Gyration tensor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Root mean square deviation.md"
+                "file": "Gyration tensor.md"
               }
             }
           }
@@ -194,31 +227,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01b98e87aff94aa8",
+  "active": "57eef88b1e687597",
   "lastOpenFiles": [
-    "Local Distance Difference Test.md",
-    "Template Modeling score.md",
+    "Ellipsoid Interactions (Potentials).md",
+    "attachments/Pasted image 20230720180236.png",
+    "Fibrinogen interaction with PLA.md",
+    "attachments/Pasted image 20230720180058.png",
+    "attachments/Pasted image 20230720180014.png",
+    "Lysozyme in water GROMACS tutorial.md",
     "AlphaFold.md",
-    "Transiting Exoplanet Survey Satellite.md",
-    "Root mean square deviation.md",
-    "attachments/s41586-021-03819-2.pdf",
-    "Threshold-Crossing Events.md",
-    "AlphaFlod.md",
-    "Questions to ask.md",
-    "Deep Learning Classification of Signals.md",
-    "attachments/Yu_2019_AJ_158_25.pdf",
-    "Cosmic Ray Rejection.md",
+    "AlphaFold Journal Club Speaker Notes.md",
+    "MinHash fingerprint.md",
+    "Gyration tensor.md",
+    "Elliptic contact function.md",
+    "attachments/Pasted image 20230720175212.png",
+    "attachments/Pasted image 20230720175201.png",
+    "attachments/Pasted image 20230720175137.png",
+    "Velocity rescaling thermostat.md",
+    "Parrinello-Rahman barostat.md",
+    "pb2gmx function.md",
+    "grompp module.md",
+    "Minimum image convention.md",
+    "Periodic boundary conditions.md",
+    "Force field.md",
+    "templates/atomic note.md",
     "Up-the-ramp readout scheme.md",
+    "templates",
+    "Template Modeling score.md",
+    "Local Distance Difference Test.md",
+    "Attention gate.md",
+    "Charge-Coupled Devices.md",
+    "Cosmic Ray Rejection.md",
+    "Deep Learning Classification of Signals.md",
+    "Energy-band structure.md",
     "JWST pipeline for cosmic ray rejection.md",
+    "attachments/s41586-021-03819-2.pdf",
+    "attachments/Yu_2019_AJ_158_25.pdf",
     "attachments/Screenshot 2023-07-18 at 12.41.08 PM.png",
     "attachments/Pasted image 20230718123424.png",
     "attachments/2207.10411.pdf",
-    "Charge-Coupled Devices.md",
-    "Energy-band structure.md",
-    "Attention gate.md",
     "attachments/Pasted image 20230718095727.png",
-    "attachments",
-    "2023-07-17.md",
-    "test for commit.md"
+    "attachments"
   ]
 }
