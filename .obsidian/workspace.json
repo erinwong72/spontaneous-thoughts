@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Lysozyme in water GROMACS tutorial.md",
+                "file": "thoughts/Ellipsoid Interactions (Potentials).md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
+                "file": "thoughts/Ellipsoid Interactions (Potentials).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
+                "file": "thoughts/Ellipsoid Interactions (Potentials).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md"
+                "file": "thoughts/Ellipsoid Interactions (Potentials).md"
               }
             }
           }
@@ -209,11 +209,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57eef88b1e687597",
+  "active": "9ecfcc4d413185f4",
   "lastOpenFiles": [
-    "thoughts/AlphaFold.md",
+    "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
     "thoughts/Lysozyme in water GROMACS tutorial.md",
+    "thoughts/grompp module.md",
     "thoughts/AlphaFold Journal Club Speaker Notes.md",
+    "thoughts/AlphaFold.md",
     "thoughts/MinHash fingerprint.md",
     "thoughts/Parrinello-Rahman barostat.md",
     "thoughts/Gyration tensor.md",
@@ -229,7 +231,6 @@
     "attachments/Pasted image 20230720175137.png",
     "thoughts/Velocity rescaling thermostat.md",
     "thoughts/pb2gmx function.md",
-    "thoughts/grompp module.md",
     "thoughts/Minimum image convention.md",
     "thoughts/Periodic boundary conditions.md",
     "thoughts/Force field.md",

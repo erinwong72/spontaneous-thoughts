@@ -1,6 +1,8 @@
 # Ellipsoid Interactions with Potentials
 #project 
 
+## Description
+
 Find a way to use data and all atom simulations to learn a potential for ellipsoid interactions, like the Oliver Diamond one.
 - Feed position and orientation of ellipsoids and get a number = potential between the two, compare to ground truth
 - Trying a regular feed forward neural net → loss doesn’t go all the way to zero, bounces a bit
@@ -15,3 +17,9 @@ Refer to Giorgos’ presentation:
 	- Should not change it bc averages out
 		- Create big dataframe
 - Make sure ground truth training is correct and valid
+
+## Literature
+
+[[(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf]]
+- Created model for ellipsoid potentials using a coarse-grained representation at various levels of detail by comparing/running an all-atom force field for each ellipsoid
+- Control level of detail (LoD) by designating how many ellipsoids to use (i.e. one ellipsoid for every atom or one ellipsoid for the whole molecule)
