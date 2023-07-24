@@ -8,99 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe0c4853010250e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grompp module.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4902e8533a22b0b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pb2gmx function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ecfcc4d413185f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lysozyme in water GROMACS tutorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6006a8410cf5bd74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AlphaFold Journal Club Speaker Notes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80bf6b90e7f89b3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MinHash fingerprint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c47c030fd4d5ee26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parrinello-Rahman barostat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7c80a12262f28ea0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "57eef88b1e687597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gyration tensor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gyration tensor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gyration tensor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gyration tensor.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -227,40 +138,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57eef88b1e687597",
+  "active": "7c80a12262f28ea0",
   "lastOpenFiles": [
-    "Ellipsoid Interactions (Potentials).md",
+    "conflict-files-obsidian-git.md",
+    "thoughts/AlphaFold Journal Club Speaker Notes.md",
+    "thoughts/AlphaFold.md",
+    "pb2gmx function.md",
+    "thoughts/pb2gmx function.md",
+    "thoughts/grompp module.md",
+    "thoughts/Velocity rescaling thermostat.md",
+    "thoughts/Up-the-ramp readout scheme.md",
+    "thoughts/Transiting Exoplanet Survey Satellite.md",
+    "thoughts/Threshold-Crossing Events.md",
+    "thoughts/Template Modeling score.md",
+    "thoughts/Root mean square deviation.md",
+    "thoughts/Questions to ask.md",
+    "thoughts/Local Distance Difference Test.md",
+    "thoughts/Periodic boundary conditions.md",
+    "thoughts/Parrinello-Rahman barostat.md",
+    "thoughts/MinHash fingerprint.md",
+    "thoughts/Minimum image convention.md",
+    "thoughts/Lysozyme in water GROMACS tutorial.md",
+    "thoughts/JWST pipeline for cosmic ray rejection.md",
+    "thoughts/Gyration tensor.md",
+    "thoughts/Force field.md",
+    "thoughts/Elliptic contact function.md",
+    "thoughts/Fibrinogen interaction with PLA.md",
+    "thoughts/Energy-band structure.md",
+    "thoughts/Cosmic Ray Rejection.md",
+    "thoughts",
     "attachments/Pasted image 20230720180236.png",
-    "Fibrinogen interaction with PLA.md",
     "attachments/Pasted image 20230720180058.png",
     "attachments/Pasted image 20230720180014.png",
-    "Lysozyme in water GROMACS tutorial.md",
-    "AlphaFold.md",
-    "AlphaFold Journal Club Speaker Notes.md",
-    "MinHash fingerprint.md",
-    "Gyration tensor.md",
-    "Elliptic contact function.md",
     "attachments/Pasted image 20230720175212.png",
     "attachments/Pasted image 20230720175201.png",
     "attachments/Pasted image 20230720175137.png",
-    "Velocity rescaling thermostat.md",
-    "Parrinello-Rahman barostat.md",
-    "pb2gmx function.md",
-    "grompp module.md",
-    "Minimum image convention.md",
-    "Periodic boundary conditions.md",
-    "Force field.md",
-    "templates/atomic note.md",
-    "Up-the-ramp readout scheme.md",
     "templates",
-    "Template Modeling score.md",
-    "Local Distance Difference Test.md",
-    "Attention gate.md",
-    "Charge-Coupled Devices.md",
-    "Cosmic Ray Rejection.md",
-    "Deep Learning Classification of Signals.md",
-    "Energy-band structure.md",
-    "JWST pipeline for cosmic ray rejection.md",
     "attachments/s41586-021-03819-2.pdf",
     "attachments/Yu_2019_AJ_158_25.pdf",
     "attachments/Screenshot 2023-07-18 at 12.41.08 PM.png",

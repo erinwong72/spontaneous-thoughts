@@ -25,5 +25,5 @@ Using deep learning techniques (computer vision), **image segmentation** can be 
 
 The cascade-style framework of the current models waste resources and parameters extracting similar features over and over again.
 
-**How can [[attention gate|attention gates]] be used to address these problems?**
+**How can [[Attention gate|attention gates]] be used to address these problems?**
 They can suppress activation functions in useless parts of the image and be automatically learned along with the convolutions when the model is trained.

@@ -1,5 +1,6 @@
 # AlphaFold 2 Presentation Speaker Notes
 
+- CASP = critical assessment of structure prediction
 - Model Architecture
     - Top figure from their website, more simple
     - Bottom figure from the paper, more detailed
