@@ -11,8 +11,12 @@
             "id": "7c80a12262f28ea0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md"
+              }
             }
           }
         ]
@@ -143,6 +151,7 @@
     "conflict-files-obsidian-git.md",
     "thoughts/AlphaFold Journal Club Speaker Notes.md",
     "thoughts/AlphaFold.md",
+    "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
     "pb2gmx function.md",
     "thoughts/pb2gmx function.md",
     "thoughts/grompp module.md",
@@ -165,7 +174,6 @@
     "thoughts/Elliptic contact function.md",
     "thoughts/Fibrinogen interaction with PLA.md",
     "thoughts/Energy-band structure.md",
-    "thoughts/Cosmic Ray Rejection.md",
     "thoughts",
     "attachments/Pasted image 20230720180236.png",
     "attachments/Pasted image 20230720180058.png",

@@ -1,4 +1,10 @@
 {
+<<<<<<< HEAD
   "theme": "moonstone",
   "accentColor": ""
+=======
+  "accentColor": "",
+  "cssTheme": "",
+  "theme": "moonstone"
+>>>>>>> origin/main
 }
