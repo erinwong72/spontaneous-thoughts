@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f0fc6087dc334a82",
+        "id": "d81878282b3af65d",
         "type": "tabs",
         "children": [
           {
-            "id": "646c3aab3d73a633",
+            "id": "7be62bea01f44a89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "logs/lab/2023-08-26 Lab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "677543d3eee1c731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/AlphaFold.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a30d65018b0af158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/Installing tensorflow with gpu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "294d61761a4fc258",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Newton's laws.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/AlphaFold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/AlphaFold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "thoughts/AlphaFold.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,11 +153,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ed61301d7f969333",
+  "active": "7be62bea01f44a89",
   "lastOpenFiles": [
+    "thoughts/AlphaFold.md",
+    "thoughts/Newton's laws.md",
+    "technical/Installing tensorflow with gpu.md",
+    "logs/lab/2023-08-26 Lab.md",
     "thoughts/AlphaFold Journal Club Speaker Notes.md",
     "technical/Writing an equilibration config file.md",
     "technical/grompp module.md",
@@ -214,21 +174,17 @@
     "logs/2023-08-25.md",
     "logs/2023-08-26.md",
     "logs/2023-08-29.md",
-    "logs/lab/2023-08-26 Lab.md",
     "logs/lab/2023-08-29 Lab.md",
     "logs/lab/2023-07-26 Lab.md",
     "logs/lab/2023-08-25 Lab.md",
     "logs/lab/2023-08-24 Lab.md",
     "logs/lab/2023-08-18 Lab.md",
     "logs/lab/2023-08-14 Lab.md",
-    "technical/Installing tensorflow with gpu.md",
-    "thoughts/Newton's laws.md",
     "thoughts/Intermolecular forces.md",
     "thoughts/Viscosity.md",
     "technical/Writing an energy minimization config file.md",
     "technical/Using jupyter notebooks on HPC.md",
     "technical/Github branch navigation.md",
-    "thoughts/Dipole-dipole interaction.md",
     "attachments/Screenshot 2023-08-26 at 4.22.36 PM.png",
     "attachments/Screenshot 2023-08-26 at 1.07.41 PM.png",
     "attachments/Screenshot 2023-08-26 at 1.06.19 PM.png",
