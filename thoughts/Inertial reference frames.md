@@ -1,0 +1,4 @@
+# Inertial reference frames
+**Inertial reference frames** are those where Newton’s laws can be applied and any acceleration measured in that frame by the observers will be the same. These frames can be found by noticing whether or not the acceleration of the object is **zero** when the net force (observed) on the object is zero. This can be due to either having **constant velocity** or being at rest.
+
+Another way to think about it is that there is a “master” inertial reference frame that is at rest. All other inertial reference frames are “parallel” to it—not at rest, but moving in a straight line at constant velocity, with respect to the master reference frame.

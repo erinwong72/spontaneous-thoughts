@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "54fd08a69da7f3d6",
+        "id": "f0fc6087dc334a82",
         "type": "tabs",
         "children": [
           {
-            "id": "7c80a12262f28ea0",
+            "id": "646c3aab3d73a633",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
+                "file": "logs/lab/2023-08-26 Lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "677543d3eee1c731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/AlphaFold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a30d65018b0af158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technical/Installing tensorflow with gpu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "294d61761a4fc258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Newton's laws.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
+                "file": "thoughts/AlphaFold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
+                "file": "thoughts/AlphaFold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +162,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md"
+                "file": "thoughts/AlphaFold.md"
               }
             }
+          },
+          {
+            "id": "9f775548da2d658e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "641708b81f248a44",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -143,51 +197,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7c80a12262f28ea0",
+  "active": "ed61301d7f969333",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "thoughts/AlphaFold Journal Club Speaker Notes.md",
-    "thoughts/AlphaFold.md",
+    "technical/Writing an equilibration config file.md",
+    "technical/grompp module.md",
+    "technical/GROMACS on Seawulf.md",
+    "technical/charmm36 mdp parameters.md",
+    "logs/2023-08-22.md",
+    "logs/2023-08-23.md",
+    "logs/2023-08-24.md",
+    "logs/2023-08-25.md",
+    "logs/2023-08-26.md",
+    "logs/2023-08-29.md",
+    "logs/lab/2023-08-26 Lab.md",
+    "logs/lab/2023-08-29 Lab.md",
+    "logs/lab/2023-07-26 Lab.md",
+    "logs/lab/2023-08-25 Lab.md",
+    "logs/lab/2023-08-24 Lab.md",
+    "logs/lab/2023-08-18 Lab.md",
+    "logs/lab/2023-08-14 Lab.md",
+    "technical/Installing tensorflow with gpu.md",
+    "thoughts/Newton's laws.md",
+    "thoughts/Intermolecular forces.md",
+    "thoughts/Viscosity.md",
+    "technical/Writing an energy minimization config file.md",
+    "technical/Using jupyter notebooks on HPC.md",
+    "technical/Github branch navigation.md",
+    "thoughts/Dipole-dipole interaction.md",
+    "attachments/Screenshot 2023-08-26 at 4.22.36 PM.png",
+    "attachments/Screenshot 2023-08-26 at 1.07.41 PM.png",
+    "attachments/Screenshot 2023-08-26 at 1.06.19 PM.png",
+    "attachments/Screenshot 2023-08-26 at 12.49.52 PM.png",
+    "attachments/Pasted image 20230826114616.png",
+    "Fixing missing atoms",
+    "attachments/Screenshot 2023-08-26 at 10.25.32 AM.png",
+    "attachments/Pasted image 20230825163815.png",
+    "attachments/Screenshot 2023-08-25 at 4.28.52 PM.png",
+    "attachments/Screenshot 2023-08-25 at 4.18.29 PM.png",
+    "attachments/Screenshot 2023-08-25 at 12.29.05 PM.png",
+    "attachments/IMG_9555.heic",
+    "technical",
+    "untitled folder",
+    "logs/Untitled",
+    "logs/lab",
+    "lab",
+    "logs",
     "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
-    "pb2gmx function.md",
-    "thoughts/pb2gmx function.md",
-    "thoughts/grompp module.md",
-    "thoughts/Velocity rescaling thermostat.md",
-    "thoughts/Up-the-ramp readout scheme.md",
-    "thoughts/Transiting Exoplanet Survey Satellite.md",
-    "thoughts/Threshold-Crossing Events.md",
-    "thoughts/Template Modeling score.md",
-    "thoughts/Root mean square deviation.md",
-    "thoughts/Questions to ask.md",
-    "thoughts/Local Distance Difference Test.md",
-    "thoughts/Periodic boundary conditions.md",
-    "thoughts/Parrinello-Rahman barostat.md",
-    "thoughts/MinHash fingerprint.md",
-    "thoughts/Minimum image convention.md",
-    "thoughts/Lysozyme in water GROMACS tutorial.md",
-    "thoughts/JWST pipeline for cosmic ray rejection.md",
-    "thoughts/Gyration tensor.md",
-    "thoughts/Force field.md",
-    "thoughts/Elliptic contact function.md",
-    "thoughts/Fibrinogen interaction with PLA.md",
-    "thoughts/Energy-band structure.md",
-    "thoughts",
-    "attachments/Pasted image 20230720180236.png",
-    "attachments/Pasted image 20230720180058.png",
-    "attachments/Pasted image 20230720180014.png",
-    "attachments/Pasted image 20230720175212.png",
-    "attachments/Pasted image 20230720175201.png",
-    "attachments/Pasted image 20230720175137.png",
-    "templates",
-    "attachments/s41586-021-03819-2.pdf",
-    "attachments/Yu_2019_AJ_158_25.pdf",
-    "attachments/Screenshot 2023-07-18 at 12.41.08 PM.png",
-    "attachments/Pasted image 20230718123424.png",
-    "attachments/2207.10411.pdf",
-    "attachments/Pasted image 20230718095727.png",
-    "attachments"
+    "thoughts"
   ]
 }

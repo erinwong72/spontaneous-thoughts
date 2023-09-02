@@ -1,5 +1,15 @@
 {
   "attachmentFolderPath": "attachments",
   "showInlineTitle": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "thoughts",
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 84
+  }
 }

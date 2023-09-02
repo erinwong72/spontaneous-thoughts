@@ -1,0 +1,3 @@
+« [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] » 
+# Thoughts for the day...
+[[<% tp.date.now() %> Lab]]

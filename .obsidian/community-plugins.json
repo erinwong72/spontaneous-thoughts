@@ -1,7 +1,16 @@
 [
-  "obsidian-git",
   "obsidian-style-settings",
   "obsidian-auto-link-title",
   "obsidian-minimal-settings",
-  "obsidian-hider"
+  "obsidian-hider",
+  "templater-obsidian",
+  "obsidian-smart-typography",
+  "emoji-magic",
+  "obsidian-checklist-plugin",
+  "mousewheel-image-zoom",
+  "obsidian-pandoc",
+  "obsidian-enhancing-export",
+  "highlightr-plugin",
+  "time-block-planner",
+  "obsidian-git"
 ]

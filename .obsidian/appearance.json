@@ -1,10 +1,12 @@
 {
-<<<<<<< HEAD
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#579fcb",
   "theme": "moonstone",
-  "accentColor": ""
-=======
-  "accentColor": "",
-  "cssTheme": "",
-  "theme": "moonstone"
->>>>>>> origin/main
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "textFontFamily": "Karla",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }
