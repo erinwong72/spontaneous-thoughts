@@ -8,27 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "038bec10d9691da0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f3d75a44ccfa1456",
+            "id": "eb6f4a27e628b850",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
+                "file": "thoughts/Energy-band structure.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd85ea46ec221e26",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "thoughts/Energy-band structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "thoughts/Energy-band structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "thoughts/Energy-band structure.md"
               }
             }
           },
@@ -156,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,11 +169,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "f3d75a44ccfa1456",
+  "active": "eb6f4a27e628b850",
   "lastOpenFiles": [
+    "thoughts/Physics Informed Neural Networks Presentation.md",
+    "attachments/Pasted image 20230902122239.png",
+    "attachments/Pasted image 20230902121653.png",
+    "attachments/Pasted image 20230902121256.png",
+    "attachments/Pasted image 20230902120837.png",
     "conflict-files-obsidian-git.md",
     "thoughts/AlphaFold.md",
     "technical/Installing tensorflow with gpu.md",
@@ -200,8 +205,6 @@
     "logs/lab/2023-08-14 Lab.md",
     "thoughts/Intermolecular forces.md",
     "thoughts/Viscosity.md",
-    "technical/Writing an energy minimization config file.md",
-    "technical/Using jupyter notebooks on HPC.md",
     "attachments/Screenshot 2023-08-26 at 4.22.36 PM.png",
     "attachments/Screenshot 2023-08-26 at 1.07.41 PM.png",
     "attachments/Screenshot 2023-08-26 at 1.06.19 PM.png",
@@ -209,10 +212,6 @@
     "attachments/Pasted image 20230826114616.png",
     "Fixing missing atoms",
     "attachments/Screenshot 2023-08-26 at 10.25.32 AM.png",
-    "attachments/Pasted image 20230825163815.png",
-    "attachments/Screenshot 2023-08-25 at 4.28.52 PM.png",
-    "attachments/Screenshot 2023-08-25 at 4.18.29 PM.png",
-    "attachments/Screenshot 2023-08-25 at 12.29.05 PM.png",
     "attachments/IMG_9555.heic",
     "technical",
     "untitled folder",

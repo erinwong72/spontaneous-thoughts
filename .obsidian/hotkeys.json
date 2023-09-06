@@ -30,5 +30,15 @@
       ],
       "key": "E"
     }
+  ],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "switcher:open": [],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
   ]
 }

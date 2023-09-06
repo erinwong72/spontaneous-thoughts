@@ -259,6 +259,12 @@ settings:
         type: class-toggle
         default: true
     -
+        id: pln-rm-readprop
+        title: Hide properties in reading mode
+        description: Hide the metadata properties box when in reading mode
+        type: class-toggle
+        default: true
+    -
         id: pln-head-co
         title: Callout modifications
         type: heading
@@ -365,6 +371,18 @@ settings:
     --color-blue: #5e81ac;
     --color-salmon: #FC6E68;
 
+    --color-red-rgb: 191, 97, 106;
+    --color-orange-rgb: 208, 135, 112;
+    --color-yellow-light-rgb: 235, 203, 139;
+    --color-yellow-dark-rgb: 228, 184, 96;
+    --color-green-rgb: 163, 190, 140;
+    --color-purple-rgb: 180, 142, 173;
+    --color-sea-green-rgb: 143, 188, 187;
+    --color-cyan-rgb: 136, 192, 208;
+    --color-frost-rgb: 129, 161, 193;
+    --color-blue-rgb: 94, 129, 172;
+    --color-salmon-rgb: 252, 110, 104;
+
     --b0: #2E3440;
     --b1: #3B4252;
     --b2: #434C5E;
@@ -375,6 +393,9 @@ settings:
     --w2: #ECEFF4;
     --w3: #f5f7f9;
 
+    --w0-rgb: 216, 222, 233;
+    --b3-rgb: 76, 86, 106;
+
     --text-highlight-bg: rgba(180, 142, 173, 0.4);
     --text-highlight-bg-active: rgba(180, 142, 173, 0.4);
 
@@ -383,6 +404,7 @@ settings:
 
 .theme-light {
     --color-yellow: var(--color-yellow-dark);
+    --color-yellow-rgb: var(--color-yellow-dark-rgb);
     --color-accent: var(--color-blue);
     --color-accent-1: var(--color-blue);
     --color-accent-2: var(--color-frost);
@@ -426,6 +448,7 @@ settings:
 
 .theme-dark {
     --color-yellow: var(--color-yellow-light);
+    --color-yellow-rgb: var(--color-yellow-light-rgb);
     --color-accent: var(--color-frost);
     --color-accent-1: var(--color-frost);
     --color-accent-2: var(--color-blue);
@@ -514,7 +537,7 @@ settings:
     /* hacky method to make cards exportable */
     .cards.pln-cards-borders.theme-dark,
     .pln-cards-borders.theme-dark { 
-        --pln-cards-color-rgb: 216, 222, 233 !important;
+        --pln-cards-color-rgb: var(--w0-rgb) !important;
     } 
 }
 
@@ -531,7 +554,23 @@ body {
     /* 1.1 fixes */
     --checkbox-size: 1.1em;
     --list-bullet-size: .5em;
+    /* Fix font sizes in 1.3.7 */
+    --h1-size: 2em;
+    --h2-size: 1.6em;
+    --h3-size: 1.37em;
+    --h4-size: 1.25em;
+    --h5-size: 1.12em;
+    --h6-size: 1.12em;
+    /*this is spacing before a header, it is stupid*/
+    --heading-spacing: 0;
+    --p-spacing: .5rem;
 }
+
+/* changed in 1.4*/
+hr {
+    margin: 1.5em;
+}
+
 /* change margins, default is 32 */
 body {
     --file-margins: 20px;
@@ -562,6 +601,26 @@ body.pln-hdcl {
 /* folding indicator */
 .markdown-source-view.mod-cm6 .cm-fold-indicator .collapse-indicator {
     padding-right: 0px;
+}
+
+/* properties container*/
+body {
+    --metadata-border-color: rgb(var(--pln-cards-color-rgb));
+    --metadata-border-radius: 5px;
+    --metadata-background: rgba(var(--pln-cards-color-rgb),0.4);
+    --metadata-property-radius: 5px;
+}
+.metadata-container {
+    border-top: 4px solid rgb(var(--pln-cards-color-rgb));
+    border-left: 2px solid rgb(var(--pln-cards-color-rgb));
+    /* 1.3.7 adding --p-spacing but I remove it, this fixes the header being to oclose to the box*/
+    margin-bottom: 10px;
+}
+.metadata-property-key {
+    border-right: 2px solid rgb(var(--pln-cards-color-rgb));
+}
+.pln-rm-readprop .markdown-reading-view .metadata-container {
+    display: none;
 }
 
 /* macos fixes for hidden title */
@@ -661,7 +720,12 @@ body {
 /* note icon for tabs */
 .pln-rm-noteic .workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header-inner-icon,
 /* remove top left sidebar container in hidden*/
-.mod-windows.pln-rm-win-lside-tl.is-hidden-frameless .mod-left-split .mod-top-left-space .workspace-tab-header-container {
+.mod-windows.pln-rm-win-lside-tl.is-hidden-frameless .mod-left-split .mod-top-left-space .workspace-tab-header-container,
+/* css class to hide metadata in a specific note */
+.hide-properties .metadata-container.metadata-container.metadata-container,
+/* hide the placeholder values in metadata*/
+.metadata-input-longtext:empty:before,
+.multi-select-input:before {
     display: none;
 }
 
@@ -692,6 +756,10 @@ body {
 body {
     --list-spacing: 1px;
 }
+/* fix spacing in edit mode for the top of lists*/
+.cm-s-obsidian .cm-line.HyperMD-header + .cm-line:not(.HyperMD-header):not(:has(>br:only-child)) {
+    padding-top: var(--p-spacing);
+}
 
 /* scrollbars */
 .pln-rm-scroll ::-webkit-scrollbar {
@@ -715,16 +783,6 @@ em, .cm-em {
     transform: skew(-10deg);
 }
 
-/* Fix font sizes in 1.3.7 */
-body {
-    --h1-size: 2em;
-    --h2-size: 1.6em;
-    --h3-size: 1.37em;
-    --h4-size: 1.25em;
-    --h5-size: 1.12em;
-    --h6-size: 1.12em;
-}
-
 /* this unifies spacing in LP and reading (DV in LP is viewed as if it was reading) */
 .markdown-rendered h1,
 .markdown-rendered h2,
@@ -744,11 +802,11 @@ body {
 }
 .cards.pln-cards-borders.theme-light,
 .pln-cards-borders.theme-light { 
-    --pln-cards-color-rgb: 216, 222, 233;
+    --pln-cards-color-rgb: var(--w0-rgb);
 } 
 .cards.pln-cards-borders.theme-dark,
 .pln-cards-borders.theme-dark { 
-    --pln-cards-color-rgb: 76, 86, 106;
+    --pln-cards-color-rgb: var(--b3-rgb);
 }
 .cards.pln-cards-borders table.dataview > tbody > tr,
 .pln-cards-borders .cards table.dataview > tbody > tr {
@@ -975,7 +1033,7 @@ div.HyperMD-quote.HyperMD-quote-1.cm-line {
 /* make unique callouts */
 .callout[data-callout="danger"] {
     --callout-icon: lucide-alert-octagon;
-    --callout-color: 252, 110, 104;
+    --callout-color: var(--color-salmon-rgb);
 }
 .callout[data-callout="idea"] {
     --callout-icon: lucide-lightbulb;
@@ -997,13 +1055,14 @@ div.HyperMD-quote.HyperMD-quote-1.cm-line {
 
 /* colours */
 .callout[data-callout="note"] {
-    --callout-color: 94, 129, 172;
+    --callout-color: var(--color-blue-rgb);
 }
 
 .callout[data-callout="abstract"],
 .callout[data-callout="summary"],
+.callout[data-callout="quote"],
 .callout[data-callout="tldr"] {
-    --callout-color: 129, 161, 193;
+    --callout-color: var(--color-frost-rgb);
 }
 
 .callout[data-callout="info"],
@@ -1011,7 +1070,7 @@ div.HyperMD-quote.HyperMD-quote-1.cm-line {
 .callout[data-callout="tip"],
 .callout[data-callout="hint"],
 .callout[data-callout="important"] {
-    --callout-color: 136, 192, 208;
+    --callout-color: var(--color-cyan-rgb);
 }
 
 .callout[data-callout="success"],
@@ -1020,49 +1079,47 @@ div.HyperMD-quote.HyperMD-quote-1.cm-line {
 .callout[data-callout="question"],
 .callout[data-callout="help"],
 .callout[data-callout="faq"] {
-    --callout-color: 163, 190, 140;
+    --callout-color: var(--color-green-rgb);
 }
 
 .theme-light .callout[data-callout="idea"],
 .theme-light .callout[data-callout="attention"],
 .theme-light .callout[data-callout="caution"],
 .theme-light .callout[data-callout="warning"] {
-    --callout-color: 228, 184, 140;
+    --callout-color: var(--color-yellow-dark-rgb);
 }
 
 .theme-dark .callout[data-callout="idea"],
 .theme-dark .callout[data-callout="attention"],
 .theme-dark .callout[data-callout="caution"],
 .theme-dark .callout[data-callout="warning"] {
-    --callout-color: 235, 203, 139;
+    --callout-color: var(--color-yellow-light-rgb);
 }
 
 .callout[data-callout="failure"],
 .callout[data-callout="fail"],
 .callout[data-callout="missing"] {
-    --callout-color: 208, 135, 112;
+    --callout-color: var(--color-orange-rgb);
 }
 
 .callout[data-callout="error"],
 .callout[data-callout="bug"] {
-    --callout-color: 191, 97, 106;
+    --callout-color: var(--color-red-rgb);
 }
 
 .callout[data-callout="example"] {
-    --callout-color: 180, 142, 173;
+    --callout-color: var(--color-purple-rgb);
 }
 
 .theme-dark .callout[data-callout="cite"],
-.theme-dark .callout[data-callout="quote"],
 .theme-dark .callout[data-callout="links"],
 .theme-dark .callout[data-callout="meta"] {
-    --callout-color: 216, 222, 233;
+    --callout-color: var(--w0-rgb);
 }
 .theme-light .callout[data-callout="cite"],
-.theme-light .callout[data-callout="quote"],
 .theme-light .callout[data-callout="links"],
 .theme-light .callout[data-callout="meta"] {
-    --callout-color: 76, 86, 106;
+    --callout-color: var(--b3-rgb);
 }
 
 
@@ -1075,10 +1132,10 @@ mark,
 .markdown-rendered mark,
 .cm-s-obsidian span.cm-highlight {
     color: inherit;
-    background: none;
-    border-radius: 4px;
-    border-bottom: 3px solid;
-    border-bottom-color: var(--color-yellow);
+    background: rgba(var(--color-yellow-rgb),0.2);
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: var(--color-yellow);
 }
 
 /*Add highlighter's label before highlighted text*/
@@ -1091,28 +1148,40 @@ mark::before,
 }
 
 /*Red highlighter (edit)*/
-mark.edit { border-bottom-color: var(--color-red); }
+mark.edit { 
+    border-color: var(--color-red);
+    background: rgba(var(--color-red-rgb),0.2);
+}
 mark.edit::before {
     color: var(--color-red);
     content: "Edit:";
 }
 
 /*Orange highlighter (unfinished)*/
-mark.unfinished { border-bottom-color: var(--color-orange); }
+mark.unfinished { 
+    border-color: var(--color-orange);
+    background: rgba(var(--color-orange-rgb),0.2);
+}
 mark.unfinished::before {
     color: var(--color-orange);
     content: "Unfinished:";
 }
 
 /*Pink highlighter (verify)*/
-mark.verify { border-bottom-color: var(--color-purple); }
+mark.verify { 
+    border-color: var(--color-purple);
+    background: rgba(var(--color-purple-rgb),0.2);
+}
 mark.verify::before {
     color: var(--color-purple);
     content: "Verify:";
 }
 
 /* Green highlighter (important)*/
-mark.important { border-bottom-color: var(--color-green); }
+mark.important { 
+    border-color: var(--color-green);
+    background: rgba(var(--color-green-rgb),0.2);
+}
 mark.important::before {
     color: var(--color-green);
     content: "Important:";
@@ -1123,54 +1192,66 @@ mark.important::before {
 */
 mark.red {
     color: var(--color-red);
-    border-bottom: 0px;
+    background: none;
+    border: 0px;
 }
 mark.orange {
     color: var(--color-orange);
-    border-bottom: 0px;
+    background: none;
+    border: 0px;
 }
 mark.yellow {
     color: var(--color-yellow);
-    border-bottom: 0px;
+    background: none;
+    border: 0px;
 }
 mark.green {
     color: var(--color-green);
-    border-bottom: 0px;
+    background: none;
+    border: 0px;
 }
 mark.purple {
     color: var(--color-purple);
-    border-bottom: 0px;
+    background: none;
+    border: 0px;
 }
 mark.sea-green {
     color: var(--color-sea-green);
-    border-bottom: 0px;
+    background: none;
+    border: 0px;
 }
 mark.cyan {
     color: var(--color-cyan);
-    border-bottom: 0px;
+    background: none;
+    border: 0px;
 }
 mark.frost {
     color: var(--color-frost);
-    border-bottom: 0px;
+    background: none;
+    border: 0px;
 }
 mark.blue {
     color: var(--color-blue);
-    border-bottom: 0px;
+    background: none;
+    border: 0px;
 }
 mark.salmon {
     color: var(--color-salmon);
-    border-bottom: 0px;
+    background: none;
+    border: 0px;
 }
 /*underlined text*/
 mark.underline {
     text-decoration: underline;
-    border-bottom: 0px;
+    background: none;
+    border: 0px;
 }
 /* paths */
 mark.path {
     font-family: monospace;
     color: var(--text-faint);
-    border-bottom: 0px;
+    background: none;
+    border: 0px;
 }
 /* borders */
 mark.borders {
@@ -1178,10 +1259,11 @@ mark.borders {
     border-radius: 0px;
     padding-left: 2px;
     padding-right: 2px;
+    background: none;
 }
 /* spoiler */
 mark.spoiler {
-    border-bottom: 0px;
+    border: 0px;
     background-color: var(--text-normal);
 }
 mark.spoiler:hover {
