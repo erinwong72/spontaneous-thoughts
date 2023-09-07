@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Energy-band structure.md",
+                "file": "logs/lab/2023-07-31 Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Energy-band structure.md",
+                "file": "logs/lab/2023-07-31 Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Energy-band structure.md",
+                "file": "logs/lab/2023-07-31 Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Energy-band structure.md"
+                "file": "logs/lab/2023-07-31 Lab.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "eb6f4a27e628b850",
   "lastOpenFiles": [
+    "thoughts/Energy-band structure.md",
     "thoughts/Physics Informed Neural Networks Presentation.md",
     "attachments/Pasted image 20230902122239.png",
     "attachments/Pasted image 20230902121653.png",
