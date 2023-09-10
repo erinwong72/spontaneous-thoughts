@@ -11,12 +11,8 @@
             "id": "eb6f4a27e628b850",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/Installing tensorflow with gpu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/Installing tensorflow with gpu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/Installing tensorflow with gpu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "technical/Installing tensorflow with gpu.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,6 +160,7 @@
   },
   "active": "eb6f4a27e628b850",
   "lastOpenFiles": [
+    "technical/Installing tensorflow with gpu.md",
     "logs/lab/2023-08-14 Lab.md",
     "logs/lab/2023-07-31 Lab.md",
     "thoughts/Energy-band structure.md",
@@ -178,7 +171,6 @@
     "attachments/Pasted image 20230902120837.png",
     "conflict-files-obsidian-git.md",
     "thoughts/AlphaFold.md",
-    "technical/Installing tensorflow with gpu.md",
     "thoughts/Newton's laws.md",
     "thoughts/AlphaFold Journal Club Speaker Notes.md",
     "technical/Writing an equilibration config file.md",
