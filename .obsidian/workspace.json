@@ -11,8 +11,12 @@
             "id": "eb6f4a27e628b850",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "logs/2023-09-17.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "logs/2023-09-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "logs/2023-09-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "logs/2023-09-17.md"
+              }
             }
           },
           {
@@ -160,36 +168,37 @@
   },
   "active": "eb6f4a27e628b850",
   "lastOpenFiles": [
-    "technical/Installing tensorflow with gpu.md",
-    "logs/lab/2023-08-14 Lab.md",
-    "logs/lab/2023-07-31 Lab.md",
-    "thoughts/Energy-band structure.md",
+    "thoughts/Charge-Coupled Devices.md",
+    "logs/2023-09-17.md",
+    "thoughts/Hong Kong Wishlist.md",
+    "thoughts/MinHash fingerprint.md",
+    "thoughts/Minimum image convention.md",
+    "thoughts/Newton's First Law.md",
+    "thoughts/Newton's laws.md",
+    "thoughts/Newton's Second Law.md",
+    "thoughts/Parrinello-Rahman barostat.md",
+    "thoughts/Periodic boundary conditions.md",
     "thoughts/Physics Informed Neural Networks Presentation.md",
+    "thoughts/Root mean square deviation.md",
+    "thoughts/Separable convolutions.md",
+    "thoughts/Template Modeling score.md",
+    "thoughts/Threshold-Crossing Events.md",
+    "thoughts/Transiting Exoplanet Survey Satellite.md",
+    "thoughts/Up-the-ramp readout scheme.md",
+    "thoughts/Velocity rescaling thermostat.md",
+    "thoughts/Viscosity.md",
+    "templates/log note.md",
+    "templates/lab note.md",
+    "templates/atomic note.md",
+    "technical/Writing an equilibration config file.md",
+    "technical/Writing an energy minimization config file.md",
+    "logs/2023-08-29.md",
+    "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
+    "technical/Installing tensorflow with gpu.md",
     "attachments/Pasted image 20230902122239.png",
     "attachments/Pasted image 20230902121653.png",
     "attachments/Pasted image 20230902121256.png",
     "attachments/Pasted image 20230902120837.png",
-    "conflict-files-obsidian-git.md",
-    "thoughts/AlphaFold.md",
-    "thoughts/Newton's laws.md",
-    "thoughts/AlphaFold Journal Club Speaker Notes.md",
-    "technical/Writing an equilibration config file.md",
-    "technical/grompp module.md",
-    "technical/GROMACS on Seawulf.md",
-    "technical/charmm36 mdp parameters.md",
-    "logs/2023-08-22.md",
-    "logs/2023-08-23.md",
-    "logs/2023-08-24.md",
-    "logs/2023-08-25.md",
-    "logs/2023-08-26.md",
-    "logs/2023-08-29.md",
-    "logs/lab/2023-08-26 Lab.md",
-    "logs/lab/2023-08-29 Lab.md",
-    "logs/lab/2023-07-26 Lab.md",
-    "logs/lab/2023-08-25 Lab.md",
-    "logs/lab/2023-08-24 Lab.md",
-    "logs/lab/2023-08-18 Lab.md",
-    "thoughts/Intermolecular forces.md",
     "attachments/Screenshot 2023-08-26 at 4.22.36 PM.png",
     "attachments/Screenshot 2023-08-26 at 1.07.41 PM.png",
     "attachments/Screenshot 2023-08-26 at 1.06.19 PM.png",
@@ -204,7 +213,6 @@
     "logs/lab",
     "lab",
     "logs",
-    "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
     "thoughts"
   ]
 }
