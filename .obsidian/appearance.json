@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Border",
-  "accentColor": "#579fcb",
+  "cssTheme": "Minimal",
+  "accentColor": "",
   "theme": "moonstone",
   "baseFontSize": 16,
   "baseFontSizeAction": false,
@@ -8,5 +8,6 @@
   "interfaceFontFamily": "",
   "enabledCssSnippets": [
     "extended-colorschemes"
-  ]
+  ],
+  "nativeMenus": true
 }
