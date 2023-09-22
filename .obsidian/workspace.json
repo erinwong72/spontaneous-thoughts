@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "271c006bbc78d06f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logs/lab/2023-09-21 Lab.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "date palm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/2023-09-17.md",
+                "file": "logs/lab/2023-09-21 Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/2023-09-17.md",
+                "file": "logs/lab/2023-09-21 Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/2023-09-17.md"
+                "file": "logs/lab/2023-09-21 Lab.md"
               }
             }
           },
@@ -144,6 +158,16 @@
             "state": {
               "type": "timeline",
               "state": {}
+            }
+          },
+          {
+            "id": "d0f3f402118de89d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -167,10 +191,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eb6f4a27e628b850",
+  "active": "271c006bbc78d06f",
   "lastOpenFiles": [
-    "thoughts/Charge-Coupled Devices.md",
+    "logs/lab/2023-08-24 Lab.md",
+    "logs/lab/2023-08-17 Lab.md",
+    "logs/lab/2023-09-21 Lab.md",
+    "logs/lab/2023-08-16 Lab.md",
     "logs/2023-09-17.md",
+    "thoughts/Charge-Coupled Devices.md",
     "thoughts/Hong Kong Wishlist.md",
     "thoughts/MinHash fingerprint.md",
     "thoughts/Minimum image convention.md",
@@ -191,11 +219,7 @@
     "templates/log note.md",
     "templates/lab note.md",
     "templates/atomic note.md",
-    "technical/Writing an equilibration config file.md",
-    "technical/Writing an energy minimization config file.md",
-    "logs/2023-08-29.md",
     "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
-    "technical/Installing tensorflow with gpu.md",
     "attachments/Pasted image 20230902122239.png",
     "attachments/Pasted image 20230902121653.png",
     "attachments/Pasted image 20230902121256.png",
