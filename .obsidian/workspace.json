@@ -32,25 +32,13 @@
             }
           },
           {
-            "id": "e960923e3d85ce0b",
+            "id": "992251e88cb5bd67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Structured Forests for Edge Detection.md",
+                "file": "thoughts/Decision Trees.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e34b9a51a78ec2f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "logs/lab/2023-08-25 Lab.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Structured Forests for Edge Detection.md",
+                "file": "thoughts/Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Structured Forests for Edge Detection.md",
+                "file": "thoughts/Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Structured Forests for Edge Detection.md"
+                "file": "thoughts/Decision Trees.md"
               }
             }
           },
@@ -214,10 +202,11 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "e960923e3d85ce0b",
+  "active": "992251e88cb5bd67",
   "lastOpenFiles": [
-    "logs/lab/2023-09-24 Lab.md",
     "thoughts/Structured Forests for Edge Detection.md",
+    "thoughts/Decision Trees.md",
+    "logs/lab/2023-09-24 Lab.md",
     "logs/lab/2023-08-25 Lab.md",
     "logs/lab/2023-08-29 Lab.md",
     "logs/lab/2023-08-26 Lab.md",
@@ -241,7 +230,6 @@
     "thoughts/Template Modeling score.md",
     "thoughts/Threshold-Crossing Events.md",
     "thoughts/Transiting Exoplanet Survey Satellite.md",
-    "thoughts/Up-the-ramp readout scheme.md",
     "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
     "attachments/Pasted image 20230902122239.png",
     "attachments/Pasted image 20230902121653.png",
