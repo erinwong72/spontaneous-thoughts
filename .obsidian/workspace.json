@@ -4,35 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "fc5c3132811c8370",
+        "id": "abed7a0ab15d6e7f",
         "type": "tabs",
         "children": [
           {
-            "id": "eb6f4a27e628b850",
+            "id": "6cddb0696fa2a12f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/2023-09-17.md",
+                "file": "logs/lab/2023-09-24 Lab.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "271c006bbc78d06f",
+            "id": "bf81e2552619bf85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/lab/2023-09-21 Lab.md",
+                "file": "thoughts/Structured Forests for Edge Detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e960923e3d85ce0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Structured Forests for Edge Detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e34b9a51a78ec2f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logs/lab/2023-08-25 Lab.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/lab/2023-09-21 Lab.md",
+                "file": "thoughts/Structured Forests for Edge Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/lab/2023-09-21 Lab.md",
+                "file": "thoughts/Structured Forests for Edge Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/lab/2023-09-21 Lab.md"
+                "file": "thoughts/Structured Forests for Edge Detection.md"
               }
             }
           },
@@ -180,24 +203,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
+      "omnisearch:Omnisearch": true,
+      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
+      "templates:Insert template": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "omnisearch:Omnisearch": false
+      "command-palette:Open command palette": true,
+      "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "271c006bbc78d06f",
+  "active": "e960923e3d85ce0b",
   "lastOpenFiles": [
+    "logs/lab/2023-09-24 Lab.md",
+    "thoughts/Structured Forests for Edge Detection.md",
+    "logs/lab/2023-08-25 Lab.md",
+    "logs/lab/2023-08-29 Lab.md",
+    "logs/lab/2023-08-26 Lab.md",
+    "logs/2023-09-24.md",
+    "logs/2023-09-17.md",
     "logs/lab/2023-08-24 Lab.md",
     "logs/lab/2023-08-17 Lab.md",
-    "logs/lab/2023-09-21 Lab.md",
     "logs/lab/2023-08-16 Lab.md",
-    "logs/2023-09-17.md",
     "thoughts/Charge-Coupled Devices.md",
     "thoughts/Hong Kong Wishlist.md",
     "thoughts/MinHash fingerprint.md",
@@ -214,11 +242,6 @@
     "thoughts/Threshold-Crossing Events.md",
     "thoughts/Transiting Exoplanet Survey Satellite.md",
     "thoughts/Up-the-ramp readout scheme.md",
-    "thoughts/Velocity rescaling thermostat.md",
-    "thoughts/Viscosity.md",
-    "templates/log note.md",
-    "templates/lab note.md",
-    "templates/atomic note.md",
     "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
     "attachments/Pasted image 20230902122239.png",
     "attachments/Pasted image 20230902121653.png",

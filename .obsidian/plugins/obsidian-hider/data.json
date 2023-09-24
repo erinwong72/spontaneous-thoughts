@@ -1,5 +1,5 @@
 {
-  "hideRibbon": true,
+  "hideRibbon": false,
   "hideStatus": false,
   "hideTabs": false,
   "hideScroll": true,
@@ -9,6 +9,7 @@
   "hideSearchSuggestions": false,
   "hideSearchCounts": false,
   "hideInstructions": false,
-  "hideMeta": false,
-  "hideVault": true
+  "hidePropertiesReading": false,
+  "hideVault": true,
+  "hideMeta": false
 }
