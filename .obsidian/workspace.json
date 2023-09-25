@@ -15,9 +15,9 @@
               "state": {
                 "file": "American Revolution (1774-1787).canvas",
                 "viewState": {
-                  "x": 1403.8869397823555,
-                  "y": -231.92329236386846,
-                  "zoom": -2.1319546125769007
+                  "x": 4760.347587721202,
+                  "y": -238.75424949223185,
+                  "zoom": -1.1266666666666667
                 }
               }
             }
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/lab/2023-09-24 Lab.md",
+                "file": "American Revolution (1774-1787).canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/lab/2023-09-24 Lab.md",
+                "file": "American Revolution (1774-1787).canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/lab/2023-09-24 Lab.md"
+                "file": "American Revolution (1774-1787).canvas"
               }
             }
           },
@@ -205,11 +204,11 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "6cddb0696fa2a12f",
+  "active": "bf81e2552619bf85",
   "lastOpenFiles": [
-    "American Revolution (1774-1787).canvas",
-    "logs/lab/2023-09-24 Lab.md",
     "thoughts/Decision Trees.md",
+    "logs/lab/2023-09-24 Lab.md",
+    "American Revolution (1774-1787).canvas",
     "thoughts/Structured Forests for Edge Detection.md",
     "logs/lab/2023-08-25 Lab.md",
     "logs/lab/2023-08-29 Lab.md",
