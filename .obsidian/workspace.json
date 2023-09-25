@@ -8,6 +8,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "bf81e2552619bf85",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "American Revolution (1774-1787).canvas",
+                "viewState": {
+                  "x": 1403.8869397823555,
+                  "y": -231.92329236386846,
+                  "zoom": -2.1319546125769007
+                }
+              }
+            }
+          },
+          {
             "id": "6cddb0696fa2a12f",
             "type": "leaf",
             "state": {
@@ -16,21 +31,6 @@
                 "file": "logs/lab/2023-09-24 Lab.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bf81e2552619bf85",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "American Revolution (1774-1787).canvas",
-                "viewState": {
-                  "x": 351.2531597014153,
-                  "y": 91.74479041070674,
-                  "zoom": -0.18528794591023495
-                }
               }
             }
           },
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
