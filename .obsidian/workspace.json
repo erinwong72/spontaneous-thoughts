@@ -35,6 +35,16 @@
             }
           },
           {
+            "id": "550e1422af100d22",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "992251e88cb5bd67",
             "type": "leaf",
             "state": {
@@ -47,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +215,7 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "6cddb0696fa2a12f",
+  "active": "550e1422af100d22",
   "lastOpenFiles": [
     "American Revolution (1774-1787).canvas",
     "thoughts/Decision Trees.md",
