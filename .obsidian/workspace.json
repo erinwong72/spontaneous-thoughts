@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Makings of the Constitution.md",
+                "file": "thoughts/Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Makings of the Constitution.md",
+                "file": "thoughts/Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Makings of the Constitution.md",
+                "file": "thoughts/Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Makings of the Constitution.md"
+                "file": "thoughts/Decision Trees.md"
               }
             }
           },
@@ -200,6 +200,8 @@
   },
   "active": "e9678ea2d5dc8e58",
   "lastOpenFiles": [
+    "thoughts/Structured Forests for Edge Detection.md",
+    "thoughts/Energy-band structure.md",
     "thoughts/Makings of the Constitution.md",
     "thoughts/Energy of a system of charges.md",
     "attachments/Screenshot 2023-10-07 at 11.11.34 AM.png",
@@ -225,12 +227,10 @@
     "attachments/Note (20).png",
     "thoughts/Decision Trees.md",
     "logs/2023-09-24.md",
-    "thoughts/Structured Forests for Edge Detection.md",
     "logs/lab/2023-08-25 Lab.md",
     "logs/lab/2023-08-29 Lab.md",
     "logs/lab/2023-08-26 Lab.md",
     "logs/2023-09-17.md",
-    "logs/lab/2023-08-24 Lab.md",
     "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
     "attachments/Pasted image 20230902122239.png",
     "attachments/Pasted image 20230902121653.png",
