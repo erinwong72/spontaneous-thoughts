@@ -4,53 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "abed7a0ab15d6e7f",
+        "id": "46a148b2227fdf21",
         "type": "tabs",
         "children": [
           {
-            "id": "bf81e2552619bf85",
+            "id": "f3c990a85bc34468",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "American Revolution (1774-1787).canvas",
-                "viewState": {
-                  "x": 1877.7597474798088,
-                  "y": -298.0669044309783,
-                  "zoom": -1.4000000000000012
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "6cddb0696fa2a12f",
+            "id": "4f040b51921a6363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/lab/2023-09-24 Lab.md",
+                "file": "thoughts/Energy of a system of charges.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "550e1422af100d22",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "992251e88cb5bd67",
+            "id": "e9678ea2d5dc8e58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Decision Trees.md",
+                "file": "thoughts/Makings of the Constitution.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/lab/2023-09-24 Lab.md",
+                "file": "thoughts/Makings of the Constitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/lab/2023-09-24 Lab.md",
+                "file": "thoughts/Makings of the Constitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/lab/2023-09-24 Lab.md"
+                "file": "thoughts/Makings of the Constitution.md"
               }
             }
           },
@@ -215,34 +198,39 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "550e1422af100d22",
+  "active": "e9678ea2d5dc8e58",
   "lastOpenFiles": [
-    "American Revolution (1774-1787).canvas",
-    "thoughts/Decision Trees.md",
+    "thoughts/Makings of the Constitution.md",
+    "thoughts/Energy of a system of charges.md",
+    "attachments/Screenshot 2023-10-07 at 11.11.34 AM.png",
+    "logs/2023-10-03.md",
+    "technical/Using jupyter notebooks on HPC.md",
+    "logs/lab/2023-10-04 Lab.md",
+    "logs/2023-10-03 Lab.md",
+    "thoughts/Generalized Linear Models.md",
+    "thoughts/2023-10-05 Lab.md",
+    "logs/2023-10-04.md",
+    "attachments/Pasted image 20231003230414.png",
+    "attachments/Pasted image 20231003225908.png",
     "logs/lab/2023-09-24 Lab.md",
+    "thoughts/AlphaFold Journal Club Speaker Notes.md",
+    "thoughts/American Revolution (1774-1787).canvas",
+    "thoughts/Viscosity.md",
+    "thoughts/Velocity rescaling thermostat.md",
+    "thoughts/Up-the-ramp readout scheme.md",
+    "thoughts/Transiting Exoplanet Survey Satellite.md",
+    "thoughts/Threshold-Crossing Events.md",
+    "thoughts/Physics Informed Neural Networks Presentation.md",
+    "thoughts/Parrinello-Rahman barostat.md",
+    "attachments/Note (20).png",
+    "thoughts/Decision Trees.md",
+    "logs/2023-09-24.md",
     "thoughts/Structured Forests for Edge Detection.md",
     "logs/lab/2023-08-25 Lab.md",
     "logs/lab/2023-08-29 Lab.md",
     "logs/lab/2023-08-26 Lab.md",
-    "logs/2023-09-24.md",
     "logs/2023-09-17.md",
     "logs/lab/2023-08-24 Lab.md",
-    "logs/lab/2023-08-17 Lab.md",
-    "logs/lab/2023-08-16 Lab.md",
-    "thoughts/Charge-Coupled Devices.md",
-    "thoughts/Hong Kong Wishlist.md",
-    "thoughts/MinHash fingerprint.md",
-    "thoughts/Minimum image convention.md",
-    "thoughts/Newton's First Law.md",
-    "thoughts/Newton's laws.md",
-    "thoughts/Newton's Second Law.md",
-    "thoughts/Parrinello-Rahman barostat.md",
-    "thoughts/Periodic boundary conditions.md",
-    "thoughts/Physics Informed Neural Networks Presentation.md",
-    "thoughts/Root mean square deviation.md",
-    "thoughts/Separable convolutions.md",
-    "thoughts/Template Modeling score.md",
-    "thoughts/Threshold-Crossing Events.md",
     "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
     "attachments/Pasted image 20230902122239.png",
     "attachments/Pasted image 20230902121653.png",
@@ -250,11 +238,7 @@
     "attachments/Pasted image 20230902120837.png",
     "attachments/Screenshot 2023-08-26 at 4.22.36 PM.png",
     "attachments/Screenshot 2023-08-26 at 1.07.41 PM.png",
-    "attachments/Screenshot 2023-08-26 at 1.06.19 PM.png",
-    "attachments/Screenshot 2023-08-26 at 12.49.52 PM.png",
-    "attachments/Pasted image 20230826114616.png",
     "Fixing missing atoms",
-    "attachments/Screenshot 2023-08-26 at 10.25.32 AM.png",
     "attachments/IMG_9555.heic",
     "technical",
     "untitled folder",
