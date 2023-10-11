@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3c990a85bc34468",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4f040b51921a6363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Energy of a system of charges.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e9678ea2d5dc8e58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technical/GROMACS on Seawulf.md",
+                "file": "thoughts/Structured Forests for Edge Detection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "date palm",
+                "query": "flowers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -107,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical/GROMACS on Seawulf.md",
+                "file": "thoughts/Structured Forests for Edge Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technical/GROMACS on Seawulf.md",
+                "file": "thoughts/Structured Forests for Edge Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technical/GROMACS on Seawulf.md"
+                "file": "thoughts/Structured Forests for Edge Detection.md"
               }
             }
           },
@@ -198,39 +177,39 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "e9678ea2d5dc8e58",
+  "active": "e27dbd94fee279d4",
   "lastOpenFiles": [
-    "thoughts/Decision Trees.md",
-    "thoughts/Structured Forests for Edge Detection.md",
-    "thoughts/Energy-band structure.md",
-    "thoughts/Makings of the Constitution.md",
-    "thoughts/Energy of a system of charges.md",
-    "attachments/Screenshot 2023-10-07 at 11.11.34 AM.png",
-    "logs/2023-10-03.md",
-    "technical/Using jupyter notebooks on HPC.md",
-    "logs/lab/2023-10-04 Lab.md",
-    "logs/2023-10-03 Lab.md",
-    "thoughts/Generalized Linear Models.md",
-    "thoughts/2023-10-05 Lab.md",
-    "logs/2023-10-04.md",
-    "attachments/Pasted image 20231003230414.png",
-    "attachments/Pasted image 20231003225908.png",
-    "logs/lab/2023-09-24 Lab.md",
+    "thoughts/Minimum image convention.md",
+    "thoughts/Newton's First Law.md",
+    "thoughts/MinHash fingerprint.md",
+    "thoughts/AlphaFold.md",
     "thoughts/AlphaFold Journal Club Speaker Notes.md",
     "thoughts/American Revolution (1774-1787).canvas",
+    "thoughts/Attention gate.md",
+    "thoughts/Energy of a system of charges.md",
+    "thoughts/Elliptic contact function.md",
+    "thoughts/Dipole-dipole interaction.md",
+    "thoughts/Deep Learning Classification of Signals.md",
+    "thoughts/Inertial reference frames.md",
+    "thoughts/Hong Kong Wishlist.md",
+    "thoughts/Decision Trees.md",
     "thoughts/Viscosity.md",
     "thoughts/Velocity rescaling thermostat.md",
-    "thoughts/Up-the-ramp readout scheme.md",
-    "thoughts/Transiting Exoplanet Survey Satellite.md",
-    "thoughts/Threshold-Crossing Events.md",
     "thoughts/Physics Informed Neural Networks Presentation.md",
-    "thoughts/Parrinello-Rahman barostat.md",
+    "thoughts/Long Short-Term Memory Architecture.md",
+    "logs/lab/2023-10-03 Lab.md",
+    "technical/grompp module.md",
+    "logs/2023-10-05 Lab.md",
+    "technical/Installing tensorflow with gpu.md",
+    "technical/Using jupyter notebooks on HPC.md",
+    "technical/Setting up ligand-polymer interaction.md",
+    "technical/Writing an equilibration config file.md",
+    "logs/lab/2023-07-27 Lab.md",
+    "logs/lab/2023-07-26 Lab.md",
+    "attachments/Screenshot 2023-10-07 at 11.11.34 AM.png",
+    "attachments/Pasted image 20231003230414.png",
+    "attachments/Pasted image 20231003225908.png",
     "attachments/Note (20).png",
-    "logs/2023-09-24.md",
-    "logs/lab/2023-08-25 Lab.md",
-    "logs/lab/2023-08-29 Lab.md",
-    "logs/lab/2023-08-26 Lab.md",
-    "logs/2023-09-17.md",
     "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
     "attachments/Pasted image 20230902122239.png",
     "attachments/Pasted image 20230902121653.png",
