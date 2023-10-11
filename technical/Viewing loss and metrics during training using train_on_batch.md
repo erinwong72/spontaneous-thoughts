@@ -35,6 +35,22 @@ callbacks.on_train_end(epoch_logs)
 history = model.history
 ```
 
+To account for validation data also being a generator, modify the **evaluate** method, and replace `val_x, val_y` with your validation generator:
+
+```python
+def evaluate(self, generator, callbacks=None, return_dict=False):
+# for validation
+	for i in range(len(generator)):
+		callbacks.on_test_batch_begin(i)
+		logs = self.test_on_batch(*generator[i], reset_metrics=False, return_dict=return_dict)
+		callbacks.on_test_batch_end(i, logs)
+
+return logs
+```
+
 ---
 Source:
 [python - Keras: is there sample code for train\_on\_batch which has history + progress? - Stack Overflow](https://stackoverflow.com/questions/65253314/keras-is-there-sample-code-for-train-on-batch-which-has-history-progress)
+
+General sources for the different training methods:
+[For large datasets, which to use: fit or train\_on\_batch? · Issue #2708 · keras-team/keras · GitHub](https://github.com/keras-team/keras/issues/2708)
