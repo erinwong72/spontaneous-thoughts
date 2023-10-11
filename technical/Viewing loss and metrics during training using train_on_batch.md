@@ -54,3 +54,4 @@ Source:
 
 General sources for the different training methods:
 [For large datasets, which to use: fit or train\_on\_batch? · Issue #2708 · keras-team/keras · GitHub](https://github.com/keras-team/keras/issues/2708)
+[\`fit\_generator\` and \`train\_on\_batch\` are not well documented and do not work with variable-size inputs · Issue #2539 · keras-team/keras · GitHub](https://github.com/keras-team/keras/issues/2539)
