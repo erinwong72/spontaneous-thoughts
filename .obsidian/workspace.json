@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Structured Forests for Edge Detection.md",
+                "file": "logs/lab/2023-08-25 Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Structured Forests for Edge Detection.md",
+                "file": "logs/lab/2023-08-25 Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Structured Forests for Edge Detection.md",
+                "file": "logs/lab/2023-08-25 Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Structured Forests for Edge Detection.md"
+                "file": "logs/lab/2023-08-25 Lab.md"
               }
             }
           },
@@ -177,8 +177,13 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "e27dbd94fee279d4",
+  "active": "e9678ea2d5dc8e58",
   "lastOpenFiles": [
+    "logs/lab/2023-09-24 Lab.md",
+    "logs/lab/2023-08-04 Lab.md",
+    "logs/lab/2023-08-16 Lab.md",
+    "logs/lab/2023-08-17 Lab.md",
+    "thoughts/Structured Forests for Edge Detection.md",
     "thoughts/Minimum image convention.md",
     "thoughts/Newton's First Law.md",
     "thoughts/MinHash fingerprint.md",
@@ -201,11 +206,6 @@
     "technical/grompp module.md",
     "logs/2023-10-05 Lab.md",
     "technical/Installing tensorflow with gpu.md",
-    "technical/Using jupyter notebooks on HPC.md",
-    "technical/Setting up ligand-polymer interaction.md",
-    "technical/Writing an equilibration config file.md",
-    "logs/lab/2023-07-27 Lab.md",
-    "logs/lab/2023-07-26 Lab.md",
     "attachments/Screenshot 2023-10-07 at 11.11.34 AM.png",
     "attachments/Pasted image 20231003230414.png",
     "attachments/Pasted image 20231003225908.png",
