@@ -30,42 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2f13023e833011db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/Viewing loss and metrics during training using train_on_batch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df14b0fadd445f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/How to use mpi4py (parallel processing) on HPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f4d2096cc86aa00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technical/GROMACS on Seawulf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -229,9 +193,9 @@
   "active": "ff850886c5055b64",
   "lastOpenFiles": [
     "technical/Viewing loss and metrics during training using train_on_batch.md",
+    "thoughts/2023-10-11 Lab.md",
     "thoughts/How to use mpi4py (parallel processing) on HPC.md",
     "technical/GROMACS on Seawulf.md",
-    "thoughts/2023-10-11 Lab.md",
     "thoughts/Cosmic Ray Rejection.md",
     "thoughts/Attention gate.md",
     "thoughts/Template Modeling score.md",
