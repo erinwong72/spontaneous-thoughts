@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/2023-10-11 Lab.md",
+                "file": "logs/2023-10-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d46a3c682667f88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/2023-10-12 Lab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/2023-10-11 Lab.md",
+                "file": "thoughts/2023-10-12 Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/2023-10-11 Lab.md",
+                "file": "thoughts/2023-10-12 Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/2023-10-11 Lab.md"
+                "file": "thoughts/2023-10-12 Lab.md"
               }
             }
           },
@@ -190,10 +202,12 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "ff850886c5055b64",
+  "active": "6d46a3c682667f88",
   "lastOpenFiles": [
-    "technical/Viewing loss and metrics during training using train_on_batch.md",
+    "logs/2023-10-12.md",
+    "thoughts/2023-10-12 Lab.md",
     "thoughts/2023-10-11 Lab.md",
+    "technical/Viewing loss and metrics during training using train_on_batch.md",
     "thoughts/How to use mpi4py (parallel processing) on HPC.md",
     "technical/GROMACS on Seawulf.md",
     "thoughts/Cosmic Ray Rejection.md",
@@ -219,8 +233,6 @@
     "thoughts/AlphaFold Journal Club Speaker Notes.md",
     "thoughts/American Revolution (1774-1787).canvas",
     "thoughts/Energy of a system of charges.md",
-    "thoughts/Elliptic contact function.md",
-    "thoughts/Dipole-dipole interaction.md",
     "attachments/Screenshot 2023-10-07 at 11.11.34 AM.png",
     "attachments/Pasted image 20231003230414.png",
     "attachments/Pasted image 20231003225908.png",
