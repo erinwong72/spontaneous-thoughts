@@ -44,14 +44,6 @@
             }
           },
           {
-            "id": "afaf811037037a5a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "df14b0fadd445f13",
             "type": "leaf",
             "state": {
@@ -76,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/How to use mpi4py (parallel processing) on HPC.md",
+                "file": "thoughts/2023-10-11 Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/How to use mpi4py (parallel processing) on HPC.md",
+                "file": "thoughts/2023-10-11 Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/How to use mpi4py (parallel processing) on HPC.md"
+                "file": "thoughts/2023-10-11 Lab.md"
               }
             }
           },
@@ -234,10 +226,11 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "df14b0fadd445f13",
+  "active": "ff850886c5055b64",
   "lastOpenFiles": [
-    "technical/GROMACS on Seawulf.md",
+    "technical/Viewing loss and metrics during training using train_on_batch.md",
     "thoughts/How to use mpi4py (parallel processing) on HPC.md",
+    "technical/GROMACS on Seawulf.md",
     "thoughts/2023-10-11 Lab.md",
     "thoughts/Cosmic Ray Rejection.md",
     "thoughts/Attention gate.md",
@@ -247,7 +240,6 @@
     "thoughts/loss function.md",
     "logs/lab/2023-08-03 Lab.md",
     "thoughts/Ellipsoid Interactions (Potentials).md",
-    "technical/Viewing loss and metrics during training using train_on_batch.md",
     "logs/2023-10-11.md",
     "attachments/Pasted image 20231011175358.png",
     "logs/lab/2023-08-25 Lab.md",
