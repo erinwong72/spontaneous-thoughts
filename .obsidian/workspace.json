@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4c44bfe41cd6c66",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -202,7 +211,7 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "6d46a3c682667f88",
+  "active": "a4c44bfe41cd6c66",
   "lastOpenFiles": [
     "logs/2023-10-12.md",
     "thoughts/2023-10-12 Lab.md",
