@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/2023-10-11 Lab.md",
+                "file": "thoughts/Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/2023-10-11 Lab.md",
+                "file": "thoughts/Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/2023-10-11 Lab.md",
+                "file": "thoughts/Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/2023-10-11 Lab.md"
+                "file": "thoughts/Decision Trees.md"
               }
             }
           },
@@ -183,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,9 +202,11 @@
   },
   "active": "ff850886c5055b64",
   "lastOpenFiles": [
+    "thoughts/Structured Forests for Edge Detection.md",
+    "thoughts/Energy-band structure.md",
+    "thoughts/2023-10-11 Lab.md",
     "technical/Molecular dynamics run (MDrun) analysis.md",
     "thoughts/How to use mpi4py (parallel processing) on HPC.md",
-    "thoughts/2023-10-11 Lab.md",
     "logs/2023-10-11.md",
     "logs/2023-10-12.md",
     "thoughts/2023-10-12 Lab.md",
@@ -222,12 +226,10 @@
     "logs/lab/2023-08-04 Lab.md",
     "logs/lab/2023-08-16 Lab.md",
     "logs/lab/2023-08-17 Lab.md",
-    "thoughts/Structured Forests for Edge Detection.md",
     "thoughts/Minimum image convention.md",
     "thoughts/Newton's First Law.md",
     "thoughts/MinHash fingerprint.md",
     "thoughts/AlphaFold.md",
-    "thoughts/AlphaFold Journal Club Speaker Notes.md",
     "thoughts/American Revolution (1774-1787).canvas",
     "attachments/Screenshot 2023-10-07 at 11.11.34 AM.png",
     "attachments/Pasted image 20231003230414.png",
