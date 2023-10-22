@@ -37,24 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/2023-10-12 Lab.md",
+                "file": "logs/lab/2023-08-09 Lab.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a4c44bfe41cd6c66",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pytorch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -122,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "logs/lab/2023-08-09 Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "logs/lab/2023-08-09 Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "logs/lab/2023-08-09 Lab.md"
+              }
             }
           },
           {
@@ -209,8 +202,11 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "a4c44bfe41cd6c66",
+  "active": "6d46a3c682667f88",
   "lastOpenFiles": [
+    "logs/lab/2023-08-08 Lab.md",
+    "logs/lab/2023-08-01 Lab.md",
+    "thoughts/2023-10-12 Lab.md",
     "thoughts/Structured Forests for Edge Detection.md",
     "thoughts/Decision Trees.md",
     "logs/lab/2023-08-25 Lab.md",
@@ -220,7 +216,6 @@
     "thoughts/How to use mpi4py (parallel processing) on HPC.md",
     "logs/2023-10-11.md",
     "logs/2023-10-12.md",
-    "thoughts/2023-10-12 Lab.md",
     "technical/Viewing loss and metrics during training using train_on_batch.md",
     "technical/GROMACS on Seawulf.md",
     "thoughts/Cosmic Ray Rejection.md",
@@ -237,8 +232,6 @@
     "logs/lab/2023-08-16 Lab.md",
     "logs/lab/2023-08-17 Lab.md",
     "thoughts/Minimum image convention.md",
-    "thoughts/Newton's First Law.md",
-    "thoughts/MinHash fingerprint.md",
     "thoughts/American Revolution (1774-1787).canvas",
     "attachments/Screenshot 2023-10-07 at 11.11.34 AM.png",
     "attachments/Pasted image 20231003230414.png",
