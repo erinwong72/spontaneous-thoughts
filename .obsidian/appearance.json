@@ -1,6 +1,6 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "accentColor": "",
+  "cssTheme": "iA Writer",
+  "accentColor": "#18beec",
   "theme": "moonstone",
   "baseFontSize": 16,
   "baseFontSizeAction": false,
@@ -9,5 +9,6 @@
   "enabledCssSnippets": [
     "extended-colorschemes"
   ],
-  "nativeMenus": true
+  "nativeMenus": true,
+  "showViewHeader": false
 }
