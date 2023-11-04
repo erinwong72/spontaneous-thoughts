@@ -11,8 +11,12 @@
             "id": "a8c5838c357728b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "logs/2023-11-04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +71,16 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "e299c51b1abdc2ea",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -81,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "logs/2023-11-04.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "logs/2023-11-04.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,6 +123,16 @@
         "type": "leaf",
         "state": {
           "type": "outline",
+          "state": {
+            "file": "logs/2023-11-04.md"
+          }
+        }
+      },
+      {
+        "id": "71658978aab23cd7",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
           "state": {}
         }
       }
@@ -120,9 +146,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "a8c5838c357728b1",
-  "lastOpenFiles": []
+  "active": "fc4c7690c0692b2b",
+  "lastOpenFiles": [
+    "logs/2023-11-03.md",
+    "logs/2023-11-04.md",
+    "logs/2023-07-26.md"
+  ]
 }
