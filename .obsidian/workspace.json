@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/2023-11-03.md",
+                "file": "logs/2023-11-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/2023-11-03.md",
+                "file": "logs/2023-11-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/2023-11-03.md",
+                "file": "logs/2023-11-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/2023-11-03.md"
+                "file": "logs/2023-11-04.md"
               }
             }
           },
@@ -178,10 +179,11 @@
   },
   "active": "ff850886c5055b64",
   "lastOpenFiles": [
+    "logs/2023-11-03.md",
+    "logs/2023-11-04.md",
     "attachments/Pasted image 20231103213843.png",
     "logs/2023-10-12.md",
     "logs/2023-10-11.md",
-    "logs/2023-11-03.md",
     "logs/2023-10-03.md",
     "logs/2023-08-29.md",
     "logs/2023-07-30.md",
@@ -215,7 +217,6 @@
     "attachments/Pasted image 20230902122239.png",
     "attachments/Pasted image 20230902121653.png",
     "attachments/Pasted image 20230902121256.png",
-    "attachments/Pasted image 20230902120837.png",
     "Fixing missing atoms",
     "attachments/IMG_9555.heic",
     "technical",
