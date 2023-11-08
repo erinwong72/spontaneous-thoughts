@@ -1,6 +1,6 @@
 {
-  "accentColor": "#18ceeb",
   "cssTheme": "iA Writer",
-  "showViewHeader": false,
-  "theme": "moonstone"
+  "accentColor": "#18ceeb",
+  "theme": "obsidian",
+  "showViewHeader": false
 }
