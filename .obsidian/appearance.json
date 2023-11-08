@@ -1,14 +1,6 @@
 {
+  "accentColor": "#18ceeb",
   "cssTheme": "iA Writer",
-  "accentColor": "#18beec",
-  "theme": "obsidian",
-  "baseFontSize": 16,
-  "baseFontSizeAction": false,
-  "textFontFamily": "",
-  "interfaceFontFamily": "",
-  "enabledCssSnippets": [
-    "extended-colorschemes"
-  ],
-  "nativeMenus": true,
-  "showViewHeader": false
+  "showViewHeader": false,
+  "theme": "moonstone"
 }
