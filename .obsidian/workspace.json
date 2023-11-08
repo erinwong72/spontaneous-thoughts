@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/2023-11-07.md",
+                "file": "logs/2023-11-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/2023-11-07.md",
+                "file": "logs/2023-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/2023-11-07.md",
+                "file": "logs/2023-11-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/2023-11-07.md"
+                "file": "logs/2023-11-08.md"
               }
             }
           },
@@ -180,9 +179,19 @@
   },
   "active": "cd816590c8be7b64",
   "lastOpenFiles": [
+    "logs/2023-11-07.md",
+    "logs/lab/2023-10-12 Lab.md",
+    "logs/lab/2023-10-11 Lab.md",
+    "logs/2023-11-08.md",
+    "Work and Energy.md",
+    "Pasted image 20231108110935.png",
+    "Pasted image 20231108110556.png",
+    "Pasted image 20231108110303.png",
+    "Excalidraw/Drawing 2023-11-08 11.16.45.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-08 11.12.06.excalidraw.md",
+    "Excalidraw",
     "attachments/Screenshot 2023-11-07 at 3.30.49 PM.png",
     "attachments/Screenshot 2023-11-07 at 2.16.08 PM.png",
-    "logs/2023-11-07.md",
     "attachments/Pasted image 20231107141437.png",
     "attachments/Screenshot 2023-11-07 at 2.13.53 PM.png",
     "attachments/Pasted image 20231107141343.png",
@@ -206,17 +215,8 @@
     "thoughts/Periodic boundary conditions.md",
     "thoughts/Elliptic contact function.md",
     "technical/Writing an equilibration config file.md",
-    "technical/Writing an energy minimization config file.md",
-    "technical/Molecular dynamics run (MDrun) analysis.md",
-    "technical/GROMACS on Seawulf.md",
-    "logs/2023-10-04.md",
-    "logs/lab/2023-08-07 Lab.md",
     "attachments/Screenshot 2023-10-11 at 7.04.52 PM.png",
-    "attachments/Pasted image 20231011175358.png",
     "thoughts/American Revolution (1774-1787).canvas",
-    "attachments/Screenshot 2023-10-07 at 11.11.34 AM.png",
-    "attachments/Pasted image 20231003230414.png",
-    "attachments/Pasted image 20231003225908.png",
     "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
     "Fixing missing atoms",
     "attachments/IMG_9555.heic",
@@ -225,7 +225,6 @@
     "logs/Untitled",
     "logs/lab",
     "lab",
-    "logs",
-    "thoughts"
+    "logs"
   ]
 }
