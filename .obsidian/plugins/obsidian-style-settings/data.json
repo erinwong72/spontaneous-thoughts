@@ -49,5 +49,12 @@
   "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-sky",
   "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-mauve",
   "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-vanilla-plus",
-  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-yellow"
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-yellow",
+  "ul-theme-settings@@ul-tag-border": true,
+  "ul-theme-settings@@ul-background-gradient": false,
+  "ul-theme-settings@@ul-accent-title": true,
+  "ul-theme-settings@@ul-theme-light": "ul-obplus-lt",
+  "ul-theme-settings@@ul-theme-dark": "ul-obplus-dt",
+  "ul-theme-settings@@font-text-theme": "Uncut Sans",
+  "ul-theme-settings@@font-title": "Nightingale"
 }
