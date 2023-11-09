@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/2023-11-08.md",
+                "file": "logs/lab/2023-09-24 Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fly",
+                "query": "parallel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/2023-11-08.md",
+                "file": "logs/lab/2023-09-24 Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/2023-11-08.md",
+                "file": "logs/lab/2023-09-24 Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/2023-11-08.md"
+                "file": "logs/lab/2023-09-24 Lab.md"
               }
             }
           },
@@ -155,13 +155,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +177,20 @@
   },
   "active": "cd816590c8be7b64",
   "lastOpenFiles": [
-    "logs/2023-11-07.md",
-    "logs/lab/2023-10-12 Lab.md",
+    "logs/lab/2023-08-29 Lab.md",
+    "logs/lab/2023-10-03 Lab.md",
+    "logs/lab/2023-10-04 Lab.md",
     "logs/lab/2023-10-11 Lab.md",
+    "logs/lab/2023-10-12 Lab.md",
+    "logs/2023-11-03.md",
+    "logs/2023-10-12.md",
+    "logs/2023-10-11.md",
+    "logs/2023-10-04.md",
+    "logs/2023-10-03.md",
+    "logs/2023-09-24.md",
+    "thoughts/How to use mpi4py (parallel processing) on HPC.md",
     "logs/2023-11-08.md",
+    "logs/2023-11-07.md",
     "Work and Energy.md",
     "Pasted image 20231108110935.png",
     "Pasted image 20231108110556.png",
@@ -196,25 +204,15 @@
     "attachments/Screenshot 2023-11-07 at 2.13.53 PM.png",
     "attachments/Pasted image 20231107141343.png",
     "logs/2023-11-04.md",
-    "logs/2023-11-03.md",
     "thoughts/Git lfs setup.md",
     "technical/Github branch navigation.md",
     "attachments/Pasted image 20231103213843.png",
-    "logs/2023-10-12.md",
-    "logs/2023-10-11.md",
-    "logs/2023-10-03.md",
     "logs/2023-08-29.md",
     "logs/2023-07-30.md",
     "logs/2023-07-27.md",
     "logs/2023-07-26.md",
     "thoughts/Structured Forests for Edge Detection.md",
     "logs/lab/2023-08-25 Lab.md",
-    "thoughts/Viscosity.md",
-    "thoughts/Up-the-ramp readout scheme.md",
-    "thoughts/Threshold-Crossing Events.md",
-    "thoughts/Periodic boundary conditions.md",
-    "thoughts/Elliptic contact function.md",
-    "technical/Writing an equilibration config file.md",
     "attachments/Screenshot 2023-10-11 at 7.04.52 PM.png",
     "thoughts/American Revolution (1774-1787).canvas",
     "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
