@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/Drawing 2023-11-08 11.12.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/Drawing 2023-11-08 11.12.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "attachments/Drawing 2023-11-08 11.12.06.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +170,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed61301d7f969333",
+  "active": "f11330fa7a10ea5a",
   "lastOpenFiles": [
+    "attachments/Drawing 2023-11-08 11.12.06.excalidraw.md",
     "thoughts/Linear Transformations.md",
     "Pasted image 20231109055632.png",
     "Screenshot 2023-11-09 at 5.53.29 AM.png",
