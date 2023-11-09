@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a74d699aadabf726",
+        "id": "7dac4d6631dd32e2",
         "type": "tabs",
         "children": [
           {
-            "id": "cd816590c8be7b64",
+            "id": "f11330fa7a10ea5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Transformations.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Transformations.md",
+                "file": "attachments/Drawing 2023-11-08 11.12.06.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Transformations.md",
+                "file": "attachments/Drawing 2023-11-08 11.12.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Transformations.md"
+                "file": "attachments/Drawing 2023-11-08 11.12.06.excalidraw.md"
               }
             }
           },
@@ -175,15 +170,16 @@
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd816590c8be7b64",
+  "active": "ed61301d7f969333",
   "lastOpenFiles": [
+    "thoughts/Linear Transformations.md",
     "Pasted image 20231109055632.png",
     "Screenshot 2023-11-09 at 5.53.29 AM.png",
     "logs/2023-11-09.md",
-    "Linear Transformations.md",
     "logs/2023-11-08.md",
     "logs/2023-11-07.md",
     "logs/2023-11-04.md",
@@ -216,7 +212,6 @@
     "attachments/Pasted image 20231107141437.png",
     "attachments/Screenshot 2023-11-07 at 2.13.53 PM.png",
     "attachments/Pasted image 20231107141343.png",
-    "attachments/Pasted image 20231103213843.png",
     "thoughts/American Revolution (1774-1787).canvas",
     "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
     "Fixing missing atoms",
