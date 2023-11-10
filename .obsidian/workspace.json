@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/2023-11-09.md",
+                "file": "logs/lab/2023-10-11 Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/2023-11-09.md",
+                "file": "logs/lab/2023-10-11 Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/2023-11-09.md",
+                "file": "logs/lab/2023-10-11 Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/2023-11-09.md"
+                "file": "logs/lab/2023-10-11 Lab.md"
               }
             }
           },
@@ -181,6 +180,18 @@
   },
   "active": "f11330fa7a10ea5a",
   "lastOpenFiles": [
+    "logs/lab/2023-10-04 Lab.md",
+    "logs/lab/2023-10-03 Lab.md",
+    "logs/lab/2023-09-24 Lab.md",
+    "logs/2023-09-24.md",
+    "logs/2023-09-17.md",
+    "logs/2023-08-29.md",
+    "logs/2023-08-15.md",
+    "logs/2023-08-10.md",
+    "logs/2023-08-06.md",
+    "logs/2023-08-04.md",
+    "logs/2023-11-07.md",
+    "2023-11-06.md",
     "logs/2023-11-08.md",
     "logs/2023-11-09.md",
     "Pasted image 20231109162452.png",
@@ -203,17 +214,6 @@
     "attachments/Drawing 2023-11-08 11.12.06.excalidraw.md",
     "Pasted image 20231109055632.png",
     "Screenshot 2023-11-09 at 5.53.29 AM.png",
-    "logs/2023-11-07.md",
-    "logs/2023-11-04.md",
-    "logs/lab/2023-10-03 Lab.md",
-    "logs/2023-10-03.md",
-    "logs/2023-09-24.md",
-    "logs/2023-10-04.md",
-    "logs/2023-10-11.md",
-    "logs/2023-10-12.md",
-    "logs/2023-11-03.md",
-    "logs/lab/2023-10-04 Lab.md",
-    "logs/lab/2023-09-24 Lab.md",
     "Pasted image 20231108110935.png",
     "Pasted image 20231108110556.png",
     "Excalidraw",
