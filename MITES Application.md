@@ -34,5 +34,3 @@ We acknowledge that circumstances and events related to COVID-19 may impact you,
 OPTIONAL - Is there additional information you'd like to share?
 
 If you feel there is important information you'd like to share with us that is not already included elsewhere in the application, you may include it here. 
-
-**Optional response**. _A response to this question is not required._ If you choose to leave this question response blank, you must hit the 'Save and Next' button below to submit this section.
