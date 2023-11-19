@@ -1,4 +1,7 @@
 {
   "showInlineTitle": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "thoughts",
+  "attachmentFolderPath": "attachments"
 }
