@@ -60,5 +60,6 @@
   "o-theme-settings@@o-font-general": "Lexend",
   "o-theme-settings@@o-font-title": "Getai",
   "o-theme-settings@@o-faintselect": false,
-  "o-theme-settings@@o-accent-title": false
+  "o-theme-settings@@o-accent-title": false,
+  "maple-basic@@color-use-custom": true
 }
