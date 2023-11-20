@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "13e3555389c8dea0",
+            "id": "f288029bbc83966c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Work and Energy.md",
+                "file": "thoughts/Integrated Rate Law.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/RSI Application.md",
+                "file": "thoughts/Integrated Rate Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/RSI Application.md",
+                "file": "thoughts/Integrated Rate Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/RSI Application.md"
+                "file": "thoughts/Integrated Rate Law.md"
               }
             }
           },
@@ -182,14 +183,15 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "6ec0e5b328f1992f",
+  "active": "f288029bbc83966c",
   "lastOpenFiles": [
-    "thoughts/AlphaFold Journal Club Speaker Notes.md",
+    "thoughts/RSI Application.md",
+    "thoughts/Integrated Rate Law.md",
     "thoughts/Work and Energy.md",
+    "thoughts/AlphaFold Journal Club Speaker Notes.md",
     "thoughts/Viscosity.md",
     "thoughts/Statics.md",
     "thoughts/Nullification Crisis.md",
-    "thoughts/RSI Application.md",
     "attachments/Pasted image 20231119151144.png",
     "attachments/Pasted image 20231119150901.png",
     "attachments/Screenshot 2023-11-19 at 2.26.46 PM.png",
@@ -213,7 +215,6 @@
     "logs/lab/2023-10-04 Lab.md",
     "logs/lab/2023-10-11 Lab.md",
     "logs/2023-08-15.md",
-    "logs/2023-08-10.md",
     "attachments/Pasted image 20231109162452.png",
     "attachments/Screenshot 2023-11-09 at 5.53.29 AM.png",
     "attachments/Pasted image 20231109055632.png",
