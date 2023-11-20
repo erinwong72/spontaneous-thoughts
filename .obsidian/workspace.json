@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
+                "file": "thoughts/RSI Application.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
+                "file": "thoughts/RSI Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md",
+                "file": "thoughts/RSI Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/AlphaFold Journal Club Speaker Notes.md"
+                "file": "thoughts/RSI Application.md"
               }
             }
           },
@@ -183,11 +184,11 @@
   },
   "active": "6ec0e5b328f1992f",
   "lastOpenFiles": [
+    "thoughts/AlphaFold Journal Club Speaker Notes.md",
     "thoughts/Work and Energy.md",
     "thoughts/Viscosity.md",
     "thoughts/Statics.md",
     "thoughts/Nullification Crisis.md",
-    "thoughts/AlphaFold Journal Club Speaker Notes.md",
     "thoughts/RSI Application.md",
     "attachments/Pasted image 20231119151144.png",
     "attachments/Pasted image 20231119150901.png",
