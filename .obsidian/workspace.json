@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Integrated Rate Law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d0d9a82292bdbb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Rate Laws.md",
+                "file": "templates/log note.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "thoughts/Elementary reactions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "princeton",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -221,11 +209,16 @@
   },
   "active": "e2f8c40ea51d757c",
   "lastOpenFiles": [
-    "thoughts/Rate Laws.md",
-    "thoughts/Elementary reactions.md",
     "thoughts/Chain reactions.md",
-    "thoughts/Integrated Rate Law.md",
+    "thoughts/Elementary reactions.md",
+    "templates/log note.md",
     "thoughts/RSI Application.md",
+    "thoughts/Rate Laws.md",
+    "logs/2023-11-20.md",
+    "templates/lab note.md",
+    "templates/atomic note.md",
+    "logs/2023-11-09.md",
+    "thoughts/Integrated Rate Law.md",
     "thoughts/Work and Energy.md",
     "thoughts/AlphaFold Journal Club Speaker Notes.md",
     "thoughts/Viscosity.md",
@@ -246,11 +239,6 @@
     "logs/lab/2023-08-26 Lab.md",
     "logs/lab/2023-08-29 Lab.md",
     "logs/lab/2023-09-24 Lab.md",
-    "logs/lab/2023-10-03 Lab.md",
-    "logs/2023-09-17.md",
-    "logs/2023-08-29.md",
-    "logs/2023-09-24.md",
-    "logs/2023-08-26.md",
     "attachments/Pasted image 20231109162452.png",
     "attachments/Screenshot 2023-11-09 at 5.53.29 AM.png",
     "attachments/Pasted image 20231109055632.png",

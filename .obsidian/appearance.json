@@ -1,6 +1,7 @@
 {
-  "cssTheme": "gummy",
-  "accentColor": "#79b8d7",
+  "cssTheme": "Dawn",
+  "accentColor": "",
   "theme": "moonstone",
-  "showViewHeader": false
+  "showViewHeader": false,
+  "baseFontSize": 16
 }
