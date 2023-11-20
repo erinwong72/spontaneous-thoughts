@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "223876a4a4008001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Momentum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50e99b90049c622e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Impulse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "thoughts/Convergence tests.md",
+            "file": "thoughts/Impulse.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "thoughts/Convergence tests.md",
+            "file": "thoughts/Impulse.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "thoughts/Convergence tests.md"
+            "file": "thoughts/Impulse.md"
           }
         }
       },
@@ -167,16 +191,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "570e3eb66cf42d25",
+  "active": "50e99b90049c622e",
   "lastOpenFiles": [
-    "thoughts/The Divergence Test.md",
+    "attachments/Elastic collisions example.pdf",
+    "thoughts/Center of mass.md",
+    "thoughts/Elastic collisions.md",
+    "attachments/Elastic collisions example 2.pdf",
+    "thoughts/Collisions.md",
+    "thoughts/Inelastic collisions.md",
+    "attachments/Impulse example.pdf",
+    "attachments/Inelastic collisions example.pdf",
+    "attachments/Inelastic collisions example 2.pdf",
+    "attachments/Center of mass example.pdf",
+    "attachments/Center of mass example 2.pdf",
+    "thoughts/Impulse.md",
+    "attachments/Impulse example 2.pdf",
+    "thoughts/Momentum.md",
     "thoughts/Convergence tests.md",
+    "thoughts/The Divergence Test.md",
     "thoughts/Gradualism.md",
     "attachments/Proof of divergence test.pdf",
     "thoughts/Proof of divergence test.pdf",
-    "attachments/Divergence test.pdf",
-    "handwritten-notes/Divergence test.pdf",
-    "handwritten-notes",
     "templates/atomic note.md",
     "exhaust/Playing music in the Hospital (essay).md",
     "thoughts/Immediatism (Abolitionism).md",
@@ -185,7 +220,6 @@
     "thoughts/Electric potential.md",
     "exhaust/Impact of running (essay).md",
     "exhaust/Tinkering with obsidian (essay).md",
-    "exhaust",
     "logs/lab/2023-08-26 Lab.md",
     "logs/lab/2023-08-25 Lab.md",
     "logs/lab/2023-08-24 Lab.md",
@@ -195,16 +229,6 @@
     "logs/2023-08-22.md",
     "logs/2023-11-08.md",
     "logs/2023-11-07.md",
-    "logs/2023-11-09.md",
-    "thoughts/Fixing missing atoms or residues in PDB structures.md",
-    "thoughts/Equipotential lines.md",
-    "attachments/Potential difference sheet of charge.pdf",
-    "attachments/Potential difference between shells.pdf",
-    "attachments/Electric potential line of charge.pdf",
-    "attachments/Electric potential line of charge 2.pdf",
-    "thoughts/Work and Energy.md",
-    "thoughts/Anti-slavery movement.md",
-    "thoughts/Young's Modulus.md",
     "attachments/Pasted image 20231108110303.png",
     "attachments/Pasted image 20231108110935.png",
     "attachments/Pasted image 20231108110556.png",
