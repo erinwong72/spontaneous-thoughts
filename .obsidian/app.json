@@ -26,5 +26,6 @@
     "editor:redo",
     "editor:configure-toolbar",
     "handwritten-notes:modal-create-embed"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

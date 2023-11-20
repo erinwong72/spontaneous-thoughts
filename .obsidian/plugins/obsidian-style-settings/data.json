@@ -3,7 +3,6 @@
   "ul-theme-settings@@ul-radius": "var(--radius-l)",
   "ul-theme-settings@@ul-bar": false,
   "ul-theme-settings@@ul-work-border": true,
-  "minimal-style@@ribbon-style": "ribbon-hidden",
   "custom-diegoeis-simple@@eis-sidebar-dark": true,
   "custom-diegoeis-simple@@eis-font-type": "eis-font-iawriter-quattro",
   "o-theme-settings@@o-theme-light": "ul-obplus-lt",
@@ -17,7 +16,6 @@
   "anuppuccin-theme-settings@@h5-font": "Karla",
   "anuppuccin-theme-settings@@h4-font": "Karla",
   "anuppuccin-theme-settings@@h6-font": "Karla",
-  "minimal-style@@tabs-style": "tabs-modern",
   "primary-ceciliamay@@vault-title__titlebar": false,
   "primary-ceciliamay@@vault-title__file-explorer": false,
   "primary-ceciliamay@@hide__note-header": false,
@@ -61,5 +59,7 @@
   "o-theme-settings@@o-font-title": "Getai",
   "o-theme-settings@@o-faintselect": false,
   "o-theme-settings@@o-accent-title": false,
-  "maple-basic@@color-use-custom": true
+  "maple-basic@@color-use-custom": true,
+  "ul-theme-settings@@ul-theme-light": "ul-obplus-lt",
+  "ul-theme-settings@@ul-theme-dark": "ul-obplus-dt"
 }

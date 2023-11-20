@@ -1,7 +1,32 @@
 {
-  "cssTheme": "Origami",
+  "cssTheme": "Minimal",
   "accentColor": "",
   "theme": "moonstone",
   "showViewHeader": false,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "textFontFamily": "Satoshi",
+  "enabledCssSnippets": [
+    "[editor] Custom Tag styles",
+    "[editor] Editor fixes",
+    "[editor] Frontmatter tweaks",
+    "[editor] Table tweaks",
+    "[ui] Collapsible Right Headers",
+    "[ui] Compact File Explorer",
+    "[ui] Compact Sidebar Header",
+    "[ui] Compact Tab Header",
+    "[ui] Compact Tabs",
+    "[ui] Custom Separators (gradient)",
+    "[ui] Floating Tab Header",
+    "[ui] Hide Ribbon",
+    "[ui] Native Scrollbar styles",
+    "[ui] Resize Handles tweaks",
+    "[ui] Top fade",
+    "[user] Themed colours",
+    "Checklist - Ultra compact",
+    "Custom Frames",
+    "Daily Note Outline",
+    "Tasks - Expand dates on hover",
+    "Task Progressbars",
+    "Tasks - Compact"
+  ]
 }
