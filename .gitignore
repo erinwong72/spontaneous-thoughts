@@ -1,1 +1,2 @@
-*.json
+.obsidian/appearance.json
+.obsidian/app.json
