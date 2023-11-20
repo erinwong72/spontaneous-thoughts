@@ -54,6 +54,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4acbfad3bdecac01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Chain reactions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -211,6 +223,7 @@
   "lastOpenFiles": [
     "thoughts/Rate Laws.md",
     "thoughts/Elementary reactions.md",
+    "thoughts/Chain reactions.md",
     "thoughts/Integrated Rate Law.md",
     "thoughts/RSI Application.md",
     "thoughts/Work and Energy.md",
@@ -238,7 +251,6 @@
     "logs/2023-08-29.md",
     "logs/2023-09-24.md",
     "logs/2023-08-26.md",
-    "logs/lab/2023-10-04 Lab.md",
     "attachments/Pasted image 20231109162452.png",
     "attachments/Screenshot 2023-11-09 at 5.53.29 AM.png",
     "attachments/Pasted image 20231109055632.png",
