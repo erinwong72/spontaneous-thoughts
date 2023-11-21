@@ -1,6 +1,8 @@
-I raised my bow, its weight heavy in my hand, about to start my rendition of J. S. Bach’s fourth cello suite again. Nurses, hospital staff, and families bustled around me but I took no note. Every Sunday I would spend three hours at the hospital playing live music in the front lobby and every Sunday it would be the same routine -- I would set up, start playing, take a few short breaks, and then pack up and leave -- but this Sunday was different. Just as I gently lowered my bow to the C string, left hand hovering over the E flat, a man cleared his throat. Startled, I looked up, surprised to see a tall middle-aged man only a few feet away. 
+I raised my bow, its weight heavy in my hand, about to start my rendition of J. S. Bach’s fourth cello suite again. Nurses, hospital staff, and families bustled around me but I took no note. Every Sunday I would spend three hours at the hospital playing live music in the front lobby and every Sunday it would be the same routine -- I would set up, start playing, take a few short breaks, and then pack up and leave -- but this Sunday was different. Just as I gently lowered my bow to the C string, left hand hovering over the E flat, someone cleared his throat. Startled, I looked up, surprised to see a tall middle-aged man only a few feet away. 
 
-“My mother is dying today.” He walked closer.
+“My mother is dying today.” He walked closer. 
+
+I stared blankly at him, questioning what I had just heard.
 
 “She loved classical music and she would be so happy to hear it live, played just for her as she passes. Would you be willing to come up to the ICU and play for her a bit?”
 
@@ -12,4 +14,10 @@ As I entered the ICU, I heard the familiar hospital sounds of heart rate monitor
 
 But there was no response.
 
-I chose to play a sad and melancholic movement from Bach’s fifth suite, beautiful yet mournful. With chords reminiscent of wailing cries and elegant melodic lines, it captured the pain 
+I chose to play a sad and melancholic movement from Bach’s fifth suite, beautiful yet mournful. With chords reminiscent of wailing cries and elegant melodic lines, it captured the pain and suffering the family had gone through. Pouring everything I had into the performance, I felt the tension in the room relax, slowly ebbing away. As I left, I looked back to see the family huddled together, saying their final farewells.
+
+That Sunday, I walked out of the hospital at the end of my shift not just a little wiser but invigorated, motivated to go and share music with others.
+
+I later reached out to several nursing homes to perform for the elderly, hoping to once again bring people together, providing a common medium that they could enjoy. Hesitant at first to share my love for classical music, I first presented a program consisting mainly of pop song covers. I could never forget what an elderly 86-year old man said to me after the first performance: “Play what you like and we’ll learn how to like it”. As I quickly found out, this turned out to be true: no matter what pieces I played, there were always people in the audience, smiling blissfully, waving their arms or other limbs.
+
+Taking suggestions from the elderly themselves, I continued to tailor these performances to their wants and needs, such as speaking louder in general and playing pieces by the Beatles and John Lennon. What started as a one-person one-time event has now become a daily Sunday staple. I would reach the front door to the nursing home, sign into the logbook, and begin my “one-man” show.
