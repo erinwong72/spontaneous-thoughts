@@ -4,7 +4,12 @@ I’ve always loved reading. It was all the entertainment I knew when I was youn
 
 The answer, I later came to understand, laid in a field called neuroscience.
 
-My first encounter with neuroscience was again, through books. One day, having exhausted the new load of books I had just borrowed from the library a few days prior, 
+My first encounter with neuroscience was again, through books. One day, when I was maybe seven or eight, having exhausted the new load of books I had just borrowed from the library a few days prior, I scanned all the bookshelves in the house for something, anything to read. After some time of running my fingers over the spines, my gaze landed on a thin, unassuming picture book. From the spine, I could only make out the last word, “hospital”. I gently lifted it off the shelf and flipped through the pages. As a squeamish child, I covered my eyes at the sight of any blood, skipping all the gory parts. However, one image remained imprinted in my memory, one of the brain divided into its usual five lobes. For some reason, this diagram caught my attention. To eight-year-old me, it was fascinating how structured our brains were -- they weren’t just big bowls of soup with thoughts floating around. 
+
+Time continued to pass, more quickly as I entered middle school. In seventh grade biology, I was captivated during the nervous system unit, learning about the cerebellum, cerebrum, central and peripheral nervous systems. Even as I consumed all this new information, I continued to ask even more questions not only about myself but about others around me. How do we all recognize each other? How am I able to understand what’s going on around me through my five senses -- how do I really see/hear/touch/taste the environment? I was able to understand and answer a few questions to a shallow degree (we see through photoreceptors in our eyes converting light to electrical signals), but most remained unanswered, a motivation for further investigation.
+
+Yet time still kept on ticking, and I was now in high school. Finally, as a freshman, I started seriously studying neuroscience, in an attempt to both understand enough to answer all these questions I still had and study for the Brain Bee, a neuroscience competition I had discovered. 
+
 
 
 
