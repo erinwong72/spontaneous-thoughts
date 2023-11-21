@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec947c76920d3512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Temperature effect on reactions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9362838da93c5f5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Collision theory for chemical reactions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Rate Laws.md",
+                "file": "thoughts/Collision theory for chemical reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Rate Laws.md",
+                "file": "thoughts/Collision theory for chemical reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Rate Laws.md"
+                "file": "thoughts/Collision theory for chemical reactions.md"
               }
             }
           },
@@ -183,8 +207,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "174444e3dc59d6c9",
+  "active": "9362838da93c5f5c",
   "lastOpenFiles": [
+    "thoughts/Temperature effect on reactions.md",
+    "thoughts/Collision theory for chemical reactions.md",
+    "thoughts/Rate Laws.md",
+    "thoughts/Models of chemical reactions.md",
     "thoughts/Elementary reactions.md",
     "logs/2023-11-21.md",
     "logs/lab/2023-10-11 Lab.md",
@@ -217,13 +245,9 @@
     "thoughts/Equipotential lines.md",
     "exhaust",
     "thoughts/Chain reactions.md",
-    "thoughts/Immediatism (Abolitionism).md",
-    "thoughts/Electric potential.md",
-    "thoughts/Anti-slavery movement.md",
     "attachments/Potential difference sheet of charge.pdf",
     "attachments/Potential difference between shells.pdf",
     "attachments/Equipotential lines.pdf",
-    "thoughts/Rate Laws.md",
     "attachments/Pasted image 20231119151144.png",
     "attachments/Pasted image 20231119150901.png",
     "attachments/Screenshot 2023-11-19 at 2.26.46 PM.png",
