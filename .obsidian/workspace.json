@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exhaust/Playing music in the Hospital (essay).md",
+                "file": "logs/2023-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exhaust/Playing music in the Hospital (essay).md",
+                "file": "logs/2023-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exhaust/Playing music in the Hospital (essay).md"
+                "file": "logs/2023-11-20.md"
               }
             }
           },
@@ -207,14 +207,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f697cf2feab9782",
+  "active": "3b15726ad73ef370",
   "lastOpenFiles": [
-    "logs/2023-11-20.md",
+    "logs/lab/2023-10-11 Lab.md",
     "exhaust/Playing music in the Hospital (essay).md",
+    "logs/2023-11-20.md",
     "thoughts/Volunteering at nursing homes (essay).md",
     "exhaust/Impact of running (essay).md",
     "thoughts/2023-11-20 Lab.md",
-    "logs/lab/2023-10-11 Lab.md",
     "attachments/Pasted image 20231120204534.png",
     "attachments/Screenshot 2023-11-20 at 8.36.47 PM.png",
     "attachments/Pasted image 20231120190021.png",
