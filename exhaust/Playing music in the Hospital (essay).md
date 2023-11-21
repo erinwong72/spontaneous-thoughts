@@ -6,4 +6,10 @@ I raised my bow, its weight heavy in my hand, about to start my rendition of J. 
 
 I gaped at him, still trying to comprehend his request. Perhaps it was the stark contrast to the usual monotony or just the suddenness of it all, but when it finally dawned on me that this man was watching his mother slowly slip away from him, I knew I had to play for them. There was no better way for me to use my skills than to make others happy or at ease, even during their very last moments.
 
-As I entered the ICU, I heard the familiar hospital sounds of heart rate monitors beeping and oxygen tanks pumping, but at the same time felt the somber mood that swept through the whole floor.
+As I entered the ICU, I heard the familiar hospital sounds of heart rate monitors beeping and oxygen tanks pumping, but felt the somber mood that swept through the whole floor. Finally reaching the door to the mother’s room, I paused. It was my last chance to turn back. Without much further thought, I stepped into the room. There laid the dying mother, in the midst of her loving family: the middle-aged guy, his sister, and his older brother. Quickly unpacking my cello, I overheard snippets of their conversation.
+
+“Look, mom, she’s here to play you your favorite music!”
+
+But there was no response.
+
+I chose to play a sad and melancholic movement from Bach’s fifth suite, beautiful yet mournful. With chords reminiscent of wailing cries and elegant melodic lines, it captured the pain 
