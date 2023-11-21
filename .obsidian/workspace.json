@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "174444e3dc59d6c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Rate Laws.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec947c76920d3512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Temperature effect on reactions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9362838da93c5f5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Collision theory for chemical reactions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1fb6cf80b8588ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Harpoon mechanism of reaction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Collision theory for chemical reactions.md",
+                "file": "logs/2023-11-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Collision theory for chemical reactions.md",
+                "file": "logs/2023-11-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,16 +126,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Collision theory for chemical reactions.md"
+                "file": "logs/2023-11-21.md"
               }
-            }
-          },
-          {
-            "id": "641708b81f248a44",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
             }
           },
           {
@@ -194,14 +137,21 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "4e720d059e314faf",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,18 +169,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9362838da93c5f5c",
+  "active": "5773a3a7c227f923",
   "lastOpenFiles": [
-    "thoughts/Harpoon mechanism of reaction.md",
-    "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
-    "thoughts/Collision theory for chemical reactions.md",
-    "thoughts/Temperature effect on reactions.md",
     "thoughts/Rate Laws.md",
+    "thoughts/Temperature effect on reactions.md",
+    "thoughts/Collision theory for chemical reactions.md",
+    "thoughts/Harpoon mechanism of reaction.md",
+    "logs/2023-11-21.md",
+    "logs/2023-11-20.md",
+    "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
     "thoughts/Models of chemical reactions.md",
     "thoughts/Elementary reactions.md",
-    "logs/2023-11-21.md",
     "logs/lab/2023-10-11 Lab.md",
-    "logs/2023-11-20.md",
     "exhaust/Playing music in the Hospital (essay).md",
     "thoughts/Volunteering at nursing homes (essay).md",
     "exhaust/Impact of running (essay).md",
