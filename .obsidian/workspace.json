@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd7eebcd48058cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exhaust/Impact of running (essay).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5773a3a7c227f923",
             "type": "leaf",
             "state": {
@@ -42,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "27032a0c9ab0e654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exhaust/Playing music in the Hospital (essay).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,6 +185,9 @@
   },
   "active": "3b15726ad73ef370",
   "lastOpenFiles": [
+    "exhaust/Impact of running (essay).md",
+    "logs/2023-11-20.md",
+    "thoughts/2023-11-20 Lab.md",
     "attachments/Pasted image 20231120190021.png",
     "thoughts/Momentum.md",
     "thoughts/Inelastic collisions.md",
@@ -220,10 +199,7 @@
     "attachments/Impulse example.pdf",
     "attachments/Elastic collisions example.pdf",
     "attachments/Center of mass example.pdf",
-    "logs/2023-11-20.md",
-    "thoughts/2023-11-20 Lab.md",
     "templates/log note.md",
-    "exhaust/Impact of running (essay).md",
     "exhaust/Playing music in the Hospital (essay).md",
     "thoughts/The Divergence Test.md",
     "thoughts/Convergence tests.md",
@@ -254,7 +230,6 @@
     "attachments/Pasted image 20231108110935.png",
     "attachments/Pasted image 20231108110556.png",
     "attachments/Pasted image 20231108110303.png",
-    "Pasted image 20231109055632.png",
     "thoughts/American Revolution (1774-1787).canvas"
   ]
 }
