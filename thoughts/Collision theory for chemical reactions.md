@@ -12,7 +12,19 @@ The overall equation consists of two parts:
 2. **Activation energy**, dictating that only particles with enough activation energy will lead to reaction
 	- The **Boltzmann distribution** is used to calculate the number of molecules that have enough energy
 	- $$e^{\frac{-E_{min}}{RT}}$$
-3. **Steric factor** accounts for a preference for a certain relative orientation in the reaction
+		- $E_{min} = E_{a}$
+1. **Steric factor** accounts for a preference for a certain relative orientation in the reaction
 
 >[!formula] Collision theory equation
->$$k = P \times \sigma v_{rel}N_{A}^{2}[A][B] \times e$$
+>$$k = P \times \sigma v_{rel}N_{A}^{2} \times e^{\frac{-E_{a}}{RT}}$$
+
+- Get rate of reaction by multiplying $[A][B]$ back on
+
+This explains [[Temperature effect on reactions]] as well as the nature of *endothermic* vs *exothermic* processes.
+- Endothermic has higher activation energy and increased K when T is increased
+- Exothermic has lower activation energy and decreased K when T is increased (reverse increases)
+
+N
+S: [[Temperature effect on reactions]]
+E: [[Harpoon mechanism of reaction]]
+W

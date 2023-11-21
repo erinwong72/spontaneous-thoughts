@@ -54,6 +54,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1fb6cf80b8588ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Harpoon mechanism of reaction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -209,8 +221,10 @@
   },
   "active": "9362838da93c5f5c",
   "lastOpenFiles": [
-    "thoughts/Temperature effect on reactions.md",
+    "thoughts/Harpoon mechanism of reaction.md",
+    "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
     "thoughts/Collision theory for chemical reactions.md",
+    "thoughts/Temperature effect on reactions.md",
     "thoughts/Rate Laws.md",
     "thoughts/Models of chemical reactions.md",
     "thoughts/Elementary reactions.md",
@@ -242,9 +256,7 @@
     "thoughts/RSI Application.md",
     "exhaust/Tinkering with obsidian (essay).md",
     "thoughts/Gradualism.md",
-    "thoughts/Equipotential lines.md",
     "exhaust",
-    "thoughts/Chain reactions.md",
     "attachments/Potential difference sheet of charge.pdf",
     "attachments/Potential difference between shells.pdf",
     "attachments/Equipotential lines.pdf",
@@ -254,7 +266,6 @@
     "attachments/Pasted image 20231109162452.png",
     "attachments/Screenshot 2023-11-09 at 5.53.29 AM.png",
     "attachments/Pasted image 20231109055632.png",
-    "attachments/Pasted image 20231108110935.png",
     "thoughts/American Revolution (1774-1787).canvas"
   ]
 }
