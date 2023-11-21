@@ -13,43 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/lab/2023-10-11 Lab.md",
+                "file": "logs/2023-11-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3b15726ad73ef370",
+            "id": "174444e3dc59d6c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/2023-11-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f697cf2feab9782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exhaust/Playing music in the Hospital (essay).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31cb523675054aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exhaust/Impact of running (essay).md",
+                "file": "thoughts/Rate Laws.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/2023-11-20.md",
+                "file": "thoughts/Rate Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/2023-11-20.md",
+                "file": "thoughts/Rate Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/2023-11-20.md"
+                "file": "thoughts/Rate Laws.md"
               }
             }
           },
@@ -207,11 +183,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b15726ad73ef370",
+  "active": "174444e3dc59d6c9",
   "lastOpenFiles": [
+    "thoughts/Elementary reactions.md",
+    "logs/2023-11-21.md",
     "logs/lab/2023-10-11 Lab.md",
-    "exhaust/Playing music in the Hospital (essay).md",
     "logs/2023-11-20.md",
+    "exhaust/Playing music in the Hospital (essay).md",
     "thoughts/Volunteering at nursing homes (essay).md",
     "exhaust/Impact of running (essay).md",
     "thoughts/2023-11-20 Lab.md",
@@ -239,7 +217,6 @@
     "thoughts/Equipotential lines.md",
     "exhaust",
     "thoughts/Chain reactions.md",
-    "thoughts/Elementary reactions.md",
     "thoughts/Immediatism (Abolitionism).md",
     "thoughts/Electric potential.md",
     "thoughts/Anti-slavery movement.md",
@@ -247,7 +224,6 @@
     "attachments/Potential difference between shells.pdf",
     "attachments/Equipotential lines.pdf",
     "thoughts/Rate Laws.md",
-    "templates/lab note.md",
     "attachments/Pasted image 20231119151144.png",
     "attachments/Pasted image 20231119150901.png",
     "attachments/Screenshot 2023-11-19 at 2.26.46 PM.png",
