@@ -1,2 +1,4 @@
 #essay
-I’ve always loved reading. It was all the entertainment I knew when I was younger. 
+I’ve always loved reading. It was all the entertainment I knew when I was younger. Whenever I wasn’t sleeping or eating I was probably reading. Although I knew that the stories were not truths, I constantly compared my life to those of characters, which were immortalized through the stories. Unlike them, I wouldn’t always remain six years old; I would age and someday even be twenty. More than once, I questioned these very constructs of our lives, at the same time amazed and scared of the passage of time. In novels, it always seemed like time stopped for the main character, controlled by their desires and wishes, but in real life, that could not be any further from the truth. Yet, in some way, you can “control” how fast you perceive time to pass -- as I grew older, I noticed that if I was more busy, time would seem to pass faster. But why and how?
+
+The answer, I found, lay inside my brain, in a field called neuroscience.
