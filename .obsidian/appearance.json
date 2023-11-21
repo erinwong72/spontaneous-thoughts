@@ -1,7 +1,7 @@
 {
   "cssTheme": "AnuPpuccin",
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "showViewHeader": false,
   "baseFontSize": 16,
   "textFontFamily": "",
@@ -11,6 +11,7 @@
     "Task Progressbars",
     "Tasks - Compact",
     "[ui] Native Scrollbar styles",
-    "[ui] Top fade"
+    "[ui] Top fade",
+    "extended-colorschemes"
   ]
 }

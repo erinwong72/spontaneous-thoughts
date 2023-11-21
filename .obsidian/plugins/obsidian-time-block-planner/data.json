@@ -5,7 +5,7 @@
   "zoomLevel": 2,
   "timelineIcon": "calendar-with-checkmark",
   "endLabel": "All done",
-  "startHour": 7,
+  "startHour": 5,
   "timelineDateFormat": "LL",
   "centerNeedle": true,
   "plannerHeading": "Plan",
