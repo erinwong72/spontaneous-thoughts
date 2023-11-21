@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9970309a35181e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exhaust/Playing music in the Hospital (essay).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61f8e7c1208a7d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exhaust/Why I want to pursue neuroscience.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/2023-11-21.md",
+                "file": "exhaust/Why I want to pursue neuroscience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/2023-11-21.md",
+                "file": "exhaust/Why I want to pursue neuroscience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/2023-11-21.md"
+                "file": "exhaust/Why I want to pursue neuroscience.md"
               }
             }
           },
@@ -147,11 +172,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,21 +195,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5773a3a7c227f923",
+  "active": "61f8e7c1208a7d45",
   "lastOpenFiles": [
+    "logs/2023-11-21.md",
+    "exhaust/Why I want to pursue neuroscience.md",
+    "exhaust/Tinkering with obsidian (essay).md",
+    "exhaust/Playing music in the Hospital (essay).md",
+    "exhaust/Impact of running (essay).md",
     "thoughts/Rate Laws.md",
     "thoughts/Temperature effect on reactions.md",
     "thoughts/Collision theory for chemical reactions.md",
     "thoughts/Harpoon mechanism of reaction.md",
-    "logs/2023-11-21.md",
     "logs/2023-11-20.md",
     "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
     "thoughts/Models of chemical reactions.md",
     "thoughts/Elementary reactions.md",
     "logs/lab/2023-10-11 Lab.md",
-    "exhaust/Playing music in the Hospital (essay).md",
     "thoughts/Volunteering at nursing homes (essay).md",
-    "exhaust/Impact of running (essay).md",
     "thoughts/2023-11-20 Lab.md",
     "attachments/Pasted image 20231120204534.png",
     "attachments/Screenshot 2023-11-20 at 8.36.47 PM.png",
@@ -204,7 +232,6 @@
     "attachments/Proof of divergence test.pdf",
     "attachments/Divergence test.pdf",
     "thoughts/RSI Application.md",
-    "exhaust/Tinkering with obsidian (essay).md",
     "thoughts/Gradualism.md",
     "exhaust",
     "attachments/Potential difference sheet of charge.pdf",
