@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcb895b3fe2e0f74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Gradualism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "570e3eb66cf42d25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Convergence tests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "223876a4a4008001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Momentum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50e99b90049c622e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Impulse.md",
+                "file": "logs/2023-11-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "thoughts/Impulse.md",
+            "file": "logs/2023-11-21.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "thoughts/Impulse.md",
+            "file": "logs/2023-11-21.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -161,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "thoughts/Impulse.md"
+            "file": "logs/2023-11-21.md"
           }
         }
       },
@@ -191,8 +154,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50e99b90049c622e",
+  "active": "570e3eb66cf42d25",
   "lastOpenFiles": [
+    "thoughts/Convergence tests.md",
+    "thoughts/Momentum.md",
+    "thoughts/Impulse.md",
+    "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
+    "thoughts/Harpoon mechanism of reaction.md",
+    "thoughts/Temperature effect on reactions.md",
+    "thoughts/Collision theory for chemical reactions.md",
+    "logs/2023-11-21.md",
     "attachments/Screenshot 2023-11-20 at 8.36.47 PM.png",
     "attachments/Pasted image 20231120204534.png",
     "attachments/Pasted image 20231120190021.png",
@@ -209,10 +180,7 @@
     "attachments/Inelastic collisions example 2.pdf",
     "attachments/Center of mass example.pdf",
     "attachments/Center of mass example 2.pdf",
-    "thoughts/Impulse.md",
     "attachments/Impulse example 2.pdf",
-    "thoughts/Momentum.md",
-    "thoughts/Convergence tests.md",
     "thoughts/The Divergence Test.md",
     "thoughts/Gradualism.md",
     "attachments/Proof of divergence test.pdf",
@@ -228,17 +196,11 @@
     "logs/lab/2023-08-26 Lab.md",
     "logs/lab/2023-08-25 Lab.md",
     "logs/lab/2023-08-24 Lab.md",
-    "logs/lab/2023-08-23 Lab.md",
-    "logs/lab/2023-08-22 Lab.md",
-    "thoughts/2023-08-21 Lab.md",
-    "logs/2023-08-22.md",
     "attachments/Pasted image 20231108110303.png",
     "attachments/Pasted image 20231108110935.png",
     "attachments/Pasted image 20231108110556.png",
     "attachments/Screenshot 2023-11-07 at 2.13.53 PM.png",
     "attachments/Pasted image 20231107141437.png",
-    "attachments/Screenshot 2023-11-07 at 3.30.49 PM.png",
-    "attachments/Screenshot 2023-11-07 at 2.16.08 PM.png",
     "thoughts/American Revolution (1774-1787).canvas"
   ]
 }
