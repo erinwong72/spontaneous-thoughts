@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/log note.md",
+                "file": "logs/2023-11-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b15726ad73ef370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/2023-11-20 Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/log note.md",
+                "file": "thoughts/2023-11-20 Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/log note.md",
+                "file": "thoughts/2023-11-20 Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/log note.md"
+                "file": "thoughts/2023-11-20 Lab.md"
               }
             }
           },
@@ -195,10 +207,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5773a3a7c227f923",
+  "active": "3b15726ad73ef370",
   "lastOpenFiles": [
-    "exhaust/Impact of running (essay).md",
+    "attachments/Pasted image 20231120190021.png",
+    "thoughts/Momentum.md",
+    "thoughts/Inelastic collisions.md",
+    "thoughts/Impulse.md",
+    "thoughts/Elastic collisions.md",
+    "thoughts/Collisions.md",
+    "thoughts/Center of mass.md",
+    "attachments/Inelastic collisions example.pdf",
+    "attachments/Impulse example.pdf",
+    "attachments/Elastic collisions example.pdf",
+    "attachments/Center of mass example.pdf",
     "logs/2023-11-20.md",
+    "thoughts/2023-11-20 Lab.md",
+    "templates/log note.md",
+    "exhaust/Impact of running (essay).md",
     "exhaust/Playing music in the Hospital (essay).md",
     "thoughts/The Divergence Test.md",
     "thoughts/Convergence tests.md",
@@ -210,7 +235,6 @@
     "thoughts/Equipotential lines.md",
     "exhaust",
     "thoughts/Chain reactions.md",
-    "templates/log note.md",
     "thoughts/Elementary reactions.md",
     "thoughts/Immediatism (Abolitionism).md",
     "thoughts/Electric potential.md",
@@ -218,22 +242,12 @@
     "attachments/Potential difference sheet of charge.pdf",
     "attachments/Potential difference between shells.pdf",
     "attachments/Equipotential lines.pdf",
-    "attachments/Electric potential line of charge.pdf",
     "thoughts/Rate Laws.md",
     "templates/lab note.md",
     "templates/atomic note.md",
-    "logs/2023-11-09.md",
-    "thoughts/Integrated Rate Law.md",
-    "thoughts/Work and Energy.md",
-    "thoughts/AlphaFold Journal Club Speaker Notes.md",
-    "thoughts/Viscosity.md",
-    "thoughts/Statics.md",
-    "thoughts/Nullification Crisis.md",
     "attachments/Pasted image 20231119151144.png",
     "attachments/Pasted image 20231119150901.png",
     "attachments/Screenshot 2023-11-19 at 2.26.46 PM.png",
-    "thoughts/Young's Modulus.md",
-    "attachments/(2016) Systematic Generation of Anisotropic Coarse-Grained Lennard-Jones Potentials and Their Application to Ordered Soft Matter.pdf",
     "attachments/Pasted image 20231109162452.png",
     "attachments/Screenshot 2023-11-09 at 5.53.29 AM.png",
     "attachments/Pasted image 20231109055632.png",
@@ -241,8 +255,6 @@
     "attachments/Pasted image 20231108110556.png",
     "attachments/Pasted image 20231108110303.png",
     "Pasted image 20231109055632.png",
-    "Excalidraw",
-    "thoughts/American Revolution (1774-1787).canvas",
-    "Fixing missing atoms"
+    "thoughts/American Revolution (1774-1787).canvas"
   ]
 }
