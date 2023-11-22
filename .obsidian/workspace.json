@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d14458f70310d558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exhaust/Impact of running (essay).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exhaust/Why I want to pursue neuroscience.md",
+                "file": "exhaust/Impact of running (essay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exhaust/Why I want to pursue neuroscience.md",
+                "file": "exhaust/Impact of running (essay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exhaust/Why I want to pursue neuroscience.md"
+                "file": "exhaust/Impact of running (essay).md"
               }
             }
           },
@@ -195,10 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61f8e7c1208a7d45",
+  "active": "d14458f70310d558",
   "lastOpenFiles": [
-    "exhaust/Playing music in the Hospital (essay).md",
+    "thoughts/RSI Application.md",
     "exhaust/Why I want to pursue neuroscience.md",
+    "exhaust/Playing music in the Hospital (essay).md",
     "logs/2023-11-21.md",
     "exhaust/Tinkering with obsidian (essay).md",
     "exhaust/Impact of running (essay).md",
@@ -231,7 +244,6 @@
     "thoughts/Convergence tests.md",
     "attachments/Proof of divergence test.pdf",
     "attachments/Divergence test.pdf",
-    "thoughts/RSI Application.md",
     "thoughts/Gradualism.md",
     "exhaust",
     "attachments/Potential difference sheet of charge.pdf",
