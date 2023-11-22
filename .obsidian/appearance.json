@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Origami",
-  "accentColor": "",
+  "cssTheme": "working-edits",
+  "accentColor": "#97c4d3",
   "theme": "moonstone",
   "showViewHeader": false,
   "baseFontSize": 16,
@@ -11,7 +11,6 @@
     "[ui] Native Scrollbar styles",
     "[ui] Top fade",
     "extended-colorschemes",
-    "Tasks - Compact",
-    "Tasks - Expand dates on hover"
+    "Tasks - Compact"
   ]
 }
