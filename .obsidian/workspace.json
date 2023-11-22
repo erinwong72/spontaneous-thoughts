@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70e26827826819c9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "d29ec69b54a19018",
             "type": "leaf",
             "state": {
@@ -57,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Elementary reactions.md",
+                "file": "thoughts/Rate Laws.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Catalysis.md",
+                "file": "thoughts/Rate Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Catalysis.md",
+                "file": "thoughts/Rate Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Catalysis.md"
+                "file": "thoughts/Rate Laws.md"
               }
             }
           },
@@ -216,12 +208,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9939ef2db5eca63c",
+  "active": "2f4623b02a1ee877",
   "lastOpenFiles": [
     "thoughts/Elementary reactions.md",
-    "thoughts/Catalysis.md",
-    "thoughts/Transition state theory.md",
     "thoughts/Collision theory for chemical reactions.md",
+    "thoughts/Transition state theory.md",
+    "thoughts/Catalysis.md",
     "exhaust/Pursuing computational neuroscience research.md",
     "exhaust/Playing music in the Hospital (essay).md",
     "logs/2023-11-21.md",
