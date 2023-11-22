@@ -10,5 +10,7 @@ Because we’re moving parallel to the line of charge and the potential is $E \c
 - If the electric field is constant, the potential changes uniformly between two points (think of the slope relationship, electric field is the gradient)
 ![[attachments/Potential difference sheet of charge.pdf]]
 
-Potential difference between nested shells
+Potential difference between nested shells:
 ![[attachments/Potential difference between shells.pdf]]
+
+When the electric potential is constant, there are [[Equipotential lines]].

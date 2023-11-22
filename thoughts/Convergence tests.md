@@ -17,3 +17,4 @@ So, find the convergence of the “**base sequence**” first and then use the p
 
 [[The Divergence Test]]: try this one first!
 [[The Comparison Test]]
+[[Ratio Test]]

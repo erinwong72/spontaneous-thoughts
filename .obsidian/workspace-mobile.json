@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/2023-11-21.md",
+                "file": "thoughts/Equipotential lines.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0118caf938039b86",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/Ratio test example.pdf"
               }
             }
           }
@@ -71,16 +81,6 @@
           "type": "bookmarks",
           "state": {}
         }
-      },
-      {
-        "id": "d452f4dfce60ebbe",
-        "type": "leaf",
-        "state": {
-          "type": "all-properties",
-          "state": {
-            "sortOrder": "frequency"
-          }
-        }
       }
     ],
     "currentTab": 0
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "logs/2023-11-21.md",
+            "file": "thoughts/Equipotential lines.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "logs/2023-11-21.md",
+            "file": "thoughts/Equipotential lines.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "logs/2023-11-21.md"
+            "file": "thoughts/Equipotential lines.md"
           }
         }
       },
@@ -156,18 +156,29 @@
   },
   "active": "570e3eb66cf42d25",
   "lastOpenFiles": [
+    "attachments/Ratio test example.pdf",
+    "thoughts/Ratio Test.md",
+    "attachments/Ratio test example 2.pdf",
+    "thoughts/Ratio test example.pdf",
     "thoughts/Convergence tests.md",
+    "thoughts/The Comparison Test.md",
+    "thoughts/The Divergence Test.md",
+    "thoughts/Equipotential lines.md",
+    "thoughts/Electric potential.md",
+    "attachments/Equipotential lines.pdf",
+    "thoughts/Equipotential lines.pdf",
+    "logs/2023-11-21.md",
+    "exhaust/Why I want to pursue neuroscience.md",
     "thoughts/Momentum.md",
     "thoughts/Impulse.md",
     "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
     "thoughts/Harpoon mechanism of reaction.md",
     "thoughts/Temperature effect on reactions.md",
     "thoughts/Collision theory for chemical reactions.md",
-    "logs/2023-11-21.md",
     "attachments/Screenshot 2023-11-20 at 8.36.47 PM.png",
     "attachments/Pasted image 20231120204534.png",
     "attachments/Pasted image 20231120190021.png",
-    "thoughts/2023-11-20 Lab.md",
+    "logs/2023-11-20 Lab.md",
     "logs/2023-11-20.md",
     "attachments/Elastic collisions example.pdf",
     "thoughts/Center of mass.md",
@@ -178,24 +189,13 @@
     "attachments/Impulse example.pdf",
     "attachments/Inelastic collisions example.pdf",
     "attachments/Inelastic collisions example 2.pdf",
-    "attachments/Center of mass example.pdf",
-    "attachments/Center of mass example 2.pdf",
-    "attachments/Impulse example 2.pdf",
-    "thoughts/The Divergence Test.md",
     "thoughts/Gradualism.md",
-    "attachments/Proof of divergence test.pdf",
-    "thoughts/Proof of divergence test.pdf",
     "templates/atomic note.md",
     "exhaust/Playing music in the Hospital (essay).md",
     "thoughts/Immediatism (Abolitionism).md",
     "attachments/Screenshot 2023-10-11 at 7.04.52 PM.png",
     "thoughts/MinHash fingerprint.md",
-    "thoughts/Electric potential.md",
     "exhaust/Impact of running (essay).md",
-    "exhaust/Tinkering with obsidian (essay).md",
-    "logs/lab/2023-08-26 Lab.md",
-    "logs/lab/2023-08-25 Lab.md",
-    "logs/lab/2023-08-24 Lab.md",
     "attachments/Pasted image 20231108110303.png",
     "attachments/Pasted image 20231108110935.png",
     "attachments/Pasted image 20231108110556.png",
