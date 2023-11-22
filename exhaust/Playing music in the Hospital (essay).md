@@ -1,14 +1,14 @@
 #essay 
 
-I raised my bow, its weight heavy in my hand, about to start my rendition of J. S. Bach’s fourth cello suite again. Nurses, hospital staff, and families bustled around me but I took no note. Every Sunday I would spend three hours at the hospital playing live music in the front lobby and every Sunday it would be the same routine -- I would set up, start playing, take a few short breaks, and then pack up and leave -- but this Sunday was different. Just as I gently lowered my bow to the C string, left hand hovering over the E flat, I heard the sound of footsteps quickly approaching. Startled, I looked up, surprised to see a tall middle-aged man only a few feet away. 
+I raised my bow, its weight heavy in my hand, about to start my rendition of J. S. Bach’s fourth cello suite again. Nurses, hospital staff, and families bustled about, but I took no note. Every Sunday I would spend three hours at the hospital playing live music in the front lobby and every Sunday it would be the same routine -- I would set up, start playing, take a few short breaks, and then pack up and leave. This Sunday, though, was different. Just as I slowly lowered my bow to the C string, left hand hovering over the E flat, I heard the sound of footsteps quickly approaching. Startled, I looked up, surprised to see a tall middle-aged man only a few feet away. 
 
-“My mother is dying today.” He walked closer. 
+He saw me look up, bewildered. “My mother is dying today, ” He said, as if that explained why he had suddenly approached me.
 
-The busy hall full of doctors, nurses, and incoming patients and families was now empty. 
+The busy hall once full of doctors, nurses, and incoming patients and families was now empty. A heavy silence loomed over us as I sat there, still confused.
 
-“She loved classical music and she would be so happy to hear it live, played just for her as she passes. Would you be willing to come up to the ICU and play for her a bit?”
+“She loved classical music. When she wasn’t as sick, we used to take her to classical concerts in the city and it used to make her day. It would be so great for her to hear it again, remember all the good times she had with us. Would you be willing to come up to the ICU and play for her a bit?”
 
-I gaped at him, still trying to comprehend his request. Perhaps it was the stark contrast to the usual monotony or just the suddenness of it all, but when it finally dawned on me that this man was watching his mother slowly slip away from him, I knew I had to play for them. There was no better way for me to use my skills than to make others happy or at ease, even during their very last moments.
+I gaped at him, still trying to comprehend his request. Perhaps it was the stark contrast to the usual monotony or just the suddenness of it all, but it took me a long pause before I fully understood just what he was asking of me. When it finally dawned on me that this man was watching his mother slowly slip away from him, I knew I had to play for them. There was no better way for me to use my skills than to make others happy or at ease, even during their very last moments.
 
 As I entered the ICU, I heard the familiar hospital sounds of heart rate monitors beeping and oxygen tanks pumping that occupied any other floor, but felt the somber mood that swept through the whole floor. Finally reaching the door to the mother’s room, I paused. It was my last chance to turn back. Without much further thought, I stepped into the room. There laid the dying mother, in the midst of her loving family: the middle-aged guy, his sister, and his older brother. Quickly unpacking my cello, I overheard snippets of their conversation.
 

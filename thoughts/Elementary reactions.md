@@ -4,6 +4,7 @@ They are classified based on their **molecularity**, with uni and bimolecular el
 Just like any typical reaction, they are accompanied by reverse reactions to create a dynamic equilibrium in the reaction mechanism.
 
 ## Constructing [[Rate Laws]]
+
 Simplifications for constructing a rate law:
 >[!idea] Steady state approximation
 >Intermediates of elementary reactions remain at a constant concentration, so the *net* rate of formation is 0.
@@ -14,8 +15,10 @@ Simplifications for constructing a rate law:
 > 
 - So you can get the rate of formation of the intermediate from the elementary reaction its *directly* produced from instead of calculating its net rate, etc.
 
->[!HINT] Rate limiting step
+>[!HINT] Rate limiting/determining step
 >The slowest elementary reaction in the reaction mechanism is the rate-limiting step of the reaction, forming a **bottleneck** into the process of forming the product. All other steps after this *don’t matter* to the overall rate law.
+
+^9594d8
 
 Steps:
 1. Write out a possible reaction mechanism

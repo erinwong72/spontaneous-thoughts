@@ -1,17 +1,16 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "accentColor": "",
+  "cssTheme": "working-edits",
+  "accentColor": "#97c4d3",
   "theme": "moonstone",
   "showViewHeader": false,
   "baseFontSize": 16,
   "textFontFamily": "",
   "enabledCssSnippets": [
     "Checklist - Ultra compact",
-    "Tasks - Expand dates on hover",
     "Task Progressbars",
-    "Tasks - Compact",
     "[ui] Native Scrollbar styles",
     "[ui] Top fade",
-    "extended-colorschemes"
+    "extended-colorschemes",
+    "Tasks - Compact"
   ]
 }

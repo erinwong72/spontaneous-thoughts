@@ -13,7 +13,7 @@ The overall equation consists of two parts:
 	- The **Boltzmann distribution** is used to calculate the number of molecules that have enough energy
 	- $$e^{\frac{-E_{min}}{RT}}$$
 		- $E_{min} = E_{a}$
-1. **Steric factor** accounts for a preference for a certain relative orientation in the reaction
+3. **Steric factor** accounts for a preference for a certain relative orientation in the reaction
 
 >[!formula] Collision theory equation
 >$$k = P \times \sigma v_{rel}N_{A}^{2} \times e^{\frac{-E_{a}}{RT}}$$
@@ -24,7 +24,8 @@ This explains [[Temperature effect on reactions]] as well as the nature of *endo
 - Endothermic has higher activation energy and increased K when T is increased
 - Exothermic has lower activation energy and decreased K when T is increased (reverse increases)
 
+---
 N
-S: [[Temperature effect on reactions]]
+S: [[Temperature effect on reactions]], [[Transition state theory]]
 E: [[Harpoon mechanism of reaction]]
 W

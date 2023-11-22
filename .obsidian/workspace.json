@@ -4,47 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "7dac4d6631dd32e2",
+        "id": "52e22590c64576fc",
         "type": "tabs",
         "children": [
           {
-            "id": "5773a3a7c227f923",
+            "id": "4a2397a22ea6ca56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/2023-11-21.md",
+                "file": "thoughts/Transition state theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9970309a35181e67",
+            "id": "9939ef2db5eca63c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exhaust/Playing music in the Hospital (essay).md",
+                "file": "templates/atomic note.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61f8e7c1208a7d45",
+            "id": "2f4623b02a1ee877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exhaust/Why I want to pursue neuroscience.md",
+                "file": "thoughts/Rate Laws.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exhaust/Why I want to pursue neuroscience.md",
+                "file": "thoughts/Transition state theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exhaust/Why I want to pursue neuroscience.md",
+                "file": "thoughts/Transition state theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exhaust/Why I want to pursue neuroscience.md"
+                "file": "thoughts/Transition state theory.md"
               }
             }
           },
@@ -189,30 +187,35 @@
       "command-palette:Open command palette": true,
       "obsidian-advanced-slides:Show Slide Preview": true,
       "handwritten-notes:Create empty handwritten note": false,
-      "darlal-switcher-plus:Open in Headings Mode": true,
-      "darlal-switcher-plus:Open Symbols for the active editor": true,
       "templater-obsidian:Templater": true,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61f8e7c1208a7d45",
+  "active": "4a2397a22ea6ca56",
   "lastOpenFiles": [
-    "logs/2023-11-21.md",
-    "exhaust/Why I want to pursue neuroscience.md",
-    "exhaust/Tinkering with obsidian (essay).md",
-    "exhaust/Playing music in the Hospital (essay).md",
-    "exhaust/Impact of running (essay).md",
+    "templates/atomic note.md",
+    "thoughts/Catalysis.md",
+    "thoughts/Transition state theory.md",
+    "templates/log note.md",
+    "logs/2023-11-22.md",
+    "logs/lab/2023-11-20 Lab.md",
     "thoughts/Rate Laws.md",
-    "thoughts/Temperature effect on reactions.md",
     "thoughts/Collision theory for chemical reactions.md",
+    "thoughts/Elementary reactions.md",
+    "exhaust/Pursuing computational neuroscience research.md",
+    "exhaust/Playing music in the Hospital (essay).md",
+    "logs/2023-11-21.md",
+    "thoughts/RSI Application.md",
+    "exhaust/Why I want to pursue neuroscience.md",
+    "exhaust/Impact of running (essay).md",
+    "exhaust/Tinkering with obsidian (essay).md",
+    "thoughts/Temperature effect on reactions.md",
     "thoughts/Harpoon mechanism of reaction.md",
     "logs/2023-11-20.md",
     "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
     "thoughts/Models of chemical reactions.md",
-    "thoughts/Elementary reactions.md",
     "logs/lab/2023-10-11 Lab.md",
     "thoughts/Volunteering at nursing homes (essay).md",
-    "thoughts/2023-11-20 Lab.md",
     "attachments/Pasted image 20231120204534.png",
     "attachments/Screenshot 2023-11-20 at 8.36.47 PM.png",
     "attachments/Pasted image 20231120190021.png",
@@ -220,19 +223,12 @@
     "thoughts/Inelastic collisions.md",
     "thoughts/Impulse.md",
     "thoughts/Elastic collisions.md",
-    "thoughts/Collisions.md",
-    "thoughts/Center of mass.md",
     "attachments/Inelastic collisions example.pdf",
     "attachments/Impulse example.pdf",
     "attachments/Elastic collisions example.pdf",
     "attachments/Center of mass example.pdf",
-    "templates/log note.md",
-    "thoughts/The Divergence Test.md",
-    "thoughts/Convergence tests.md",
     "attachments/Proof of divergence test.pdf",
     "attachments/Divergence test.pdf",
-    "thoughts/RSI Application.md",
-    "thoughts/Gradualism.md",
     "exhaust",
     "attachments/Potential difference sheet of charge.pdf",
     "attachments/Potential difference between shells.pdf",
