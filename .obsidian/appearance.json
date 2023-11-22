@@ -1,17 +1,17 @@
 {
   "cssTheme": "Origami",
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "showViewHeader": false,
   "baseFontSize": 16,
   "textFontFamily": "",
   "enabledCssSnippets": [
     "Checklist - Ultra compact",
-    "Tasks - Expand dates on hover",
     "Task Progressbars",
-    "Tasks - Compact",
     "[ui] Native Scrollbar styles",
     "[ui] Top fade",
-    "extended-colorschemes"
+    "extended-colorschemes",
+    "Tasks - Compact",
+    "Tasks - Expand dates on hover"
   ]
 }

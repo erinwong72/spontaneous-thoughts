@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Collision theory for chemical reactions.md",
+                "file": "logs/2023-11-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Rate Laws.md",
+                "file": "logs/2023-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Rate Laws.md",
+                "file": "logs/2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Rate Laws.md"
+                "file": "logs/2023-11-22.md"
               }
             }
           },
@@ -208,10 +207,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f4623b02a1ee877",
+  "active": "d29ec69b54a19018",
   "lastOpenFiles": [
-    "thoughts/Elementary reactions.md",
     "thoughts/Collision theory for chemical reactions.md",
+    "logs/2023-11-22.md",
+    "thoughts/Rate Laws.md",
+    "thoughts/Elementary reactions.md",
     "thoughts/Transition state theory.md",
     "thoughts/Catalysis.md",
     "exhaust/Pursuing computational neuroscience research.md",
@@ -221,7 +222,6 @@
     "exhaust/Why I want to pursue neuroscience.md",
     "exhaust/Impact of running (essay).md",
     "exhaust/Tinkering with obsidian (essay).md",
-    "thoughts/Rate Laws.md",
     "thoughts/Temperature effect on reactions.md",
     "thoughts/Harpoon mechanism of reaction.md",
     "logs/2023-11-20.md",
@@ -243,7 +243,6 @@
     "attachments/Impulse example.pdf",
     "attachments/Elastic collisions example.pdf",
     "attachments/Center of mass example.pdf",
-    "templates/log note.md",
     "attachments/Proof of divergence test.pdf",
     "attachments/Divergence test.pdf",
     "exhaust",
