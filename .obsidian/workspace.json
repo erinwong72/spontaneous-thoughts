@@ -20,30 +20,19 @@
             }
           },
           {
-            "id": "9939ef2db5eca63c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/atomic note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2f4623b02a1ee877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Rate Laws.md",
+                "file": "logs/2023-11-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Transition state theory.md",
+                "file": "logs/2023-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Transition state theory.md",
+                "file": "logs/2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Transition state theory.md"
+                "file": "logs/2023-11-22.md"
               }
             }
           },
@@ -191,20 +180,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a2397a22ea6ca56",
+  "active": "2f4623b02a1ee877",
   "lastOpenFiles": [
+    "thoughts/Rate Laws.md",
+    "thoughts/Transition state theory.md",
+    "templates/atomic note.md",
     "thoughts/The Comparison Test.md",
     "thoughts/Ratio Test.md",
     "logs/2023-11-20 Lab.md",
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
-    "templates/atomic note.md",
     "thoughts/Catalysis.md",
-    "thoughts/Transition state theory.md",
     "templates/log note.md",
     "logs/2023-11-22.md",
     "logs/lab/2023-11-20 Lab.md",
-    "thoughts/Rate Laws.md",
     "thoughts/Collision theory for chemical reactions.md",
     "thoughts/Elementary reactions.md",
     "exhaust/Pursuing computational neuroscience research.md",
