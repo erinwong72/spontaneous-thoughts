@@ -149,8 +149,6 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "templater-obsidian:Templater": true,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": true,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
