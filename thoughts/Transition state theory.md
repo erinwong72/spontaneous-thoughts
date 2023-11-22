@@ -1,0 +1,2 @@
+# Transition state theory
+A more improved version of [[Collision theory for chemical reactions]], additionally accounting for reactions in solution with larger **steric requirements** than those in the gaseous phase.
