@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "9970309a35181e67",
+            "id": "4c72a99708c291a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "61f8e7c1208a7d45",
+            "id": "c17c638a94c161a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exhaust/Why I want to pursue neuroscience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d14458f70310d558",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exhaust/Impact of running (essay).md",
+                "file": "exhaust/Pursuing computational neuroscience research.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exhaust/Impact of running (essay).md",
+                "file": "exhaust/Playing music in the Hospital (essay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exhaust/Impact of running (essay).md",
+                "file": "exhaust/Playing music in the Hospital (essay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exhaust/Impact of running (essay).md"
+                "file": "exhaust/Playing music in the Hospital (essay).md"
               }
             }
           },
@@ -207,14 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d14458f70310d558",
+  "active": "4c72a99708c291a3",
   "lastOpenFiles": [
     "thoughts/RSI Application.md",
     "exhaust/Why I want to pursue neuroscience.md",
-    "exhaust/Playing music in the Hospital (essay).md",
+    "exhaust/Pursuing computational neuroscience research.md",
     "logs/2023-11-21.md",
-    "exhaust/Tinkering with obsidian (essay).md",
+    "exhaust/Playing music in the Hospital (essay).md",
     "exhaust/Impact of running (essay).md",
+    "exhaust/Tinkering with obsidian (essay).md",
     "thoughts/Rate Laws.md",
     "thoughts/Temperature effect on reactions.md",
     "thoughts/Collision theory for chemical reactions.md",
@@ -244,7 +233,6 @@
     "thoughts/Convergence tests.md",
     "attachments/Proof of divergence test.pdf",
     "attachments/Divergence test.pdf",
-    "thoughts/Gradualism.md",
     "exhaust",
     "attachments/Potential difference sheet of charge.pdf",
     "attachments/Potential difference between shells.pdf",

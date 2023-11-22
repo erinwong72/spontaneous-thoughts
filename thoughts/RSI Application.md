@@ -1,6 +1,6 @@
 # RSI Application
 ## Why did you choose these research fields?
-
+[[Pursuing computational neuroscience research]]
 
 ## What are your long-range goals?
 [[Why I want to pursue neuroscience]]
