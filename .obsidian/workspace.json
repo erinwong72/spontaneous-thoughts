@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a2397a22ea6ca56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Transition state theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2f4623b02a1ee877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "logs/2023-11-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d989cb5103770766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exhaust/Pursuing computational neuroscience research.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/2023-11-22.md",
+                "file": "exhaust/Pursuing computational neuroscience research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/2023-11-22.md",
+                "file": "exhaust/Pursuing computational neuroscience research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/2023-11-22.md"
+                "file": "exhaust/Pursuing computational neuroscience research.md"
               }
             }
           },
@@ -180,8 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f4623b02a1ee877",
+  "active": "d989cb5103770766",
   "lastOpenFiles": [
+    "logs/2023-11-22.md",
+    "logs/2023-11-21.md",
     "thoughts/Rate Laws.md",
     "thoughts/Transition state theory.md",
     "templates/atomic note.md",
@@ -192,13 +195,11 @@
     "attachments/Ratio test example.pdf",
     "thoughts/Catalysis.md",
     "templates/log note.md",
-    "logs/2023-11-22.md",
     "logs/lab/2023-11-20 Lab.md",
     "thoughts/Collision theory for chemical reactions.md",
     "thoughts/Elementary reactions.md",
     "exhaust/Pursuing computational neuroscience research.md",
     "exhaust/Playing music in the Hospital (essay).md",
-    "logs/2023-11-21.md",
     "thoughts/RSI Application.md",
     "exhaust/Why I want to pursue neuroscience.md",
     "exhaust/Impact of running (essay).md",
