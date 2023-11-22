@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Anti-slavery movement.md",
+                "file": "thoughts/Electric potential.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "thoughts/Anti-slavery movement.md",
+            "file": "thoughts/Electric potential.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "thoughts/Anti-slavery movement.md",
+            "file": "thoughts/Electric potential.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "thoughts/Anti-slavery movement.md"
+            "file": "thoughts/Electric potential.md"
           }
         }
       },
@@ -142,21 +142,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "570e3eb66cf42d25",
+  "active": "a3ec0c28c7bc8ef4",
   "lastOpenFiles": [
+    "thoughts/Equipotential lines.md",
+    "thoughts/Electric potential.md",
+    "thoughts/Anti-slavery movement.md",
     "thoughts/Immediatism (Abolitionism).md",
     "templates/atomic note.md",
     "templates/log note.md",
-    "thoughts/Anti-slavery movement.md",
     "attachments/Ratio test example.pdf",
-    "thoughts/Equipotential lines.md",
     "thoughts/Ratio Test.md",
     "attachments/Ratio test example 2.pdf",
     "thoughts/Ratio test example.pdf",
     "thoughts/Convergence tests.md",
     "thoughts/The Comparison Test.md",
     "thoughts/The Divergence Test.md",
-    "thoughts/Electric potential.md",
     "attachments/Equipotential lines.pdf",
     "thoughts/Equipotential lines.pdf",
     "logs/2023-11-21.md",
