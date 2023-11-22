@@ -38,9 +38,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9939ef2db5eca63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Catalysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f4623b02a1ee877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Elementary reactions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rate step",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Collision theory for chemical reactions.md",
+                "file": "thoughts/Catalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Collision theory for chemical reactions.md",
+                "file": "thoughts/Catalysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Collision theory for chemical reactions.md"
+                "file": "thoughts/Catalysis.md"
               }
             }
           },
@@ -191,8 +216,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d29ec69b54a19018",
+  "active": "9939ef2db5eca63c",
   "lastOpenFiles": [
+    "thoughts/Elementary reactions.md",
+    "thoughts/Catalysis.md",
     "thoughts/Transition state theory.md",
     "thoughts/Collision theory for chemical reactions.md",
     "exhaust/Pursuing computational neuroscience research.md",
@@ -208,7 +235,6 @@
     "logs/2023-11-20.md",
     "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
     "thoughts/Models of chemical reactions.md",
-    "thoughts/Elementary reactions.md",
     "logs/lab/2023-10-11 Lab.md",
     "thoughts/Volunteering at nursing homes (essay).md",
     "thoughts/2023-11-20 Lab.md",
@@ -226,7 +252,6 @@
     "attachments/Elastic collisions example.pdf",
     "attachments/Center of mass example.pdf",
     "templates/log note.md",
-    "thoughts/The Divergence Test.md",
     "attachments/Proof of divergence test.pdf",
     "attachments/Divergence test.pdf",
     "exhaust",
