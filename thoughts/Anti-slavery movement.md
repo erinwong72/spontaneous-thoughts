@@ -19,3 +19,7 @@ In the South, slave populations shifted from the Upper South (growing tobacco) t
 Two schools of thought:
 1. [[Gradualism]]
 2. [[Immediatism (Abolitionism)]]
+
+In politics, most anti-slavery movements tried to stop slavery from spreading into western territories through legislation:
+	1. **Free Soil Party**: wanted to prohibit slavery in western territories and receive free lands in the west to settle in
+	2. Republican Party: Whigs + Free Soil Party

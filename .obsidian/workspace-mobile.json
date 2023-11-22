@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Equipotential lines.md",
+                "file": "thoughts/Electric potential.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0118caf938039b86",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/Ratio test example.pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "thoughts/Equipotential lines.md",
+            "file": "thoughts/Electric potential.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "thoughts/Equipotential lines.md",
+            "file": "thoughts/Electric potential.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "thoughts/Equipotential lines.md"
+            "file": "thoughts/Electric potential.md"
           }
         }
       },
@@ -149,13 +139,17 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "templater-obsidian:Templater": true,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": true,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "570e3eb66cf42d25",
+  "active": "a3ec0c28c7bc8ef4",
   "lastOpenFiles": [
+    "thoughts/Equipotential lines.md",
+    "thoughts/Electric potential.md",
+    "thoughts/Anti-slavery movement.md",
+    "thoughts/Immediatism (Abolitionism).md",
+    "templates/atomic note.md",
+    "templates/log note.md",
     "attachments/Ratio test example.pdf",
     "thoughts/Ratio Test.md",
     "attachments/Ratio test example 2.pdf",
@@ -163,8 +157,6 @@
     "thoughts/Convergence tests.md",
     "thoughts/The Comparison Test.md",
     "thoughts/The Divergence Test.md",
-    "thoughts/Equipotential lines.md",
-    "thoughts/Electric potential.md",
     "attachments/Equipotential lines.pdf",
     "thoughts/Equipotential lines.pdf",
     "logs/2023-11-21.md",
@@ -190,12 +182,9 @@
     "attachments/Inelastic collisions example.pdf",
     "attachments/Inelastic collisions example 2.pdf",
     "thoughts/Gradualism.md",
-    "templates/atomic note.md",
     "exhaust/Playing music in the Hospital (essay).md",
-    "thoughts/Immediatism (Abolitionism).md",
     "attachments/Screenshot 2023-10-11 at 7.04.52 PM.png",
     "thoughts/MinHash fingerprint.md",
-    "exhaust/Impact of running (essay).md",
     "attachments/Pasted image 20231108110303.png",
     "attachments/Pasted image 20231108110935.png",
     "attachments/Pasted image 20231108110556.png",
