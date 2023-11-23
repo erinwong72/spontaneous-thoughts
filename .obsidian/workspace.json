@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/2023-11-22.md",
+                "file": "logs/2023-11-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/RSI Application.md",
+                "file": "logs/2023-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/RSI Application.md",
+                "file": "logs/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/RSI Application.md"
+                "file": "logs/2023-11-23.md"
               }
             }
           },
@@ -193,10 +192,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fde8f4787fd80b5e",
+  "active": "2f4623b02a1ee877",
   "lastOpenFiles": [
-    "exhaust/Pursuing computational neuroscience research.md",
     "logs/2023-11-22.md",
+    "logs/2023-11-23.md",
+    "thoughts/RSI Application.md",
+    "exhaust/Pursuing computational neuroscience research.md",
     "logs/2023-11-21.md",
     "thoughts/Rate Laws.md",
     "thoughts/Transition state theory.md",
@@ -212,7 +213,6 @@
     "thoughts/Collision theory for chemical reactions.md",
     "thoughts/Elementary reactions.md",
     "exhaust/Playing music in the Hospital (essay).md",
-    "thoughts/RSI Application.md",
     "exhaust/Why I want to pursue neuroscience.md",
     "exhaust/Impact of running (essay).md",
     "exhaust/Tinkering with obsidian (essay).md",
@@ -226,7 +226,6 @@
     "attachments/Pasted image 20231120204534.png",
     "attachments/Screenshot 2023-11-20 at 8.36.47 PM.png",
     "attachments/Pasted image 20231120190021.png",
-    "thoughts/Momentum.md",
     "attachments/Inelastic collisions example.pdf",
     "attachments/Impulse example.pdf",
     "attachments/Elastic collisions example.pdf",
