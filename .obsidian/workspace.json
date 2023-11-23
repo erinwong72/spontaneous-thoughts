@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fde8f4787fd80b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/RSI Application.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exhaust/Pursuing computational neuroscience research.md",
+                "file": "thoughts/RSI Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exhaust/Pursuing computational neuroscience research.md",
+                "file": "thoughts/RSI Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exhaust/Pursuing computational neuroscience research.md"
+                "file": "thoughts/RSI Application.md"
               }
             }
           },
@@ -181,8 +193,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d989cb5103770766",
+  "active": "fde8f4787fd80b5e",
   "lastOpenFiles": [
+    "exhaust/Pursuing computational neuroscience research.md",
     "logs/2023-11-22.md",
     "logs/2023-11-21.md",
     "thoughts/Rate Laws.md",
@@ -198,7 +211,6 @@
     "logs/lab/2023-11-20 Lab.md",
     "thoughts/Collision theory for chemical reactions.md",
     "thoughts/Elementary reactions.md",
-    "exhaust/Pursuing computational neuroscience research.md",
     "exhaust/Playing music in the Hospital (essay).md",
     "thoughts/RSI Application.md",
     "exhaust/Why I want to pursue neuroscience.md",
