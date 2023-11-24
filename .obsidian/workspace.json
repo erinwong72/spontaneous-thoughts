@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "8847f8cb78d63f32",
+            "id": "878ff0ef1f5e98fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Programming experience.md",
+                "file": "exhaust/Why RSI.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Programming experience.md",
+                "file": "exhaust/Why RSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Programming experience.md",
+                "file": "exhaust/Why RSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Programming experience.md"
+                "file": "exhaust/Why RSI.md"
               }
             }
           },
@@ -190,15 +190,22 @@
       "obsidian-advanced-slides:Show Slide Preview": true,
       "handwritten-notes:Create empty handwritten note": false,
       "templater-obsidian:Templater": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "8847f8cb78d63f32",
+  "active": "878ff0ef1f5e98fb",
   "lastOpenFiles": [
     "thoughts/RSI Application.md",
-    "thoughts/Programming experience.md",
-    "exhaust/Pursuing computational neuroscience research.md",
+    "exhaust/Interests in computational neuroscience.md",
+    "exhaust/Interests in molecular physics.md",
     "logs/2023-11-23.md",
+    "exhaust/Tinkering with obsidian.md",
+    "exhaust/Playing music in the Hospital.md",
+    "exhaust/Impact of running.md",
+    "exhaust/Why RSI.md",
+    "exah",
+    "exhaust/Programming experience.md",
     "logs/2023-11-22.md",
     "logs/2023-11-21.md",
     "thoughts/Rate Laws.md",
@@ -214,16 +221,11 @@
     "logs/lab/2023-11-20 Lab.md",
     "thoughts/Collision theory for chemical reactions.md",
     "thoughts/Elementary reactions.md",
-    "exhaust/Playing music in the Hospital (essay).md",
     "exhaust/Why I want to pursue neuroscience.md",
-    "exhaust/Impact of running (essay).md",
-    "exhaust/Tinkering with obsidian (essay).md",
     "thoughts/Temperature effect on reactions.md",
     "thoughts/Harpoon mechanism of reaction.md",
     "logs/2023-11-20.md",
     "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
-    "thoughts/Models of chemical reactions.md",
-    "logs/lab/2023-10-11 Lab.md",
     "attachments/Pasted image 20231120204534.png",
     "attachments/Screenshot 2023-11-20 at 8.36.47 PM.png",
     "attachments/Pasted image 20231120190021.png",
@@ -234,7 +236,6 @@
     "attachments/Proof of divergence test.pdf",
     "attachments/Divergence test.pdf",
     "exhaust",
-    "attachments/Potential difference sheet of charge.pdf",
     "attachments/Pasted image 20231119151144.png",
     "attachments/Pasted image 20231119150901.png",
     "attachments/Screenshot 2023-11-19 at 2.26.46 PM.png",

@@ -1,0 +1,3 @@
+#essay 
+
+I am, by nature, a curious person. When I was little, I was that kid who always asked “Why?”. Why does the train move? Why are there hairless cats? Why are we alive? Having grown up quite a bit, this hasn’t changed. I still raise my hand in class to ask questions that may seem obvious or dumb and I continue to seek out answers. This quest for knowledge has led me to research a variety of topics
