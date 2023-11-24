@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exhaust/Programming experience.md",
+                "file": "logs/2023-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exhaust/Programming experience.md",
+                "file": "logs/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exhaust/Programming experience.md"
+                "file": "logs/2023-11-23.md"
               }
             }
           },
@@ -230,8 +229,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "36c82dd484beb790",
+  "active": "2f4623b02a1ee877",
   "lastOpenFiles": [
+    "exhaust/Programming experience.md",
     "thoughts/RSI Application.md",
     "exhaust/Why RSI.md",
     "exhaust/Tinkering with obsidian.md",
@@ -242,7 +242,6 @@
     "exhaust/Playing music in the Hospital.md",
     "logs/2023-11-23.md",
     "exah",
-    "exhaust/Programming experience.md",
     "logs/2023-11-22.md",
     "logs/2023-11-21.md",
     "thoughts/Rate Laws.md",
