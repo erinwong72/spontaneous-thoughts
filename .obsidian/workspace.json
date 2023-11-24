@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "96c9daedd4b94782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exhaust/Playing music in the Hospital.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "878ff0ef1f5e98fb",
             "type": "leaf",
             "state": {
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exhaust/Why RSI.md",
+                "file": "exhaust/Playing music in the Hospital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exhaust/Why RSI.md",
+                "file": "exhaust/Playing music in the Hospital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exhaust/Why RSI.md"
+                "file": "exhaust/Playing music in the Hospital.md"
               }
             }
           },
@@ -194,16 +206,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "878ff0ef1f5e98fb",
+  "active": "96c9daedd4b94782",
   "lastOpenFiles": [
     "thoughts/RSI Application.md",
+    "exhaust/Why RSI.md",
     "exhaust/Interests in computational neuroscience.md",
     "exhaust/Interests in molecular physics.md",
     "logs/2023-11-23.md",
     "exhaust/Tinkering with obsidian.md",
     "exhaust/Playing music in the Hospital.md",
     "exhaust/Impact of running.md",
-    "exhaust/Why RSI.md",
     "exah",
     "exhaust/Programming experience.md",
     "logs/2023-11-22.md",
