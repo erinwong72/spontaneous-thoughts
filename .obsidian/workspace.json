@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52e22590c64576fc",
+        "id": "b750ac8cc4a3bce8",
         "type": "tabs",
         "children": [
           {
-            "id": "2f4623b02a1ee877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "logs/2023-11-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fde8f4787fd80b5e",
+            "id": "ce85ae995fc82bb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,48 +20,12 @@
             }
           },
           {
-            "id": "36c82dd484beb790",
+            "id": "fd93ebf076181d98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "exhaust/Programming experience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "133b63f7e7e599ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exhaust/Impact of running.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96c9daedd4b94782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exhaust/Playing music in the Hospital.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "878ff0ef1f5e98fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exhaust/Why RSI.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/2023-11-23.md",
+                "file": "thoughts/RSI Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/2023-11-23.md",
+                "file": "thoughts/RSI Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/2023-11-23.md"
+                "file": "thoughts/RSI Application.md"
               }
             }
           },
@@ -229,20 +181,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f4623b02a1ee877",
+  "active": "ce85ae995fc82bb7",
   "lastOpenFiles": [
-    "exhaust/Programming experience.md",
-    "thoughts/RSI Application.md",
-    "exhaust/Why RSI.md",
-    "exhaust/Tinkering with obsidian.md",
-    "exhaust/Impact of running.md",
     "exhaust/Why I want to pursue neuroscience.md",
+    "thoughts/RSI Application.md",
+    "exhaust/Programming experience.md",
+    "exhaust/Tinkering with obsidian.md",
+    "thoughts/AlphaFold Journal Club Speaker Notes.md",
+    "exhaust/Impact of running.md",
+    "logs/2023-11-22.md",
+    "logs/2023-11-23.md",
+    "exhaust/Why RSI.md",
     "exhaust/Interests in computational neuroscience.md",
     "exhaust/Interests in molecular physics.md",
     "exhaust/Playing music in the Hospital.md",
-    "logs/2023-11-23.md",
     "exah",
-    "logs/2023-11-22.md",
     "logs/2023-11-21.md",
     "thoughts/Rate Laws.md",
     "thoughts/Transition state theory.md",
@@ -259,7 +212,6 @@
     "thoughts/Elementary reactions.md",
     "thoughts/Temperature effect on reactions.md",
     "thoughts/Harpoon mechanism of reaction.md",
-    "logs/2023-11-20.md",
     "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
     "attachments/Pasted image 20231120204534.png",
     "attachments/Screenshot 2023-11-20 at 8.36.47 PM.png",
