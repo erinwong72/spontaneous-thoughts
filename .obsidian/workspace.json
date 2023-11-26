@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Mentor involvement with LC cell project.md",
+                "file": "thoughts/Elastic collisions.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Mentor involvement with LC cell project.md",
+                "file": "thoughts/Elastic collisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Mentor involvement with LC cell project.md",
+                "file": "thoughts/Elastic collisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Mentor involvement with LC cell project.md"
+                "file": "thoughts/Elastic collisions.md"
               }
             }
           },
@@ -219,8 +219,10 @@
   },
   "active": "26edc021a62102b7",
   "lastOpenFiles": [
-    "thoughts/RSI Application.md",
+    "thoughts/Collisions.md",
+    "thoughts/Inelastic collisions.md",
     "thoughts/Mentor involvement with LC cell project.md",
+    "thoughts/RSI Application.md",
     "thoughts/Description of LC cell project.md",
     "exhaust/Why RSI.md",
     "exhaust/Why I want to pursue neuroscience.md",
@@ -246,8 +248,6 @@
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
     "thoughts/Catalysis.md",
-    "templates/log note.md",
-    "logs/lab/2023-11-20 Lab.md",
     "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
     "attachments/Pasted image 20231120204534.png",
     "attachments/Screenshot 2023-11-20 at 8.36.47 PM.png",
