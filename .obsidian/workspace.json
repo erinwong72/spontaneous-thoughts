@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Elastic collisions.md",
+                "file": "logs/2023-11-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Elastic collisions.md",
+                "file": "logs/2023-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Elastic collisions.md",
+                "file": "logs/2023-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Elastic collisions.md"
+                "file": "logs/2023-11-23.md"
               }
             }
           },
@@ -219,6 +220,12 @@
   },
   "active": "26edc021a62102b7",
   "lastOpenFiles": [
+    "logs/2023-11-22.md",
+    "logs/2023-11-21.md",
+    "logs/2023-11-20.md",
+    "logs/2023-11-20 Lab.md",
+    "logs/lab/2023-11-20 Lab.md",
+    "thoughts/Elastic collisions.md",
     "thoughts/Collisions.md",
     "thoughts/Inelastic collisions.md",
     "thoughts/Mentor involvement with LC cell project.md",
@@ -234,20 +241,14 @@
     "logs/lab/2023-07-28 Lab.md",
     "exhaust/Programming experience.md",
     "thoughts/AlphaFold Journal Club Speaker Notes.md",
-    "logs/2023-11-22.md",
     "logs/2023-11-23.md",
     "exhaust/Playing music in the Hospital.md",
     "exah",
-    "logs/2023-11-21.md",
     "thoughts/Rate Laws.md",
     "thoughts/Transition state theory.md",
     "templates/atomic note.md",
-    "thoughts/The Comparison Test.md",
-    "thoughts/Ratio Test.md",
-    "logs/2023-11-20 Lab.md",
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
-    "thoughts/Catalysis.md",
     "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
     "attachments/Pasted image 20231120204534.png",
     "attachments/Screenshot 2023-11-20 at 8.36.47 PM.png",
