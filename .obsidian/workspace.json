@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "e3331081fcf7fff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Description of LC cell project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "26edc021a62102b7",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/2023-11-23.md",
+                "file": "thoughts/RSI Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/2023-11-23.md",
+                "file": "thoughts/RSI Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/2023-11-23.md"
+                "file": "thoughts/RSI Application.md"
               }
             }
           },
@@ -218,8 +230,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "26edc021a62102b7",
+  "active": "8f62ddab877ac5df",
   "lastOpenFiles": [
+    "thoughts/Description of LC cell project.md",
+    "thoughts/RSI Application.md",
+    "thoughts/Mentor involvement with LC cell project.md",
+    "logs/2023-11-23.md",
     "logs/2023-11-22.md",
     "logs/2023-11-21.md",
     "logs/2023-11-20.md",
@@ -228,9 +244,6 @@
     "thoughts/Elastic collisions.md",
     "thoughts/Collisions.md",
     "thoughts/Inelastic collisions.md",
-    "thoughts/Mentor involvement with LC cell project.md",
-    "thoughts/RSI Application.md",
-    "thoughts/Description of LC cell project.md",
     "exhaust/Why RSI.md",
     "exhaust/Why I want to pursue neuroscience.md",
     "exhaust/Tinkering with obsidian.md",
@@ -241,7 +254,6 @@
     "logs/lab/2023-07-28 Lab.md",
     "exhaust/Programming experience.md",
     "thoughts/AlphaFold Journal Club Speaker Notes.md",
-    "logs/2023-11-23.md",
     "exhaust/Playing music in the Hospital.md",
     "exah",
     "thoughts/Rate Laws.md",
