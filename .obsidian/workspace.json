@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "e3331081fcf7fff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Description of LC cell project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "26edc021a62102b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/2023-11-23.md",
+                "file": "logs/2023-11-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/RSI Application.md",
+                "file": "logs/2023-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/RSI Application.md",
+                "file": "logs/2023-11-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/RSI Application.md"
+                "file": "logs/2023-11-28.md"
               }
             }
           },
@@ -230,12 +218,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8f62ddab877ac5df",
+  "active": "26edc021a62102b7",
   "lastOpenFiles": [
-    "thoughts/Description of LC cell project.md",
-    "thoughts/RSI Application.md",
-    "thoughts/Mentor involvement with LC cell project.md",
     "logs/2023-11-23.md",
+    "logs/2023-11-28.md",
+    "thoughts/RSI Application.md",
+    "thoughts/Description of LC cell project.md",
+    "thoughts/Mentor involvement with LC cell project.md",
     "logs/2023-11-22.md",
     "logs/2023-11-21.md",
     "logs/2023-11-20.md",
@@ -258,7 +247,6 @@
     "exah",
     "thoughts/Rate Laws.md",
     "thoughts/Transition state theory.md",
-    "templates/atomic note.md",
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
     "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
