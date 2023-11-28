@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/2023-11-28.md",
+                "file": "thoughts/Rate Laws.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/2023-11-28.md",
+                "file": "thoughts/Rate Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/2023-11-28.md",
+                "file": "thoughts/Rate Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/2023-11-28.md"
+                "file": "thoughts/Rate Laws.md"
               }
             }
           },
@@ -220,8 +220,12 @@
   },
   "active": "26edc021a62102b7",
   "lastOpenFiles": [
-    "logs/2023-11-23.md",
+    "thoughts/Chain reactions.md",
+    "thoughts/Collision theory for chemical reactions.md",
+    "attachments/Pasted image 20231128175649.png",
+    "thoughts/Collisions.md",
     "logs/2023-11-28.md",
+    "logs/2023-11-23.md",
     "thoughts/RSI Application.md",
     "thoughts/Description of LC cell project.md",
     "thoughts/Mentor involvement with LC cell project.md",
@@ -231,7 +235,6 @@
     "logs/2023-11-20 Lab.md",
     "logs/lab/2023-11-20 Lab.md",
     "thoughts/Elastic collisions.md",
-    "thoughts/Collisions.md",
     "thoughts/Inelastic collisions.md",
     "exhaust/Why RSI.md",
     "exhaust/Why I want to pursue neuroscience.md",
@@ -245,8 +248,6 @@
     "thoughts/AlphaFold Journal Club Speaker Notes.md",
     "exhaust/Playing music in the Hospital.md",
     "exah",
-    "thoughts/Rate Laws.md",
-    "thoughts/Transition state theory.md",
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
     "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
@@ -265,7 +266,6 @@
     "attachments/Screenshot 2023-11-19 at 2.26.46 PM.png",
     "attachments/Pasted image 20231109162452.png",
     "attachments/Screenshot 2023-11-09 at 5.53.29 AM.png",
-    "attachments/Pasted image 20231109055632.png",
     "thoughts/American Revolution (1774-1787).canvas"
   ]
 }
