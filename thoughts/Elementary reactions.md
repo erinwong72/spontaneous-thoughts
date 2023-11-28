@@ -6,9 +6,7 @@ Just like any typical reaction, they are accompanied by reverse reactions to cre
 ## Constructing [[Rate Laws]]
 
 Simplifications for constructing a rate law:
->[!idea] Steady state approximation
->Intermediates of elementary reactions remain at a constant concentration, so the *net* rate of formation is 0.
-- Because they are thought to react as soon as it’s formed
+[[Steady State Approximation]]
 
 >[!idea] Pre-equilibrium condition
 > This states that that the rate of consumption of the intermediate is negligible compared to the rates of formation and decomposition

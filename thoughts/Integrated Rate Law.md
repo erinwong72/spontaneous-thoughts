@@ -2,6 +2,7 @@
 
 >[!idea]
 >Expresses the relationship between the *instantaneous* concentration of reactant and the initial concentration, using the rate.
+>- How **concentration** varies with **time**
 
 ## Second Order
 To derive, remember that:
