@@ -8,48 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26edc021a62102b7",
+            "id": "6074aa9d74c237ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Integrated Rate Law.md",
+                "file": "thoughts/Diagonalizable matrices.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8b4cb005bd65bbd4",
+            "id": "58b4c285ccf717e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Zero Order Reactions.md",
+                "file": "thoughts/Dimension of an eigenspace.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c0f3c12dbf3b4e2",
+            "id": "6b5088ebfbf9ee08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Elementary reactions.md",
+                "file": "thoughts/Diagonalizable matrices.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5721afda14df083",
+            "id": "e9d221b478c1978a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Diagonalization.md",
+                "file": "thoughts/Dimension of an eigenspace.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Diagonalization.md",
+                "file": "thoughts/Diagonalizable matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Diagonalization.md",
+                "file": "thoughts/Diagonalizable matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Diagonalization.md"
+                "file": "thoughts/Diagonalizable matrices.md"
               }
             }
           },
@@ -230,19 +229,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e5721afda14df083",
+  "active": "6074aa9d74c237ef",
   "lastOpenFiles": [
+    "thoughts/Dimension of an eigenspace.md",
+    "thoughts/Diagonalizable matrices.md",
+    "thoughts/Elementary reactions.md",
+    "thoughts/Zero Order Reactions.md",
+    "thoughts/Integrated Rate Law.md",
     "thoughts/Eigenbasis.md",
-    "thoughts/Diagonalization.md",
+    "thoughts/Diagonali.md",
     "attachments/Pasted image 20231128191246.png",
     "attachments/Pasted image 20231128191142.png",
     "thoughts/Steady State Approximation.md",
-    "thoughts/Elementary reactions.md",
     "attachments/Pasted image 20231128183427.png",
     "thoughts/Pseudo rate order.md",
     "thoughts/Description of LC cell project.md",
-    "thoughts/Zero Order Reactions.md",
-    "thoughts/Integrated Rate Law.md",
     "thoughts/Rate Laws.md",
     "thoughts/Chain reactions.md",
     "thoughts/Collision theory for chemical reactions.md",
@@ -260,7 +261,6 @@
     "thoughts/Elastic collisions.md",
     "thoughts/Inelastic collisions.md",
     "exhaust/Why RSI.md",
-    "exhaust/Why I want to pursue neuroscience.md",
     "exah",
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
