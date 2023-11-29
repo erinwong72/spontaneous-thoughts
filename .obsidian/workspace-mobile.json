@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Electric potential.md",
+                "file": "logs/2023-11-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "thoughts/Electric potential.md",
+            "file": "logs/2023-11-29.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "thoughts/Electric potential.md",
+            "file": "logs/2023-11-29.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "thoughts/Electric potential.md"
+            "file": "logs/2023-11-29.md"
           }
         }
       },
@@ -127,10 +127,11 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "handwritten-notes:Create empty handwritten note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -142,10 +143,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3ec0c28c7bc8ef4",
+  "active": "570e3eb66cf42d25",
   "lastOpenFiles": [
-    "thoughts/Equipotential lines.md",
     "thoughts/Electric potential.md",
+    "logs/2023-11-29.md",
+    "thoughts/Equipotential lines.md",
     "thoughts/Anti-slavery movement.md",
     "thoughts/Immediatism (Abolitionism).md",
     "templates/atomic note.md",
@@ -184,7 +186,6 @@
     "thoughts/Gradualism.md",
     "exhaust/Playing music in the Hospital (essay).md",
     "attachments/Screenshot 2023-10-11 at 7.04.52 PM.png",
-    "thoughts/MinHash fingerprint.md",
     "attachments/Pasted image 20231108110303.png",
     "attachments/Pasted image 20231108110935.png",
     "attachments/Pasted image 20231108110556.png",
