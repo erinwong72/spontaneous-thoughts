@@ -4,82 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b750ac8cc4a3bce8",
+        "id": "db029cf88ef9fed4",
         "type": "tabs",
         "children": [
           {
-            "id": "6074aa9d74c237ef",
+            "id": "a5d05a8db83fcd2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Diagonalizable matrices.md",
+                "file": "logs/2023-11-29.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58b4c285ccf717e1",
+            "id": "4c8dbc6701df160d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Dimension of an eigenspace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b5088ebfbf9ee08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Diagonalizable matrices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9d221b478c1978a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Dimension of an eigenspace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "800dd168f2a6c1f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Eigenbasis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cf52608e53b9b13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Pseudo rate order.md",
+                "file": "thoughts/2023-11-29-Lab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Diagonalizable matrices.md",
+                "file": "thoughts/2023-11-29-Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Diagonalizable matrices.md",
+                "file": "thoughts/2023-11-29-Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Diagonalizable matrices.md"
+                "file": "thoughts/2023-11-29-Lab.md"
               }
             }
           },
@@ -229,20 +182,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6074aa9d74c237ef",
+  "active": "4c8dbc6701df160d",
   "lastOpenFiles": [
+    "logs/2023-11-29.md",
+    "thoughts/2023-11-29-Lab.md",
+    "thoughts/Pseudo rate order.md",
+    "thoughts/Eigenbasis.md",
     "thoughts/Dimension of an eigenspace.md",
     "thoughts/Diagonalizable matrices.md",
     "thoughts/Elementary reactions.md",
     "thoughts/Zero Order Reactions.md",
     "thoughts/Integrated Rate Law.md",
-    "thoughts/Eigenbasis.md",
     "thoughts/Diagonali.md",
     "attachments/Pasted image 20231128191246.png",
     "attachments/Pasted image 20231128191142.png",
     "thoughts/Steady State Approximation.md",
     "attachments/Pasted image 20231128183427.png",
-    "thoughts/Pseudo rate order.md",
     "thoughts/Description of LC cell project.md",
     "thoughts/Rate Laws.md",
     "thoughts/Chain reactions.md",
@@ -259,8 +214,6 @@
     "logs/2023-11-20 Lab.md",
     "logs/lab/2023-11-20 Lab.md",
     "thoughts/Elastic collisions.md",
-    "thoughts/Inelastic collisions.md",
-    "exhaust/Why RSI.md",
     "exah",
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
