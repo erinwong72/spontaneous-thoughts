@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/2023-11-29-Lab.md",
+                "file": "logs/2023-11-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/2023-11-29-Lab.md",
+                "file": "logs/2023-11-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/2023-11-29-Lab.md"
+                "file": "logs/2023-11-29.md"
               }
             }
           },
@@ -194,10 +193,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2af961391c8dacd0",
+  "active": "a5d05a8db83fcd2f",
   "lastOpenFiles": [
-    "logs/2023-11-29.md",
     "thoughts/2023-11-29-Lab.md",
+    "logs/2023-11-29.md",
     "logs/lab/2023-08-16 Lab.md",
     "thoughts/Pseudo rate order.md",
     "thoughts/Eigenbasis.md",
