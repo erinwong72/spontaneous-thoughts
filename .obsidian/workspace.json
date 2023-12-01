@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9996c8734302c98e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Constructing rate laws.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8278a937a484368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Steady State Approximation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Elementary reactions.md",
+                "file": "thoughts/Constructing rate laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Elementary reactions.md",
+                "file": "thoughts/Constructing rate laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Elementary reactions.md"
+                "file": "thoughts/Constructing rate laws.md"
               }
             }
           },
@@ -182,9 +206,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6fd8f7608519f9e3",
+  "active": "9996c8734302c98e",
   "lastOpenFiles": [
     "thoughts/Steady State Approximation.md",
+    "thoughts/Constructing rate laws.md",
     "thoughts/Elementary reactions.md",
     "thoughts/2023-11-29-Lab.md",
     "technical/charmm36 mdp parameters.md",
@@ -213,7 +238,6 @@
     "logs/2023-11-22.md",
     "logs/2023-11-21.md",
     "logs/2023-11-20.md",
-    "logs/2023-11-20 Lab.md",
     "exah",
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
