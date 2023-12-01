@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d24379ae6b6adf38",
+        "id": "777dbf809397bb56",
         "type": "tabs",
         "children": [
           {
-            "id": "470576f4eaafa006",
+            "id": "88ea73f7906acdac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/2023-11-29-Lab.md",
+                "file": "thoughts/Linear Transformations.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6fd8f7608519f9e3",
+            "id": "d6571f5097edb3a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Elementary reactions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9996c8734302c98e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Constructing rate laws.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8278a937a484368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/Steady State Approximation.md",
+                "file": "thoughts/Kernel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Constructing rate laws.md",
+                "file": "thoughts/Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Constructing rate laws.md",
+                "file": "thoughts/Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Constructing rate laws.md"
+                "file": "thoughts/Kernel.md"
               }
             }
           },
@@ -206,13 +182,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9996c8734302c98e",
+  "active": "d6571f5097edb3a6",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231130195552.png",
+    "thoughts/Linear Transformations.md",
+    "thoughts/Kernel.md",
     "thoughts/Steady State Approximation.md",
     "thoughts/Constructing rate laws.md",
     "thoughts/Elementary reactions.md",
     "thoughts/2023-11-29-Lab.md",
+    "attachments/Pasted image 20231130195552.png",
     "technical/charmm36 mdp parameters.md",
     "logs/2023-11-29.md",
     "logs/lab/2023-08-16 Lab.md",
@@ -237,7 +215,6 @@
     "thoughts/RSI Application.md",
     "thoughts/Mentor involvement with LC cell project.md",
     "logs/2023-11-22.md",
-    "logs/2023-11-21.md",
     "exah",
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
@@ -253,7 +230,6 @@
     "attachments/Divergence test.pdf",
     "exhaust",
     "attachments/Pasted image 20231119151144.png",
-    "attachments/Pasted image 20231119150901.png",
     "thoughts/American Revolution (1774-1787).canvas"
   ]
 }

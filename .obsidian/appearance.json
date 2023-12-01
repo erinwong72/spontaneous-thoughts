@@ -4,7 +4,7 @@
   "theme": "obsidian",
   "showViewHeader": false,
   "baseFontSize": 16,
-  "textFontFamily": "",
+  "textFontFamily": "Syne",
   "enabledCssSnippets": [
     "Checklist - Ultra compact",
     "Task Progressbars",
