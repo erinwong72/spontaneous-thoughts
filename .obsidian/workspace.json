@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Linear Transformations.md",
+                "file": "thoughts/2023-11-29-Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Kernel.md",
+                "file": "thoughts/2023-11-29-Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Kernel.md",
+                "file": "thoughts/2023-11-29-Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Kernel.md"
+                "file": "thoughts/2023-11-29-Lab.md"
               }
             }
           },
@@ -182,7 +181,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d6571f5097edb3a6",
+  "active": "88ea73f7906acdac",
   "lastOpenFiles": [
     "thoughts/Linear Transformations.md",
     "thoughts/Kernel.md",
