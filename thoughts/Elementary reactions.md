@@ -1,9 +1,11 @@
 # Elementary reactions
-They are classified based on their **molecularity**, with uni and bimolecular elementary reactions being the most common.
+They are classified based on their **molecularity**: number of particles needed to collide to produce the reaction, but ==different== from **order** of a reaction.
+- Uni and bimolecular elementary reactions being the most common.
 
 Just like any typical reaction, they are accompanied by reverse reactions to create a dynamic equilibrium in the reaction mechanism.
 
 ## Constructing [[Rate Laws]]
+Rate Laws can be *directly* constructed from elementary steps -- coefficients are exponents.
 
 Simplifications for constructing a rate law:
 [[Steady State Approximation]]
