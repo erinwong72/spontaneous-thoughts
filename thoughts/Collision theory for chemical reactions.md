@@ -16,8 +16,11 @@ The overall equation consists of two parts:
 3. **Steric factor** accounts for a preference for a certain relative orientation in the reaction
 
 >[!formula] Collision theory equation
->$$k = P \times \sigma v_{rel}N_{A}^{2} \times e^{\frac{-E_{a}}{RT}}$$
+>$$k = A \times e^{\frac{-E_{a}}{RT}}$$
+>- $A$: $p \cdot z$, p is steric factor, z is reaction rate → treat A like a constant
 
+Unsimplified form:
+$$k = P \times \sigma v_{rel}N_{A}^{2} \times e^{\frac{-E_{a}}{RT}}$$
 - Get rate of reaction by multiplying $[A][B]$ back on
 
 This explains [[Temperature effect on reactions]] as well as the nature of *endothermic* vs *exothermic* processes.

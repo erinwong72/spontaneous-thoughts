@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/2023-11-29-Lab.md",
+                "file": "thoughts/Collision theory for chemical reactions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d6571f5097edb3a6",
+            "id": "25698dd559421fd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Kernel.md",
+                "file": "thoughts/Temperature effect on reactions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fa6d0db4c4868961",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/2023-11-29-Lab.md",
+                "file": "thoughts/Temperature effect on reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/2023-11-29-Lab.md",
+                "file": "thoughts/Temperature effect on reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/2023-11-29-Lab.md"
+                "file": "thoughts/Temperature effect on reactions.md"
               }
             }
           },
@@ -181,14 +181,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "88ea73f7906acdac",
+  "active": "25698dd559421fd4",
   "lastOpenFiles": [
-    "thoughts/Linear Transformations.md",
+    "thoughts/Collision theory for chemical reactions.md",
+    "thoughts/Temperature effect on reactions.md",
+    "thoughts/Elementary reactions.md",
+    "thoughts/Harpoon mechanism of reaction.md",
+    "thoughts/2023-11-29-Lab.md",
     "thoughts/Kernel.md",
+    "thoughts/Linear Transformations.md",
     "thoughts/Steady State Approximation.md",
     "thoughts/Constructing rate laws.md",
-    "thoughts/Elementary reactions.md",
-    "thoughts/2023-11-29-Lab.md",
     "attachments/Pasted image 20231130195552.png",
     "technical/charmm36 mdp parameters.md",
     "logs/2023-11-29.md",
@@ -206,14 +209,11 @@
     "thoughts/Description of LC cell project.md",
     "thoughts/Rate Laws.md",
     "thoughts/Chain reactions.md",
-    "thoughts/Collision theory for chemical reactions.md",
     "attachments/Pasted image 20231128175649.png",
     "thoughts/Collisions.md",
     "logs/2023-11-28.md",
     "logs/2023-11-23.md",
     "thoughts/RSI Application.md",
-    "thoughts/Mentor involvement with LC cell project.md",
-    "logs/2023-11-22.md",
     "exah",
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",

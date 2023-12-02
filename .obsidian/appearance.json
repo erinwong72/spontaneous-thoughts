@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Vicious",
+  "cssTheme": "Shimmering Focus",
   "accentColor": "#97c4d3",
   "theme": "obsidian",
   "showViewHeader": false,
   "baseFontSize": 16,
-  "textFontFamily": "Syne",
+  "textFontFamily": "",
   "enabledCssSnippets": [
     "Checklist - Ultra compact",
     "Task Progressbars",
