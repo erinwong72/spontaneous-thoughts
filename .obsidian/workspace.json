@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Collision theory for chemical reactions.md",
+                "file": "thoughts/Transition state theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/atomic note.md",
+                "file": "thoughts/Transition state theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/atomic note.md",
+                "file": "thoughts/Transition state theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/atomic note.md"
+                "file": "thoughts/Transition state theory.md"
               }
             }
           },
@@ -168,10 +168,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ed61301d7f969333",
+  "active": "88ea73f7906acdac",
   "lastOpenFiles": [
-    "thoughts/Temperature effect on reactions.md",
     "thoughts/Collision theory for chemical reactions.md",
+    "thoughts/Temperature effect on reactions.md",
+    "templates/atomic note.md",
     "thoughts/Elementary reactions.md",
     "thoughts/Harpoon mechanism of reaction.md",
     "thoughts/2023-11-29-Lab.md",
@@ -200,7 +201,6 @@
     "thoughts/Collisions.md",
     "logs/2023-11-28.md",
     "logs/2023-11-23.md",
-    "thoughts/RSI Application.md",
     "exah",
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
