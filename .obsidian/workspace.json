@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Transition state theory.md",
+                "file": "thoughts/Diagonalizable matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Transition state theory.md",
+                "file": "thoughts/Diagonalizable matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Transition state theory.md",
+                "file": "thoughts/Diagonalizable matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Transition state theory.md"
+                "file": "thoughts/Diagonalizable matrices.md"
               }
             }
           },
@@ -170,6 +170,10 @@
   },
   "active": "88ea73f7906acdac",
   "lastOpenFiles": [
+    "thoughts/Dimension of an eigenspace.md",
+    "thoughts/Diagonalizable matrices.md",
+    "thoughts/Linear Transformations.md",
+    "thoughts/Transition state theory.md",
     "thoughts/Collision theory for chemical reactions.md",
     "thoughts/Temperature effect on reactions.md",
     "templates/atomic note.md",
@@ -177,7 +181,6 @@
     "thoughts/Harpoon mechanism of reaction.md",
     "thoughts/2023-11-29-Lab.md",
     "thoughts/Kernel.md",
-    "thoughts/Linear Transformations.md",
     "thoughts/Steady State Approximation.md",
     "thoughts/Constructing rate laws.md",
     "attachments/Pasted image 20231130195552.png",
@@ -186,8 +189,6 @@
     "logs/lab/2023-08-16 Lab.md",
     "thoughts/Pseudo rate order.md",
     "thoughts/Eigenbasis.md",
-    "thoughts/Dimension of an eigenspace.md",
-    "thoughts/Diagonalizable matrices.md",
     "thoughts/Zero Order Reactions.md",
     "thoughts/Integrated Rate Law.md",
     "thoughts/Diagonali.md",
@@ -200,7 +201,6 @@
     "attachments/Pasted image 20231128175649.png",
     "thoughts/Collisions.md",
     "logs/2023-11-28.md",
-    "logs/2023-11-23.md",
     "exah",
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
