@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Collision theory for chemical reactions.md",
+                "file": "thoughts/Impulse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Collision theory for chemical reactions.md",
+                "file": "thoughts/Impulse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Collision theory for chemical reactions.md",
+                "file": "thoughts/Impulse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Collision theory for chemical reactions.md"
+                "file": "thoughts/Impulse.md"
               }
             }
           },
@@ -163,16 +163,22 @@
       "command-palette:Open command palette": true,
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "88ea73f7906acdac",
   "lastOpenFiles": [
+    "thoughts/Elastic collisions.md",
+    "thoughts/Inelastic collisions.md",
+    "thoughts/Collisions.md",
+    "thoughts/Momentum.md",
+    "thoughts/Collision theory for chemical reactions.md",
     "thoughts/Diagonalizable matrices.md",
     "thoughts/Dimension of an eigenspace.md",
     "thoughts/Linear Transformations.md",
     "thoughts/Transition state theory.md",
-    "thoughts/Collision theory for chemical reactions.md",
     "thoughts/Temperature effect on reactions.md",
     "templates/atomic note.md",
     "thoughts/Elementary reactions.md",
@@ -194,11 +200,7 @@
     "attachments/Pasted image 20231128191142.png",
     "attachments/Pasted image 20231128183427.png",
     "thoughts/Description of LC cell project.md",
-    "thoughts/Rate Laws.md",
-    "thoughts/Chain reactions.md",
     "attachments/Pasted image 20231128175649.png",
-    "thoughts/Collisions.md",
-    "logs/2023-11-28.md",
     "exah",
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
