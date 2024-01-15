@@ -164,8 +164,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "handwritten-notes:Create empty handwritten note": false,
-      "omnisearch:Omnisearch": false
+      "handwritten-notes:Create empty handwritten note": false
     }
   },
   "active": "88ea73f7906acdac",
