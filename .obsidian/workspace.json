@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/AlphaFold.md",
+                "file": "thoughts/Energy-band structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/AlphaFold.md",
+                "file": "thoughts/Energy-band structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/AlphaFold.md",
+                "file": "thoughts/Energy-band structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/AlphaFold.md"
+                "file": "thoughts/Energy-band structure.md"
               }
             }
           },
@@ -170,11 +170,15 @@
   },
   "active": "88ea73f7906acdac",
   "lastOpenFiles": [
-    "attachments/s41586-021-03819-2.pdf",
-    "thoughts/AlphaFold.md",
+    "thoughts/Elliptic contact function.md",
+    "thoughts/Elementary reactions.md",
+    "thoughts/Ellipsoid Interactions (Potentials).md",
     "thoughts/AlphaFold Journal Club Speaker Notes.md",
-    "thoughts/Impulse.md",
+    "thoughts/AlphaFold.md",
     "thoughts/Elastic collisions.md",
+    "thoughts/Eigenbasis.md",
+    "attachments/s41586-021-03819-2.pdf",
+    "thoughts/Impulse.md",
     "thoughts/Inelastic collisions.md",
     "thoughts/Collisions.md",
     "thoughts/Momentum.md",
@@ -185,7 +189,6 @@
     "thoughts/Transition state theory.md",
     "thoughts/Temperature effect on reactions.md",
     "templates/atomic note.md",
-    "thoughts/Elementary reactions.md",
     "thoughts/Harpoon mechanism of reaction.md",
     "thoughts/2023-11-29-Lab.md",
     "thoughts/Kernel.md",
@@ -195,8 +198,6 @@
     "technical/charmm36 mdp parameters.md",
     "logs/2023-11-29.md",
     "logs/lab/2023-08-16 Lab.md",
-    "thoughts/Pseudo rate order.md",
-    "thoughts/Eigenbasis.md",
     "attachments/Pasted image 20231128191246.png",
     "attachments/Pasted image 20231128191142.png",
     "attachments/Pasted image 20231128183427.png",
@@ -214,7 +215,6 @@
     "attachments/Center of mass example.pdf",
     "attachments/Proof of divergence test.pdf",
     "attachments/Divergence test.pdf",
-    "exhaust",
     "attachments/Pasted image 20231119151144.png",
     "thoughts/American Revolution (1774-1787).canvas"
   ]
