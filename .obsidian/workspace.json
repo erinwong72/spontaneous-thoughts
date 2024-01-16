@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/Energy-band structure.md",
+                "file": "logs/lab/2023-11-20 Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/Energy-band structure.md",
+                "file": "logs/lab/2023-11-20 Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/Energy-band structure.md",
+                "file": "logs/lab/2023-11-20 Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/Energy-band structure.md"
+                "file": "logs/lab/2023-11-20 Lab.md"
               }
             }
           },
@@ -170,6 +170,13 @@
   },
   "active": "88ea73f7906acdac",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231120204534.png",
+    "logs/lab/2023-11-20 Lab.md",
+    "attachments/Screenshot 2023-11-20 at 8.36.47 PM.png",
+    "logs/2023-11-28.md",
+    "logs/2023-11-29.md",
+    "thoughts/2023-11-29-Lab.md",
+    "thoughts/Energy-band structure.md",
     "thoughts/Elliptic contact function.md",
     "thoughts/Elementary reactions.md",
     "thoughts/Ellipsoid Interactions (Potentials).md",
@@ -190,14 +197,8 @@
     "thoughts/Temperature effect on reactions.md",
     "templates/atomic note.md",
     "thoughts/Harpoon mechanism of reaction.md",
-    "thoughts/2023-11-29-Lab.md",
     "thoughts/Kernel.md",
-    "thoughts/Steady State Approximation.md",
-    "thoughts/Constructing rate laws.md",
     "attachments/Pasted image 20231130195552.png",
-    "technical/charmm36 mdp parameters.md",
-    "logs/2023-11-29.md",
-    "logs/lab/2023-08-16 Lab.md",
     "attachments/Pasted image 20231128191246.png",
     "attachments/Pasted image 20231128191142.png",
     "attachments/Pasted image 20231128183427.png",
@@ -206,8 +207,6 @@
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
     "attachments/Screenshot 2023-11-21 at 7.30.00 AM.png",
-    "attachments/Pasted image 20231120204534.png",
-    "attachments/Screenshot 2023-11-20 at 8.36.47 PM.png",
     "attachments/Pasted image 20231120190021.png",
     "attachments/Inelastic collisions example.pdf",
     "attachments/Impulse example.pdf",
