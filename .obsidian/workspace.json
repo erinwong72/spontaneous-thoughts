@@ -160,12 +160,7 @@
       "templates:Insert template": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": true,
-      "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "handwritten-notes:Create empty handwritten note": false,
-      "omnisearch:Omnisearch": false
+      "command-palette:Open command palette": true
     }
   },
   "active": "88ea73f7906acdac",
