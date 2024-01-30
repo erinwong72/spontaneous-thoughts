@@ -13,9 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/lab/2023-11-20 Lab.md",
+                "file": "logs/lab/2023-09-24 Lab.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b86c4cae2bb4fa70",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Note (20).png"
+              }
+            }
+          },
+          {
+            "id": "d314122b28b58573",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Glomeruli Predictor Architecture.png"
               }
             }
           }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logs/lab/2023-11-20 Lab.md",
+                "file": "logs/lab/2023-09-24 Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logs/lab/2023-11-20 Lab.md",
+                "file": "logs/lab/2023-09-24 Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logs/lab/2023-11-20 Lab.md"
+                "file": "logs/lab/2023-09-24 Lab.md"
               }
             }
           },
@@ -162,48 +182,51 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": true,
       "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "88ea73f7906acdac",
   "lastOpenFiles": [
-    "logs/2023-07-26.md",
-    "logs/lab/2023-10-12 Lab.md",
-    "logs/lab/2023-11-20 Lab.md",
-    "logs/lab/2023-10-11 Lab.md",
+    "logs/lab/2023-08-29 Lab.md",
+    "logs/lab/2023-08-26 Lab.md",
+    "logs/lab/2023-09-24 Lab.md",
+    "logs/lab/2023-08-25 Lab.md",
+    "logs/lab/2023-08-24 Lab.md",
+    "logs/lab/2023-08-23 Lab.md",
+    "logs/lab/2023-08-22 Lab.md",
+    "logs/lab/2023-08-18 Lab.md",
     "logs/lab/2023-08-17 Lab.md",
-    "technical/Writing an equilibration config file.md",
-    "technical/Writing an energy minimization config file.md",
-    "technical/Viewing loss and metrics during training using train_on_batch.md",
-    "technical/Using jupyter notebooks on HPC.md",
-    "technical/Lysozyme in water GROMACS tutorial.md",
-    "technical/Loading External Force Field to GROMACS.md",
-    "technical/Installing tensorflow with gpu.md",
-    "technical/GROMACS on Seawulf.md",
-    "technical/grompp module.md",
-    "technical/Github branch navigation.md",
-    "logs/lab/2023-08-02 Lab.md",
     "logs/lab/2023-08-16 Lab.md",
+    "logs/lab/2023-08-15 Lab.md",
+    "logs/lab/2023-08-14 Lab.md",
+    "logs/lab/2023-08-13 Lab.md",
     "logs/lab/2023-08-10 Lab.md",
     "logs/lab/2023-08-09 Lab.md",
     "logs/lab/2023-08-08 Lab.md",
+    "attachments/Glomeruli Predictor Architecture.png",
+    "attachments/Note (20).png",
     "logs/lab/2023-08-07 Lab.md",
     "logs/lab/2023-08-06 Lab.md",
     "logs/lab/2023-08-05 Lab.md",
+    "logs/lab/2023-08-04 Lab.md",
+    "logs/lab/2023-08-03 Lab.md",
+    "logs/lab/2023-08-02 Lab.md",
+    "logs/lab/2023-08-01 Lab.md",
+    "logs/lab/2023-07-31 Lab.md",
+    "logs/lab/2023-07-30 Lab.md",
+    "logs/lab/2023-07-28 Lab.md",
     "attachments/Pasted image 20230805184430.png",
     "attachments/Pasted image 20230805173203.png",
     "attachments/Screenshot 2023-08-05 at 4.11.21 PM.png",
-    "logs/lab/2023-08-04 Lab.md",
     "attachments/Pasted image 20230804152006.png",
     "attachments/Screenshot 2023-08-04 at 10.56.47 AM.png",
-    "logs/lab/2023-08-03 Lab.md",
-    "logs/lab/2023-08-01 Lab.md",
     "attachments/Pasted image 20231120204534.png",
     "attachments/Screenshot 2023-11-20 at 8.36.47 PM.png",
     "attachments/s41586-021-03819-2.pdf",
     "attachments/Pasted image 20231130195552.png",
-    "attachments/Pasted image 20231128191246.png",
-    "attachments/Pasted image 20231128191142.png",
     "exah",
     "attachments/Some random electric potential example.pdf",
     "attachments/Ratio test example.pdf",
